@@ -1,0 +1,108 @@
+ID,FAMILY,GLOTTOCODE,ID,ISO_CODE,JSONDATA,LATITUDE,LONGITUDE,MARKUP_DESCRIPTION,NAME,PK,SUBFAMILY
+,Uralic,finn1318,fin,fin,{},61.0,24.45,,Finnish,1,Finnic
+,Uralic,kare1335,krl,krl,{},65.1691,30.8655,,North Karelian,2,Finnic
+,Uralic,livv1243,olo,olo,{},61.0,33.0,,Olonets Karelian,3,Finnic
+,Uralic,veps1250,vep,vep,{},60.3353,34.7865,,Veps,4,Finnic
+,Uralic,esto1258,ekk,ekk,{},59.25,24.75,,Estonian,5,Finnic
+,Uralic,livv1244,liv,liv,{},57.566,22.0262,,Livonian,6,Finnic
+,Uralic,sout2674,sma,sma,{},64.25,12.6,,Southern Sami,7,Saami
+,Uralic,lule1254,smj,smj,{},67.2759,17.8057,,Lule Sami,8,Saami
+,Uralic,nort2671,sme,sme,{},68.725,22.1113,,Northern Sami,9,Saami
+,Uralic,inar1241,smn,smn,{},69.4229,27.8658,,Inari Sami,10,Saami
+,Uralic,skol1241,sms,sms,{},68.8326,29.7204,,Skolt Sami,11,Saami
+,Uralic,kild1236,sjd,sjd,{},68.2158,35.8348,,Kildin Sami,12,Saami
+,Uralic,west2392,mrj,mrj,{},56.33,46.33,,Hill Mari,13,Mari
+,Uralic,east2328,mhr,mhr,{},57.0,49.5,,Meadow Mari,14,Mari
+,Uralic,moks1248,mdf,mdf,{},54.1855,42.6728,,Moksha,15,Mordvin
+,Uralic,erzy1239,myv,myv,{},53.0,45.5,,Erzya,16,Mordvin
+,Uralic,udmu1245,udm,udm,{},56.12921,52.63548,,Udmurt,17,Permian
+,Uralic,komi1269,koi,koi,{},59.6602,54.7959,,Komi-Permyak,18,Permian
+,Uralic,komi1268,kpv,kpv,{},64.0527,54.946,,Komi-Zyrian,19,Permian
+,Uralic,hung1274,hun,hun,{},46.9068585714,19.6555271429,,Hungarian,20,Hungarian
+,Uralic,khan1273,kca,kca,{},62.4308,66.1218,,Northern Khanty,21,Khantyic
+,Uralic,mans1258,mns,mns,{},64.4118,61.344,,Northern Mansi,22,Mansic
+,Uralic,selk1253,sel,sel,{},59.9409,82.3004,,Northern Selkup,23,Samoyedic
+,Uralic,nene1249,yrk,yrk,{},66.1775,71.0234,,Tundra Nenets,24,Samoyedic
+,Uralic,fore1265,enf,enf,{},69.9829,88.2121,,Forest Enets,25,Samoyedic
+,Uralic,ngan1291,nio,nio,{},73.1354,86.2106,,Nganasan,26,Samoyedic
+,Indo-European,beng1280,ben,ben,{},24.0,90.0,,Bengali,27,Indo-Aryan
+,Indo-European,hind1269,hin,hin,{},27.2,78.0,,Hindi,28,Indo-Aryan
+,Indo-European,nort2646,pbu,pbu,{},32.1,67.2,,Northern Pashto,29,Iranian
+,Indo-European,west2369,pes,pes,{},28.6593,55.1586,,Western Farsi,30,Iranian
+,Indo-European,nort2641,kmr,kmr,{},37.0,43.0,,Northern Kurdish,31,Iranian
+,Indo-European,osse1243,oss,oss,{},43.18,44.23,,Ossetian,32,Iranian
+,Indo-European,nucl1235,hye,hye,{},40.0,45.0,,Armenian,33,Armenic
+,Indo-European,mode1248,ell,ell,{},38.0,23.75,,Modern Greek,34,Graeco-Phrygian
+,Indo-European,alba1267,sqi,sqi,{},41.33,19.85,,Standard Albanian,35,Albanian
+,Indo-European,bulg1262,bul,bul,{},42.7,23.8,,Bulgarian,36,Balto-Slavic
+,Indo-European,croa1245,hrv,hrv,{},45.2006,16.826,,Croatian,37,Balto-Slavic
+,Indo-European,slov1268,slv,slv,{},46.2543,14.7766,,Slovene,38,Balto-Slavic
+,Indo-European,slov1269,slk,slk,{},48.545705,18.78479,,Slovak,39,Balto-Slavic
+,Indo-European,czec1258,ces,ces,{},49.873398,15.10437,,Czech,40,Balto-Slavic
+,Indo-European,poli1260,pol,pol,{},51.8439,18.6255,,Polish,41,Balto-Slavic
+,Indo-European,ukra1253,ukr,ukr,{},50.25,28.65,,Ukrainian,42,Balto-Slavic
+,Indo-European,bela1254,bel,bel,{},53.2307,25.6038,,Belarusian,43,Balto-Slavic
+,Indo-European,russ1263,rus,rus,{},57.6,39.8,,Russian,44,Balto-Slavic
+,Indo-European,lith1251,lit,lit,{},55.1429,23.9601,,Lithuanian,45,Balto-Slavic
+,Indo-European,latv1249,lav,lav,{},56.826108,24.309118,,Latvian,46,Balto-Slavic
+,Indo-European,icel1247,isl,isl,{},63.4837,-19.0212,,Icelandic,47,Germanic
+,Indo-European,norw1258,nor,nor,{},59.92,10.71,,Norwegian (Bokmål),48,Germanic
+,Indo-European,swed1254,swe,swe,{},59.800634,17.389526,,Swedish,49,Germanic
+,Indo-European,dani1285,dan,dan,{},55.6,12.5,,Danish,50,Germanic
+,Indo-European,stan1295,deu,deu,{},52.27,10.5,,German,51,Germanic
+,Indo-European,dutc1256,nld,nld,{},52.0,5.0,,Dutch,52,Germanic
+,Indo-European,stan1293,eng,eng,{},53.0,-1.0,,English,53,Germanic
+,Indo-European,iris1253,gle,gle,{},53.2186,-7.61509,,Irish,54,Celtic
+,Indo-European,wels1247,cym,cym,{},52.0,-4.0,,Welsh,55,Celtic
+,Indo-European,bret1244,bre,bre,{},48.2452,-3.78934,,Breton,56,Celtic
+,Indo-European,lati1261,lat,lat,{},41.9026,12.4502,,Latin,57,Italic
+,Indo-European,stan1290,fra,fra,{},48.0,2.0,,French,58,Italic
+,Indo-European,stan1289,cat,cat,{},41.453,1.569,,Catalan,59,Italic
+,Indo-European,stan1288,spa,spa,{},42.25,-3.7,,Spanish,60,Italic
+,Indo-European,port1283,por,por,{},39.91,-8.1,,Portuguese,61,Italic
+,Indo-European,ital1282,ita,ita,{},43.0464,12.6489,,Italian,62,Italic
+,Indo-European,roma1327,ron,ron,{},46.3913,24.2256,,Romanian,63,Italic
+,Turkic,nucl1301,tur,tur,{},39.8667,32.8667,,Turkish,64,West Oghuz
+,Turkic,nort2697,azj,azj,{},40.4,49.6,,North Azerbaijani,65,West Oghuz
+,Turkic,nort2690,uzn,uzn,{},39.65,67.0,,Northern Uzbek,66,Uzbek
+,Turkic,kaza1248,kaz,kaz,{},49.8,73.15,,Kazakh,67,Kipchak
+,Turkic,bash1264,bak,bak,{},53.5967,56.5594,,Bashkir,68,Kipchak
+,Turkic,tata1255,tat,tat,{},55.0,50.0,,Tatar,69,Kipchak
+,Turkic,yaku1245,sah,sah,{},62.0,130.0,,Sakha,70,North Siberian Turkic
+,Turkic,chuv1255,chv,chv,{},55.487,47.163,,Chuvash,71,Bolgar
+,Mongolic,halh1238,khk,khk,{},48.324,106.289,,Khalkha Mongolian,72,Eastern Mongolic
+,Mongolic,buri1258,bua,bua,{},51.83,107.6,,Buryat,73,Eastern Mongolic
+,Mongolic,kalm1243,xal,xal,{},46.566667,45.316667,,Kalmyk,74,Eastern Mongolic
+,Tungusic,even1259,evn,evn,{},65.75,105.3,,Evenki,75,Northern Tungusic
+,Tungusic,manc1252,mnc,mnc,{},47.3122,126.557,,Manchu,76,Manchu-Jurchen
+,Tungusic,nana1257,gld,gld,{},48.4343,134.797,,Nanai,77,Central Tungusic
+,Yeniseian,kett1243,ket,ket,{},63.7551,87.5466,,Ket,78,Northern Yeniseian
+,Yukaghir,nort2745,ykg,ykg,{},69.0,155.0,,Northern Yukaghir,79,Northern Yukaghir
+,Yukaghir,sout2750,yux,yux,{},65.75,150.83,,Southern Yukaghir,80,Kolymic
+,Chukotko-Kamchatkan,itel1242,itl,itl,{},56.7798,156.906,,Itelmen,81,Itelmen
+,Chukotko-Kamchatkan,chuk1273,ckt,ckt,{},68.6436,170.045,,Chukchi,82,Chukotian
+,Nivkh,gily1242,niv,niv,{},52.59,140.681,,Nivkh,83,Nivkh
+,Ainu,ainu1240,ain,ain,{},43.633654,142.46167,,Hokkaido Ainu,84,Hokkaido-Kuril Ainu
+,Koreanic,kore1280,kor,kor,{},37.5,128.0,,Korean,85,Korean
+,Japonic,nucl1643,jpn,jpn,{},35.0,135.0,,Japanese,86,Japanesic
+,Eskimo-Aleut,aleu1260,ale,ale,{},52.1228,-174.29,,Aleut,87,Aleut
+,Eskimo-Aleut,cent2128,ess,ess,{},63.4308,-170.272,,Central Siberian Yupik,88,Eskimo
+,Eskimo-Aleut,kala1399,kal,kal,{},69.3761,-52.864,,Kalaallisut,89,Eskimo
+,Dravidian,nucl1305,kan,kan,{},13.5878,76.1198,,Kannada,90,South Dravidian
+,Dravidian,mala1464,mal,mal,{},9.59208,76.7651,,Malayalam,91,South Dravidian
+,Dravidian,tami1289,tam,tam,{},10.520219,78.825989,,Tamil,92,South Dravidian
+,Dravidian,telu1262,tel,tel,{},16.4529,78.7024,,Telugu,93,South Dravidian
+,Burushaski,buru1296,bsk,bsk,{},36.2161,74.8236,,Burushaski,94,Burushaski
+,Kartvelian,nucl1302,kat,kat,{},41.850397,43.78613,,Georgian,95,Georgian-Zan
+,Basque,basq1248,eus,eus,{},43.2787,-1.31622,,Basque,96,Basque
+,Abkhaz-Adyge,abkh1244,abk,abk,{},43.056218,41.159115,,Abkhaz,97,Abkhaz-Abaza
+,Abkhaz-Adyge,adyg1241,ady,ady,{},44.65,40.0,,Adyghe,98,Circassian
+,Nakh-Daghestanian,avar1256,ava,ava,{},41.7047,46.558,,Avar,99,Daghestanian
+,Nakh-Daghestanian,dido1241,ddo,ddo,{},42.2646,45.8096,,Tsez,100,Daghestanian
+,Nakh-Daghestanian,lakk1252,lbe,lbe,{},42.1328,47.0809,,Lak,101,Daghestanian
+,Nakh-Daghestanian,lezg1247,lez,lez,{},41.5157,47.8951,,Lezgian,102,Daghestanian
+,Nakh-Daghestanian,darg1241,dar,dar,{},42.4257,47.4388,,Dargwa,103,Daghestanian
+,Nakh-Daghestanian,chec1245,che,che,{},43.5,45.5,,Chechen,104,Nakh
+,Afro-Asiatic,stan1318,arb,arb,{},27.9625,43.8525,,Standard Arabic,105,Semitic
+,Afro-Asiatic,hebr1245,heb,heb,{},31.1056,35.0179,,Modern Hebrew,106,Semitic
+,Sino-Tibetan,mand1415,cmn,cmn,{},40.0209,116.228,,Mandarin Chinese,107,Sinitic
