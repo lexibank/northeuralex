@@ -5,6 +5,7 @@ from clldutils.dsv import NamedTupleReader
 import attr
 
 from clldutils.path import Path
+from clldutils.misc import slug
 from pylexibank.dataset import Metadata, Lexeme
 from pylexibank.dataset import Dataset as BaseDataset
 
@@ -37,25 +38,27 @@ class Dataset(BaseDataset):
         ccode = {x.attributes['nelex_id']: x.concepticon_id for x in
                  self.conceptlist.concepts.values()}
 
-        tk = self.get_tokenizer()
         with self.cldf as ds, NamedTupleReader(
                 self.raw.posix('nelex.tsv'), delimiter="\t") as reader:
             ds.add_sources(*self.raw.read_bib())
 
             for row in pb(reader, desc="installing northeuralex"):
+                cid = row.Concept_ID.replace(':', '_').replace('[', '-').replace(']', '-') if row.Concept_ID else None
+                cid = slug(cid, lowercase=False)
                 if row.rawIPA:
                     ds.add_language(
                         ID=row.Language_ID,
-                        name=row.Language_ID,
-                        glottocode=row.Glottocode)
+                        Name=row.Language_ID,
+                        Glottocode=row.Glottocode)
                     ds.add_concept(
-                        ID=row.Concept_ID,
-                        gloss=row.Concept_ID,
-                        conceptset=ccode[row.Concept_ID])
+                        ID=cid,
+                        Name=row.Concept_ID,
+                        Concepticon_ID=ccode[row.Concept_ID])
                     ds.add_lexemes(
                         Language_ID=row.Language_ID,
-                        Parameter_ID=row.Concept_ID,
+                        Parameter_ID=cid,
                         Value=row.rawIPA,
                         Orthography=row.Word_Form,
                         Source=[],
-                        Segments=tk(row.rawIPA, 'IPA'))
+                        Segments=self.tokenizer(None, row.rawIPA, column='IPA'))
+

@@ -15,16 +15,18 @@ Available online at http://www.northeuralex.org
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![LingPy: 100%](https://img.shields.io/badge/LingPy-100%25-brightgreen.svg "LingPy: 100%")
+![CLPA: 23%](https://img.shields.io/badge/CLPA-23%25-red.svg "CLPA: 23%")
 
 - **Varieties:** 107
 - **Concepts:** 1,015
 - **Lexemes:** 121,612
 - **Synonymy:** 1.15
 - **Cognacy:** 0 cognates in 0 cognate sets
-- **Invalid lexemes:** 121,612
-- **Tokens:** 0
-- **Segments:** 0 (0 LingPy errors, 0 CLPA errors, 0 CLPA modified)
-- **Inventory size (avg):** 0.00
+- **Invalid lexemes:** 5
+- **Tokens:** 694,680
+- **Segments:** 1,456 (2 LingPy errors, 1120 CLPA errors, 167 CLPA modified)
+- **Inventory size (avg):** 72.13
 
 ## Possible Improvements:
 
