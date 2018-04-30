@@ -40,7 +40,7 @@ class Dataset(BaseDataset):
 
         with self.cldf as ds, NamedTupleReader(
                 self.raw.posix('nelex.tsv'), delimiter="\t") as reader:
-            ds.add_sources(*self.raw.read_bib())
+            ds.add_sources(self.raw.read('sources.bib'))
 
             for row in pb(reader, desc="installing northeuralex"):
                 cid = row.Concept_ID.replace(':', '_').replace('[', '-').replace(']', '-') if row.Concept_ID else None
