@@ -5,24 +5,24 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 51701 | ✓ | ✓ |
-| i | 34588 | ✓ | ✓ |
-| t | 29374 | ✓ | ✓ |
+| a | 51698 | ✓ | ✓ |
+| i | 34587 | ✓ | ✓ |
+| t | 29370 | ✓ | ✓ |
 | n | 28987 | ✓ | ✓ |
 | k | 26208 | ✓ | ✓ |
-| r | 25559 | ✓ | ✓ |
+| r | 25558 | ✓ | ✓ |
 | u | 24506 | ✓ | ✓ |
 | l | 21692 | ✓ | ✓ |
-| s | 20600 | ✓ | ✓ |
+| s | 20596 | ✓ | ✓ |
 | m | 20318 | ✓ | ✓ |
 | ə | 20223 | ✓ | ✓ |
 | ɑ | 19530 | ✓ | ✓ |
 | ɛ | 18341 | ✓ | ✓ |
-| e | 18311 | ✓ | ✓ |
-| d | 14331 | ✓ | ✓ |
+| e | 18309 | ✓ | ✓ |
+| d | 14329 | ✓ | ✓ |
 | j | 14296 | ✓ | ✓ |
 | p | 14164 | ✓ | ✓ |
-| o | 13909 | ✓ | ✓ |
+| o | 13907 | ✓ | ✓ |
 | ɔ | 10842 | ✓ | ✓ |
 | b | 10473 | ✓ | ✓ |
 | ɡ | 10085 | ✓ | ✓ |
@@ -44,15 +44,15 @@
 | iː | 3681 | ✓ | ✓ |
 | ɐ | 3190 | ✓ | ✓ |
 | f | 3114 | ✓ | ✓ |
-| w | 3051 | ✓ | ✓ |
+| w | 3050 | ✓ | ✓ |
 | ʌ | 2957 | ✓ | ✓ |
 | χ | 2845 | ✓ | ✓ |
-| eː | 2789 | ✓ | ✓ |
+| eː | 2791 | ✓ | ✓ |
 | ɯ | 2710 | ✓ | ✓ |
 | ʁ | 2598 | ✓ | ✓ |
 | ɣ | 2557 | ✓ | ✓ |
 | y | 2471 | ✓ | ✓ |
-| t͡s | 2442 | ✓ | ✓ |
+| t͡s | 2443 | ✓ | ✓ |
 | uː | 2214 | ✓ | ✓ |
 | t͡ɕ | 2142 | ✓ | ✓ |
 | oː | 1949 | ✓ | ✓ |
@@ -87,7 +87,7 @@
 | œ | 871 | ✓ | ✓ |
 | ʏ | 856 | ✓ | ✓ |
 | i̯ | 837 | ✓ | ✓ |
-| rʲ | 827 | ✓ | ✓ |
+| rʲ | 828 | ✓ | ✓ |
 | kʰ | 826 | ✓ | ✓ |
 | n̪ | 780 | ✓ | ✓ |
 | ä | 751 | ✓ | ? |
@@ -106,7 +106,7 @@
 | ɑˑ | 634 | ✓ | ✓ |
 | ɮ | 617 | ✓ | ✓ |
 | kʼ | 611 | ✓ | ✓ |
-| t͡sʲ | 596 | ✓ | ✓ |
+| t͡sʲ | 599 | ✓ | ✓ |
 | ʀ | 593 | ✓ | ✓ |
 | ʉ | 592 | ✓ | ✓ |
 | mʲ | 568 | ✓ | ✓ |
@@ -130,8 +130,8 @@
 | ˈl | 436 | ✓ | ✓ |
 | o̞ | 435 | ✓ | ✓ |
 | rː | 425 | ✓ | ✓ |
+| ă | 411 | ✓ | ✓ |
 | yː | 411 | ✓ | ✓ |
-| ă | 410 | ✓ | ✓ |
 | pʰ | 403 | ✓ | ✓ |
 | dh | 400 | ✓ | ✓ |
 | ɔː | 400 | ✓ | ✓ |
@@ -282,7 +282,6 @@
 | ɕː | 91 | ✓ | ✓ |
 | ˈʁ | 91 | ✓ | ✓ |
 | cː | 90 | ✓ | ✓ |
-| � | 90 | ? | ? |
 | ɐʲ | 89 | ? | ? |
 | ʊ̃ | 89 | ✓ | ✓ |
 | îː | 86 | ✓ | ✓ |
@@ -295,9 +294,9 @@
 | ɬː | 83 | ✓ | ✓ |
 | χs | 81 | ? | ? |
 | t͡ɬʼ | 80 | ✓ | ✓ |
+| w̜ | 80 | ? | ? |
 | ʉː | 80 | ✓ | ✓ |
 | t͡sˀ | 79 | ✓ | ✓ |
-| w̜ | 79 | ? | ? |
 | ɔ̂ | 79 | ✓ | ✓ |
 | ɵ̆ | 79 | ✓ | ✓ |
 | ãː | 78 | ✓ | ✓ |
@@ -312,6 +311,7 @@
 | ʡ | 74 | ✓ | ✓ |
 | mˠ | 73 | ✓ | ✓ |
 | ɔːˀ | 73 | ✓ | ✓ |
+| � | 73 | ? | ? |
 | a͡ɔ | 72 | ✓ | ✓ |
 | qˀ | 72 | ✓ | ✓ |
 | ʈ͡ʂʰ | 72 | ✓ | ✓ |
@@ -479,13 +479,13 @@
 | ˈɑ | 32 | ✓ | ✓ |
 | ˈʂ | 32 | ✓ | ✓ |
 | äs | 31 | ? | ? |
+| dd | 31 | ✓ | ✓ |
 | ksʲ | 31 | ✓ | ✓ |
 | tw | 31 | ? | ? |
 | t̚ | 31 | ✓ | ✓ |
 | vv | 31 | ? | ? |
 | ə̂ | 31 | ✓ | ✓ |
 | ɺ | 31 | ✓ | ✓ |
-| dd | 30 | ✓ | ✓ |
 | êˑ | 30 | ✓ | ✓ |
 | ĩ̟ | 30 | ✓ | ✓ |
 | kʰs | 30 | ✓ | ✓ |
@@ -957,6 +957,7 @@
 | ʐː | 5 | ✓ | ✓ |
 | ʔw | 5 | ? | ? |
 | ʔɕ | 5 | ✓ | ✓ |
+| ʲo | 5 | ? | ? |
 | ˈõ | 5 | ✓ | ✓ |
 | ˈpʼ | 5 | ✓ | ✓ |
 | ˈɒ | 5 | ✓ | ✓ |
@@ -980,6 +981,7 @@
 | fʂ | 4 | ? | ? |
 | îːs | 4 | ? | ? |
 | ī | 4 | ✓ | ✓ |
+| ĭ | 4 | ✓ | ✓ |
 | jsː | 4 | ? | ? |
 | kʒ | 4 | ✓ | ✓ |
 | kʰː | 4 | ✓ | ✓ |
@@ -1054,7 +1056,6 @@
 | êːs | 3 | ? | ? |
 | ĕs | 3 | ? | ? |
 | îɕ | 3 | ? | ? |
-| ĭ | 3 | ✓ | ✓ |
 | ǐs | 3 | ? | ? |
 | ĵ̌ | 3 | ? | ? |
 | kss | 3 | ? | ? |
@@ -1115,7 +1116,7 @@
 | ʎh | 3 | ? | ? |
 | ʎs | 3 | ? | ? |
 | ʔʃ | 3 | ✓ | ✓ |
-| ʲo | 3 | ? | ? |
+| ʲa | 3 | ? | ? |
 | ʷk | 3 | ✓ | ✓ |
 | ˈd̪ˠ | 3 | ✓ | ✓ |
 | ˈeːˀ | 3 | ✓ | ✓ |
@@ -1583,7 +1584,6 @@
 | ʝsː | 1 | ? | ? |
 | ʝʲsʲ | 1 | ? | ? |
 | ʰɛ | 1 | ? | ? |
-| ʲa | 1 | ? | ? |
 | ʷaː | 1 | ? | ? |
 | ʷi | 1 | ? | ? |
 | ʷqs | 1 | ✓ | ✓ |
@@ -1655,107 +1655,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|-----:|:-----------|:---------------|:-------------------|:-----------------------------------------|
-| 1094 | fin | argernV | ærsʏtːæː | æ <s> rs </s> ʏ tː æː |
-| 1104 | fin | tauschenV | hɑrhɑwtːɑː | h ɑ <s> rh </s> ɑ w tː ɑː |
-| 1161 | fin | prahlenV | kɛrskɑi̯lːɑ | k ɛ <s> rs </s> k ɑ i̯ lː ɑ |
-| 1218 | krl | ArmN | kæsivɑrsi | k æ s i v ɑ <s> rs </s> i |
-| 1272 | krl | NebelN | huːvvɛh | h uː <s> vv </s> ɛ h |
-| 1367 | krl | EnteN | sɔrsɑ | s ɔ <s> rs </s> ɑ |
-| 1395 | krl | FalleN | pyyvvys | p yy <s> vv </s> y s |
-| 144 | fin | FederN | hœɥhɛn | h œ <s> ɥh </s> ɛ n |
-| 150 | fin | SchwanzN | pʏrstœ | p ʏ <s> rs </s> t œ |
-| 1540 | krl | WestenN | luːvvɛh | l uː <s> vv </s> ɛ h |
-| 1577 | krl | GriffN | vɑrsi | v ɑ <s> rs </s> i |
-| 163 | fin | BarN | kɑrhʊ | k ɑ <s> rh </s> ʊ |
-| 193 | fin | SchmetterlingN | pɛrhɔnɛn | p ɛ <s> rh </s> ɔ n ɛ n |
-| 1931 | krl | wiederADV | uːvvɛstɑh | uː <s> vv </s> ɛ s t ɑ h |
-| 2059 | krl | trinkenV | juːvvɑ | j uː <s> vv </s> ɑ |
-| 2060 | krl | essenV | syyvvæ | s yy <s> vv </s> æ |
-| 2108 | krl | gehenV | kæyvvæ | k æ y <s> vv </s> æ |
-| 222 | fin | FamilieN | pɛrhɛ | p ɛ <s> rh </s> ɛ |
-| 2220 | krl | hauenV | lyyvvæ | l yy <s> vv </s> æ |
-| 2249 | krl | bringenV | tuːvvɑ | t uː <s> vv </s> ɑ |
-| 2277 | krl | kussenV | suːvvɛlːɑ | s uː <s> vv </s> ɛ lː ɑ |
-| 2296 | krl | besuchenV | kæyvvæ kɑt͡ʃːɔmɑsːɑ | k æ y <s> vv </s> æ _ k ɑ t͡ʃː ɔ m ɑ sː ɑ |
-| 2406 | krl | verkaufenV | myyvvæ | m yy <s> vv </s> æ |
-| 244 | fin | KummerN | mʊrhɛ | m ʊ <s> rh </s> ɛ |
-| 282 | fin | RuheN | rɑwhɑ | r ɑ <s> wh </s> ɑ |
-| 2917 | olo | ArzneiN | lɛkɑrsvʊ | l ɛ k ɑ <s> rs </s> v ʊ |
-| 3062 | olo | offenA | ɑvvɔnɑinɛ | ɑ <s> vv </s> ɔ n ɑ i n ɛ |
-| 31 | fin | ArmN | kæsiʋɑrsi | k æ s i ʋ ɑ <s> rs </s> i |
-| 3231 | olo | wiederADV | ʊvvɛsːɑh | ʊ <s> vv </s> ɛ sː ɑ h |
-| 3372 | olo | trinkenV | jʊvvɑ | j ʊ <s> vv </s> ɑ |
-| 3373 | olo | essenV | sʏvvæ | s ʏ <s> vv </s> æ |
-| 3550 | olo | hauenV | lʏvvæ | l ʏ <s> vv </s> æ |
-| 3583 | olo | bringenV | tʊvvɑ | t ʊ <s> vv </s> ɑ |
-| 3625 | olo | besuchenV | kævvæ | k æ <s> vv </s> æ |
-| 373 | fin | KisteN | kirstʊ | k i <s> rs </s> t ʊ |
-| 3749 | olo | verkaufenV | mʏvvæ | m ʏ <s> vv </s> æ |
-| 4107 | vep | BettN | mɑɡɑdʊzsijɑ | m ɑ ɡ ɑ d ʊ <s> zs </s> i j ɑ |
-| 4191 | vep | GesundheitN | tɛrvhʊz | t ɛ r <s> vh </s> ʊ z |
-| 4227 | vep | ReichtumN | kɑlʲhʊzʲ | k ɑ <s> lʲh </s> ʊ zʲ |
-| 4247 | vep | SchuldN | værhʊzʲ | v æ <s> rh </s> ʊ zʲ |
-| 439 | fin | HoseN | hɔwsʊt | h ɔ <s> ws </s> ʊ t |
-| 445 | fin | BandN | nɑwhɑ | n ɑ <s> wh </s> ɑ |
-| 451 | fin | LeineN | tɑlʊtʊshixnɑ | t ɑ l ʊ t ʊ <s> sh </s> i x n ɑ |
-| 460 | fin | GesundheitN | tɛrʋɛɥs | t ɛ r ʋ ɛ <s> ɥs </s> |
-| 462 | fin | KrankheitN | sɑi̯rɑws | s ɑ i̯ r ɑ <s> ws </s> |
-| 4919 | ekk | ArmN | kæsʲivɑrs | k æ sʲ i v ɑ <s> rs </s> |
-| 500 | fin | ReichtumN | rikːɑws | r i kː ɑ <s> ws </s> |
-| 511 | fin | BogenWaffeN | jɔwsi | j ɔ <s> ws </s> i |
-| 515 | fin | FehlerN | ʋirhɛ | ʋ i <s> rh </s> ɛ |
-| 516 | fin | LugeN | ʋɑlhɛ | ʋ ɑ <s> lh </s> ɛ |
-| 532 | fin | MonatN | kuːkɑwsi | k uː k ɑ <s> ws </s> i |
-| 5353 | ekk | ArztN | ɑrst | ɑ <s> rs </s> t |
-| 5449 | ekk | frischA | værske | v æ <s> rs </s> k e |
-| 553 | fin | DonnerstagN | tɔrstɑi̯ | t ɔ <s> rs </s> t ɑ i̯ |
-| 5544 | ekk | plotzlichADV | jærsku | j æ <s> rs </s> k u |
-| 5551 | ekk | baldADV | vɑrstʲi | v ɑ <s> rs </s> tʲ i |
-| 578 | fin | stumpfA | tʏlsæ | t ʏ <s> ls </s> æ |
-| 591 | fin | vollA | tæɥsi | t æ <s> ɥs </s> i |
-| 6285 | liv | TanteN | suːrsuʃɑː | s uː <s> rs </s> u ʃ ɑː |
-| 640 | fin | lustigA | hɑwskɑ | h ɑ <s> ws </s> k ɑ |
-| 642 | fin | sanftA | lɑwhɑ | l ɑ <s> wh </s> ɑ |
-| 648 | fin | traurigA | mʊrhɛːlːinɛn | m ʊ <s> rh </s> ɛː lː i n ɛ n |
-| 6536 | liv | ArztN | ɑrʲʃt | ɑ <s> rʲʃ </s> t |
-| 6548 | liv | StaatN | vɑlst | v ɑ <s> ls </s> t |
-| 6598 | liv | MontagN | ɛˀžːɨmpæːvɑ | ɛˀ <s> žː </s> ɨ m p æː v ɑ |
-| 662 | fin | armA | kœɥhæ | k œ <s> ɥh </s> æ |
-| 6635 | liv | nassA | kɑˀžːi | k ɑˀ <s> žː </s> i |
-| 6732 | liv | plotzlichADV | jærskə | j æ <s> rs </s> k ə |
-| 6766 | liv | ruckwartsADV | tɑɡɑːrspɛːɲ | t ɑ ɡ ɑː <s> rs </s> p ɛː ɲ |
-| 6767 | liv | ruckwartsADV | tɑɡɑːrspɛːɟɨn | t ɑ ɡ ɑː <s> rs </s> p ɛː ɟ ɨ n |
-| 6848 | liv | donnernV | mɨˀrʲʒə | m ɨˀ <s> rʲʒ </s> ə |
-| 6886 | liv | lautenV | ɡiˀʎʒə | ɡ iˀ <s> ʎʒ </s> ə |
-| 6889 | liv | klirrenV | ɡiˀʎʒə | ɡ iˀ <s> ʎʒ </s> ə |
-| 6901 | liv | zitternV | dɨrʒə | d ɨ <s> rʒ </s> ə |
-| 6968 | liv | ruhrenV | vɔːrʲʃtə | v ɔː <s> rʲʃ </s> t ə |
-| 7125 | liv | besuchenV | sɛːˀrʃə | s ɛːˀ <s> rʃ </s> ə |
-| 719 | fin | untenADV | ɑlhɑːlːɑ | ɑ <s> lh </s> ɑː lː ɑ |
-| 7208 | liv | prahlenV | suːrslə | s uː <s> rs </s> l ə |
-| 721 | fin | obenADV | ʏlhæːlːæ | ʏ <s> lh </s> æː lː æ |
-| 7297 | sma | SchlafN | nahkɛrh | n a h k ɛ <s> rh </s> |
-| 7320 | sma | WetterN | βɨɛrht͡sɛ | β ɨ ɛ <s> rh </s> t͡s ɛ |
-| 7322 | sma | NebelN | meærhka | m e æ <s> rh </s> k a |
-| 7332 | sma | RaureifN | jyjsɛ | j y <s> js </s> ɛ |
-| 7337 | sma | TropfenN | koɒjhkuht͡s | k o ɒ <s> jh </s> k u h t͡s |
-| 736 | fin | vergebensADV | tʊrhɑːn | t ʊ <s> rh </s> ɑː n |
-| 7372 | sma | RindeN | pɑːrhkuʌ | p ɑː <s> rh </s> k u ʌ |
-| 7393 | sma | KuhN | kuβsɛ | k u <s> βs </s> ɛ |
-| 7412 | sma | AdlerN | ɑːrht͡sɛ | ɑː <s> rh </s> t͡s ɛ |
-| 7416 | sma | KraheN | βuʌrht͡ʃɛ | β u ʌ <s> rh </s> t͡ʃ ɛ |
-| 7424 | sma | WurmN | mɑːrhkɛ | m ɑː <s> rh </s> k ɛ |
-| 7426 | sma | AmeiseN | karhkɛ | k a <s> rh </s> k ɛ |
-| 7428 | sma | MuckeN | t͡ʃuʌjhkɛ | t͡ʃ u ʌ <s> jh </s> k ɛ |
-| 7456 | sma | FrauN | nyjsɛnɛ | n y <s> js </s> ɛ n ɛ |
-| 7461 | sma | FamilieN | fʉɛlhkiɛ | f ʉ ɛ <s> lh </s> k i ɛ |
-| 802 | fin | aufgehenSonneV | nɔwstɑ | n ɔ <s> ws </s> t ɑ |
-| 838 | fin | steigenV | nɔwstɑ | n ɔ <s> ws </s> t ɑ |
-| 867 | fin | aufstehenV | nɔwstɑ | n ɔ <s> ws </s> t ɑ |
-| 868 | fin | aufstehenV | nɔwstɑ ʏlœs | n ɔ <s> ws </s> t ɑ _ ʏ l œ s |
-| 882 | fin | sicherhebenV | nɔwstɑ | n ɔ <s> ws </s> t ɑ |
-| 97 | fin | StromungN | ʋirtɑws | ʋ i r t ɑ <s> ws </s> |
+|-----:|:----------------|:---------------|:-------------------|:-----------------------------------------|
+| 1094 | finnish | argernV | ærsʏtːæː | æ <s> rs </s> ʏ tː æː |
+| 1104 | finnish | tauschenV | hɑrhɑwtːɑː | h ɑ <s> rh </s> ɑ w tː ɑː |
+| 1161 | finnish | prahlenV | kɛrskɑi̯lːɑ | k ɛ <s> rs </s> k ɑ i̯ lː ɑ |
+| 1218 | northkarelian | ArmN | kæsivɑrsi | k æ s i v ɑ <s> rs </s> i |
+| 1272 | northkarelian | NebelN | huːvvɛh | h uː <s> vv </s> ɛ h |
+| 1367 | northkarelian | EnteN | sɔrsɑ | s ɔ <s> rs </s> ɑ |
+| 1395 | northkarelian | FalleN | pyyvvys | p yy <s> vv </s> y s |
+| 144 | finnish | FederN | hœɥhɛn | h œ <s> ɥh </s> ɛ n |
+| 150 | finnish | SchwanzN | pʏrstœ | p ʏ <s> rs </s> t œ |
+| 1540 | northkarelian | WestenN | luːvvɛh | l uː <s> vv </s> ɛ h |
+| 1577 | northkarelian | GriffN | vɑrsi | v ɑ <s> rs </s> i |
+| 163 | finnish | BarN | kɑrhʊ | k ɑ <s> rh </s> ʊ |
+| 193 | finnish | SchmetterlingN | pɛrhɔnɛn | p ɛ <s> rh </s> ɔ n ɛ n |
+| 1931 | northkarelian | wiederADV | uːvvɛstɑh | uː <s> vv </s> ɛ s t ɑ h |
+| 2059 | northkarelian | trinkenV | juːvvɑ | j uː <s> vv </s> ɑ |
+| 2060 | northkarelian | essenV | syyvvæ | s yy <s> vv </s> æ |
+| 2108 | northkarelian | gehenV | kæyvvæ | k æ y <s> vv </s> æ |
+| 222 | finnish | FamilieN | pɛrhɛ | p ɛ <s> rh </s> ɛ |
+| 2220 | northkarelian | hauenV | lyyvvæ | l yy <s> vv </s> æ |
+| 2249 | northkarelian | bringenV | tuːvvɑ | t uː <s> vv </s> ɑ |
+| 2277 | northkarelian | kussenV | suːvvɛlːɑ | s uː <s> vv </s> ɛ lː ɑ |
+| 2296 | northkarelian | besuchenV | kæyvvæ kɑt͡ʃːɔmɑsːɑ | k æ y <s> vv </s> æ _ k ɑ t͡ʃː ɔ m ɑ sː ɑ |
+| 2406 | northkarelian | verkaufenV | myyvvæ | m yy <s> vv </s> æ |
+| 244 | finnish | KummerN | mʊrhɛ | m ʊ <s> rh </s> ɛ |
+| 282 | finnish | RuheN | rɑwhɑ | r ɑ <s> wh </s> ɑ |
+| 2917 | olonetskarelian | ArzneiN | lɛkɑrsvʊ | l ɛ k ɑ <s> rs </s> v ʊ |
+| 3062 | olonetskarelian | offenA | ɑvvɔnɑinɛ | ɑ <s> vv </s> ɔ n ɑ i n ɛ |
+| 31 | finnish | ArmN | kæsiʋɑrsi | k æ s i ʋ ɑ <s> rs </s> i |
+| 3231 | olonetskarelian | wiederADV | ʊvvɛsːɑh | ʊ <s> vv </s> ɛ sː ɑ h |
+| 3372 | olonetskarelian | trinkenV | jʊvvɑ | j ʊ <s> vv </s> ɑ |
+| 3373 | olonetskarelian | essenV | sʏvvæ | s ʏ <s> vv </s> æ |
+| 3550 | olonetskarelian | hauenV | lʏvvæ | l ʏ <s> vv </s> æ |
+| 3583 | olonetskarelian | bringenV | tʊvvɑ | t ʊ <s> vv </s> ɑ |
+| 3625 | olonetskarelian | besuchenV | kævvæ | k æ <s> vv </s> æ |
+| 373 | finnish | KisteN | kirstʊ | k i <s> rs </s> t ʊ |
+| 3749 | olonetskarelian | verkaufenV | mʏvvæ | m ʏ <s> vv </s> æ |
+| 4107 | veps | BettN | mɑɡɑdʊzsijɑ | m ɑ ɡ ɑ d ʊ <s> zs </s> i j ɑ |
+| 4191 | veps | GesundheitN | tɛrvhʊz | t ɛ r <s> vh </s> ʊ z |
+| 4227 | veps | ReichtumN | kɑlʲhʊzʲ | k ɑ <s> lʲh </s> ʊ zʲ |
+| 4247 | veps | SchuldN | værhʊzʲ | v æ <s> rh </s> ʊ zʲ |
+| 439 | finnish | HoseN | hɔwsʊt | h ɔ <s> ws </s> ʊ t |
+| 445 | finnish | BandN | nɑwhɑ | n ɑ <s> wh </s> ɑ |
+| 451 | finnish | LeineN | tɑlʊtʊshixnɑ | t ɑ l ʊ t ʊ <s> sh </s> i x n ɑ |
+| 460 | finnish | GesundheitN | tɛrʋɛɥs | t ɛ r ʋ ɛ <s> ɥs </s> |
+| 462 | finnish | KrankheitN | sɑi̯rɑws | s ɑ i̯ r ɑ <s> ws </s> |
+| 4919 | estonian | ArmN | kæsʲivɑrs | k æ sʲ i v ɑ <s> rs </s> |
+| 500 | finnish | ReichtumN | rikːɑws | r i kː ɑ <s> ws </s> |
+| 511 | finnish | BogenWaffeN | jɔwsi | j ɔ <s> ws </s> i |
+| 515 | finnish | FehlerN | ʋirhɛ | ʋ i <s> rh </s> ɛ |
+| 516 | finnish | LugeN | ʋɑlhɛ | ʋ ɑ <s> lh </s> ɛ |
+| 532 | finnish | MonatN | kuːkɑwsi | k uː k ɑ <s> ws </s> i |
+| 5353 | estonian | ArztN | ɑrst | ɑ <s> rs </s> t |
+| 5449 | estonian | frischA | værske | v æ <s> rs </s> k e |
+| 553 | finnish | DonnerstagN | tɔrstɑi̯ | t ɔ <s> rs </s> t ɑ i̯ |
+| 5544 | estonian | plotzlichADV | jærsku | j æ <s> rs </s> k u |
+| 5551 | estonian | baldADV | vɑrstʲi | v ɑ <s> rs </s> tʲ i |
+| 578 | finnish | stumpfA | tʏlsæ | t ʏ <s> ls </s> æ |
+| 591 | finnish | vollA | tæɥsi | t æ <s> ɥs </s> i |
+| 6285 | livonian | TanteN | suːrsuʃɑː | s uː <s> rs </s> u ʃ ɑː |
+| 640 | finnish | lustigA | hɑwskɑ | h ɑ <s> ws </s> k ɑ |
+| 642 | finnish | sanftA | lɑwhɑ | l ɑ <s> wh </s> ɑ |
+| 648 | finnish | traurigA | mʊrhɛːlːinɛn | m ʊ <s> rh </s> ɛː lː i n ɛ n |
+| 6536 | livonian | ArztN | ɑrʲʃt | ɑ <s> rʲʃ </s> t |
+| 6548 | livonian | StaatN | vɑlst | v ɑ <s> ls </s> t |
+| 6598 | livonian | MontagN | ɛˀžːɨmpæːvɑ | ɛˀ <s> žː </s> ɨ m p æː v ɑ |
+| 662 | finnish | armA | kœɥhæ | k œ <s> ɥh </s> æ |
+| 6635 | livonian | nassA | kɑˀžːi | k ɑˀ <s> žː </s> i |
+| 6732 | livonian | plotzlichADV | jærskə | j æ <s> rs </s> k ə |
+| 6766 | livonian | ruckwartsADV | tɑɡɑːrspɛːɲ | t ɑ ɡ ɑː <s> rs </s> p ɛː ɲ |
+| 6767 | livonian | ruckwartsADV | tɑɡɑːrspɛːɟɨn | t ɑ ɡ ɑː <s> rs </s> p ɛː ɟ ɨ n |
+| 6848 | livonian | donnernV | mɨˀrʲʒə | m ɨˀ <s> rʲʒ </s> ə |
+| 6886 | livonian | lautenV | ɡiˀʎʒə | ɡ iˀ <s> ʎʒ </s> ə |
+| 6889 | livonian | klirrenV | ɡiˀʎʒə | ɡ iˀ <s> ʎʒ </s> ə |
+| 6901 | livonian | zitternV | dɨrʒə | d ɨ <s> rʒ </s> ə |
+| 6968 | livonian | ruhrenV | vɔːrʲʃtə | v ɔː <s> rʲʃ </s> t ə |
+| 7125 | livonian | besuchenV | sɛːˀrʃə | s ɛːˀ <s> rʃ </s> ə |
+| 719 | finnish | untenADV | ɑlhɑːlːɑ | ɑ <s> lh </s> ɑː lː ɑ |
+| 7208 | livonian | prahlenV | suːrslə | s uː <s> rs </s> l ə |
+| 721 | finnish | obenADV | ʏlhæːlːæ | ʏ <s> lh </s> æː lː æ |
+| 7297 | southernsami | SchlafN | nahkɛrh | n a h k ɛ <s> rh </s> |
+| 7320 | southernsami | WetterN | βɨɛrht͡sɛ | β ɨ ɛ <s> rh </s> t͡s ɛ |
+| 7322 | southernsami | NebelN | meærhka | m e æ <s> rh </s> k a |
+| 7332 | southernsami | RaureifN | jyjsɛ | j y <s> js </s> ɛ |
+| 7337 | southernsami | TropfenN | koɒjhkuht͡s | k o ɒ <s> jh </s> k u h t͡s |
+| 736 | finnish | vergebensADV | tʊrhɑːn | t ʊ <s> rh </s> ɑː n |
+| 7372 | southernsami | RindeN | pɑːrhkuʌ | p ɑː <s> rh </s> k u ʌ |
+| 7393 | southernsami | KuhN | kuβsɛ | k u <s> βs </s> ɛ |
+| 7412 | southernsami | AdlerN | ɑːrht͡sɛ | ɑː <s> rh </s> t͡s ɛ |
+| 7416 | southernsami | KraheN | βuʌrht͡ʃɛ | β u ʌ <s> rh </s> t͡ʃ ɛ |
+| 7424 | southernsami | WurmN | mɑːrhkɛ | m ɑː <s> rh </s> k ɛ |
+| 7426 | southernsami | AmeiseN | karhkɛ | k a <s> rh </s> k ɛ |
+| 7428 | southernsami | MuckeN | t͡ʃuʌjhkɛ | t͡ʃ u ʌ <s> jh </s> k ɛ |
+| 7456 | southernsami | FrauN | nyjsɛnɛ | n y <s> js </s> ɛ n ɛ |
+| 7461 | southernsami | FamilieN | fʉɛlhkiɛ | f ʉ ɛ <s> lh </s> k i ɛ |
+| 802 | finnish | aufgehenSonneV | nɔwstɑ | n ɔ <s> ws </s> t ɑ |
+| 838 | finnish | steigenV | nɔwstɑ | n ɔ <s> ws </s> t ɑ |
+| 867 | finnish | aufstehenV | nɔwstɑ | n ɔ <s> ws </s> t ɑ |
+| 868 | finnish | aufstehenV | nɔwstɑ ʏlœs | n ɔ <s> ws </s> t ɑ _ ʏ l œ s |
+| 882 | finnish | sicherhebenV | nɔwstɑ | n ɔ <s> ws </s> t ɑ |
+| 97 | finnish | StromungN | ʋirtɑws | ʋ i r t ɑ <s> ws </s> |
 
 (100 rows)
 

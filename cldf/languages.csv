@@ -1,108 +1,108 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
-fin,fin,finn1318,,,,
-krl,krl,kare1335,,,,
-olo,olo,livv1243,,,,
-vep,vep,veps1250,,,,
-ekk,ekk,esto1258,,,,
-liv,liv,livv1244,,,,
-sma,sma,sout2674,,,,
-smj,smj,lule1254,,,,
-sme,sme,nort2671,,,,
-smn,smn,inar1241,,,,
-sms,sms,skol1241,,,,
-sjd,sjd,kild1236,,,,
-mrj,mrj,west2392,,,,
-mhr,mhr,east2328,,,,
-mdf,mdf,moks1248,,,,
-myv,myv,erzy1239,,,,
-udm,udm,udmu1245,,,,
-koi,koi,komi1269,,,,
-kpv,kpv,komi1268,,,,
-hun,hun,hung1274,,,,
-kca,kca,khan1273,,,,
-mns,mns,mans1258,,,,
-sel,sel,selk1253,,,,
-yrk,yrk,nene1249,,,,
-enf,enf,fore1265,,,,
-nio,nio,ngan1291,,,,
-ben,ben,beng1280,,,,
-hin,hin,hind1269,,,,
-pbu,pbu,nort2646,,,,
-pes,pes,west2369,,,,
-kmr,kmr,nort2641,,,,
-oss,oss,osse1243,,,,
-hye,hye,nucl1235,,,,
-ell,ell,mode1248,,,,
-sqi,sqi,alba1267,,,,
-bul,bul,bulg1262,,,,
-hrv,hrv,croa1245,,,,
-slv,slv,slov1268,,,,
-slk,slk,slov1269,,,,
-ces,ces,czec1258,,,,
-pol,pol,poli1260,,,,
-ukr,ukr,ukra1253,,,,
-bel,bel,bela1254,,,,
-rus,rus,russ1263,,,,
-lit,lit,lith1251,,,,
-lav,lav,latv1249,,,,
-isl,isl,icel1247,,,,
-nor,nor,norw1258,,,,
-swe,swe,swed1254,,,,
-dan,dan,dani1285,,,,
-deu,deu,stan1295,,,,
-nld,nld,dutc1256,,,,
-eng,eng,stan1293,,,,
-gle,gle,iris1253,,,,
-cym,cym,wels1247,,,,
-bre,bre,bret1244,,,,
-lat,lat,lati1261,,,,
-fra,fra,stan1290,,,,
-cat,cat,stan1289,,,,
-spa,spa,stan1288,,,,
-por,por,port1283,,,,
-ita,ita,ital1282,,,,
-ron,ron,roma1327,,,,
-tur,tur,nucl1301,,,,
-azj,azj,nort2697,,,,
-uzn,uzn,nort2690,,,,
-kaz,kaz,kaza1248,,,,
-bak,bak,bash1264,,,,
-tat,tat,tata1255,,,,
-chv,chv,chuv1255,,,,
-sah,sah,yaku1245,,,,
-khk,khk,halh1238,,,,
-xal,xal,kalm1243,,,,
-bua,bua,null,,,,
-evn,evn,even1259,,,,
-mnc,mnc,manc1252,,,,
-gld,gld,nana1257,,,,
-ket,ket,kett1243,,,,
-ykg,ykg,nort2745,,,,
-yux,yux,sout2750,,,,
-itl,itl,itel1242,,,,
-ckt,ckt,chuk1273,,,,
-niv,niv,gily1242,,,,
-ain,ain,ainu1240,,,,
-kor,kor,kore1280,,,,
-jpn,jpn,nucl1643,,,,
-ale,ale,aleu1260,,,,
-ess,ess,cent2128,,,,
-kal,kal,kala1399,,,,
-kan,kan,nucl1305,,,,
-mal,mal,mala1464,,,,
-tam,tam,tami1289,,,,
-tel,tel,telu1262,,,,
-bsk,bsk,buru1296,,,,
-kat,kat,nucl1302,,,,
-eus,eus,basq1248,,,,
-abk,abk,abkh1244,,,,
-ady,ady,adyg1241,,,,
-ava,ava,avar1256,,,,
-ddo,ddo,dido1241,,,,
-lbe,lbe,lakk1252,,,,
-lez,lez,lezg1247,,,,
-dar,dar,darg1241,,,,
-che,che,chec1245,,,,
-arb,arb,stan1318,,,,
-heb,heb,hebr1245,,,,
-cmn,cmn,mand1415,,,,
+finnish,Finnish,finn1318,,fin,,Uralic
+northkarelian,North Karelian,kare1335,,krl,,Uralic
+olonetskarelian,Olonets Karelian,livv1243,,olo,,Uralic
+veps,Veps,veps1250,,vep,,Uralic
+estonian,Estonian,esto1258,,ekk,,Uralic
+livonian,Livonian,livv1244,,liv,,Uralic
+southernsami,Southern Sami,sout2674,,sma,,Uralic
+lulesami,Lule Sami,lule1254,,smj,,Uralic
+northernsami,Northern Sami,nort2671,,sme,,Uralic
+inarisami,Inari Sami,inar1241,,smn,,Uralic
+skoltsami,Skolt Sami,skol1241,,sms,,Uralic
+kildinsami,Kildin Sami,kild1236,,sjd,,Uralic
+hillmari,Hill Mari,west2392,,mrj,,Uralic
+meadowmari,Meadow Mari,east2328,,mhr,,Uralic
+moksha,Moksha,moks1248,,mdf,,Uralic
+erzya,Erzya,erzy1239,,myv,,Uralic
+udmurt,Udmurt,udmu1245,,udm,,Uralic
+komipermyak,Komi-Permyak,komi1269,,koi,,Uralic
+komizyrian,Komi-Zyrian,komi1268,,kpv,,Uralic
+hungarian,Hungarian,hung1274,,hun,,Uralic
+northernkhanty,Northern Khanty,khan1273,,kca,,Uralic
+northernmansi,Northern Mansi,mans1258,,mns,,Uralic
+northernselkup,Northern Selkup,selk1253,,sel,,Uralic
+tundranenets,Tundra Nenets,nene1249,,yrk,,Uralic
+forestenets,Forest Enets,fore1265,,enf,,Uralic
+nganasan,Nganasan,ngan1291,,nio,,Uralic
+bengali,Bengali,beng1280,,ben,,Indo-European
+hindi,Hindi,hind1269,,hin,,Indo-European
+northernpashto,Northern Pashto,nort2646,,pbu,,Indo-European
+westernfarsi,Western Farsi,west2369,,pes,,Indo-European
+northernkurdish,Northern Kurdish,nort2641,,kmr,,Indo-European
+ossetian,Ossetian,osse1243,,oss,,Indo-European
+armenian,Armenian,nucl1235,,hye,,Indo-European
+moderngreek,Modern Greek,mode1248,,ell,,Indo-European
+standardalbanian,Standard Albanian,alba1267,,sqi,,Indo-European
+bulgarian,Bulgarian,bulg1262,,bul,,Indo-European
+croatian,Croatian,croa1245,,hrv,,Indo-European
+slovene,Slovene,slov1268,,slv,,Indo-European
+slovak,Slovak,slov1269,,slk,,Indo-European
+czech,Czech,czec1258,,ces,,Indo-European
+polish,Polish,poli1260,,pol,,Indo-European
+ukrainian,Ukrainian,ukra1253,,ukr,,Indo-European
+belarusian,Belarusian,bela1254,,bel,,Indo-European
+russian,Russian,russ1263,,rus,,Indo-European
+lithuanian,Lithuanian,lith1251,,lit,,Indo-European
+latvian,Latvian,latv1249,,lav,,Indo-European
+icelandic,Icelandic,icel1247,,isl,,Indo-European
+norwegianbokmal,Norwegian (Bokmål),norw1258,,nor,,Indo-European
+swedish,Swedish,swed1254,,swe,,Indo-European
+danish,Danish,dani1285,,dan,,Indo-European
+german,German,stan1295,,deu,,Indo-European
+dutch,Dutch,dutc1256,,nld,,Indo-European
+english,English,stan1293,,eng,,Indo-European
+irish,Irish,iris1253,,gle,,Indo-European
+welsh,Welsh,wels1247,,cym,,Indo-European
+breton,Breton,bret1244,,bre,,Indo-European
+latin,Latin,lati1261,,lat,,Indo-European
+french,French,stan1290,,fra,,Indo-European
+catalan,Catalan,stan1289,,cat,,Indo-European
+spanish,Spanish,stan1288,,spa,,Indo-European
+portuguese,Portuguese,port1283,,por,,Indo-European
+italian,Italian,ital1282,,ita,,Indo-European
+romanian,Romanian,roma1327,,ron,,Indo-European
+turkish,Turkish,nucl1301,,tur,,Turkic
+northazerbaijani,North Azerbaijani,nort2697,,azj,,Turkic
+northernuzbek,Northern Uzbek,nort2690,,uzn,,Turkic
+kazakh,Kazakh,kaza1248,,kaz,,Turkic
+bashkir,Bashkir,bash1264,,bak,,Turkic
+tatar,Tatar,tata1255,,tat,,Turkic
+sakha,Sakha,yaku1245,,sah,,Turkic
+chuvash,Chuvash,chuv1255,,chv,,Turkic
+khalkhamongolian,Khalkha Mongolian,halh1238,,khk,,Mongolic
+buryat,Buryat,buri1258,,bua,,Mongolic
+kalmyk,Kalmyk,kalm1243,,xal,,Mongolic
+evenki,Evenki,even1259,,evn,,Tungusic
+manchu,Manchu,manc1252,,mnc,,Tungusic
+nanai,Nanai,nana1257,,gld,,Tungusic
+ket,Ket,kett1243,,ket,,Yeniseian
+northernyukaghir,Northern Yukaghir,nort2745,,ykg,,Yukaghir
+southernyukaghir,Southern Yukaghir,sout2750,,yux,,Yukaghir
+itelmen,Itelmen,itel1242,,itl,,Chukotko-Kamchatkan
+chukchi,Chukchi,chuk1273,,ckt,,Chukotko-Kamchatkan
+nivkh,Nivkh,gily1242,,niv,,Nivkh
+hokkaidoainu,Hokkaido Ainu,ainu1240,,ain,,Ainu
+korean,Korean,kore1280,,kor,,Koreanic
+japanese,Japanese,nucl1643,,jpn,,Japonic
+aleut,Aleut,aleu1260,,ale,,Eskimo-Aleut
+centralsiberianyupik,Central Siberian Yupik,cent2128,,ess,,Eskimo-Aleut
+kalaallisut,Kalaallisut,kala1399,,kal,,Eskimo-Aleut
+kannada,Kannada,nucl1305,,kan,,Dravidian
+malayalam,Malayalam,mala1464,,mal,,Dravidian
+tamil,Tamil,tami1289,,tam,,Dravidian
+telugu,Telugu,telu1262,,tel,,Dravidian
+burushaski,Burushaski,buru1296,,bsk,,Burushaski
+georgian,Georgian,nucl1302,,kat,,Kartvelian
+basque,Basque,basq1248,,eus,,Basque
+abkhaz,Abkhaz,abkh1244,,abk,,Abkhaz-Adyge
+adyghe,Adyghe,adyg1241,,ady,,Abkhaz-Adyge
+avar,Avar,avar1256,,ava,,Nakh-Daghestanian
+tsez,Tsez,dido1241,,ddo,,Nakh-Daghestanian
+lak,Lak,lakk1252,,lbe,,Nakh-Daghestanian
+lezgian,Lezgian,lezg1247,,lez,,Nakh-Daghestanian
+dargwa,Dargwa,darg1241,,dar,,Nakh-Daghestanian
+chechen,Chechen,chec1245,,che,,Nakh-Daghestanian
+standardarabic,Standard Arabic,stan1318,,arb,,Afro-Asiatic
+modernhebrew,Modern Hebrew,hebr1245,,heb,,Afro-Asiatic
+mandarinchinese,Mandarin Chinese,mand1415,,cmn,,Sino-Tibetan

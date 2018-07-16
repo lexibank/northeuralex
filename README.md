@@ -26,11 +26,12 @@ Conceptlist in Concepticon: [Dellert-2017-1016](http://concepticon.clld.org/cont
 - **Synonymy:** 1.15
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 694,698
-- **Segments:** 1,633 (536 BIPA errors, 544 CTLS sound class errors, 1097 CLTS modified)
-- **Inventory size (avg):** 76.12
+- **Tokens:** 694,676
+- **Segments:** 1,633 (536 BIPA errors, 544 CTLS sound class errors, 1110 CLTS modified)
+- **Inventory size (avg):** 76.13
 
 ## Possible Improvements:
 
-- Entries missing sources: 121612/121612 (100.00%)
 
+
+- Entries missing sources: 121612/121612 (100.00%)

@@ -1,1016 +1,1016 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-AugeN,Auge::N,1248,
-OhrN,Ohr::N,1247,
-NaseN,Nase::N,1221,
-MundN,Mund::N,674,
-ZahnN,Zahn::N,1380,
-ZungeN,Zunge::N,1205,
-LippeN,Lippe::N,478,
-WangeN,Wange::N,1730,
-GesichtN,Gesicht::N,1560,
-StirnN,Stirn::N,123,
-HaarN,Haar::N,1040,
-SchnurrbartN,Schnurrbart::N,1165,
-BartN,Bart::N,678,
-KinnN,Kinn::N,1510,
-KieferAnatomieN,Kiefer[Anatomie]::N,798,
-KehleN,Kehle::N,1346,
-HalsN,Hals::N,1333,
-GenickN,Genick::N,1347,
-KopfN,Kopf::N,1256,
-RuckenN,Rücken::N,1291,
-BauchN,Bauch::N,1251,
-NabelN,Nabel::N,1838,
-BusenN,Busen::N,1402,
-BrustN,Brust::N,1592,
-SchulterN,Schulter::N,1482,
-ArmN,Arm::N,1673,
-EllenbogenN,Ellenbogen::N,981,
-HandN,Hand::N,1277,
-HandflacheN,Handfläche::N,1183,
-FingerN,Finger::N,1303,
-FingernagelN,Fingernagel::N,1258,
-NagelAnatomieN,Nagel[Anatomie]::N,1896,
-ZehN,Zeh::N,1389,
-FuN,Fuß::N,1301,
-FerseN,Ferse::N,980,
-KnieN,Knie::N,1371,
-OberschenkelN,Oberschenkel::N,800,
-BeinN,Bein::N,1297,
-KorperN,Körper::N,1480,
-HautN,Haut::N,763,
-BlutN,Blut::N,946,
-AderN,Ader::N,1924,
-SehneN,Sehne::N,1137,
-KnochenN,Knochen::N,1394,
-GehirnN,Gehirn::N,1583,
-HerzN,Herz::N,1223,
-MagenN,Magen::N,819,
-LeberN,Leber::N,1224,
-AtemN,Atem::N,870,
-HungerN,Hunger::N,1864,
-TraneN,Träne::N,1651,
-GeschmackN,Geschmack::N,2190,
+AugeN,Auge::N,1248,EYE
+OhrN,Ohr::N,1247,EAR
+NaseN,Nase::N,1221,NOSE
+MundN,Mund::N,674,MOUTH
+ZahnN,Zahn::N,1380,TOOTH
+ZungeN,Zunge::N,1205,TONGUE
+LippeN,Lippe::N,478,LIP
+WangeN,Wange::N,1730,CHEEK
+GesichtN,Gesicht::N,1560,FACE
+StirnN,Stirn::N,123,FOREHEAD
+HaarN,Haar::N,1040,HAIR
+SchnurrbartN,Schnurrbart::N,1165,MOUSTACHE
+BartN,Bart::N,678,BEARD
+KinnN,Kinn::N,1510,CHIN
+KieferAnatomieN,Kiefer[Anatomie]::N,798,JAW
+KehleN,Kehle::N,1346,THROAT
+HalsN,Hals::N,1333,NECK
+GenickN,Genick::N,1347,NAPE (OF NECK)
+KopfN,Kopf::N,1256,HEAD
+RuckenN,Rücken::N,1291,BACK
+BauchN,Bauch::N,1251,BELLY
+NabelN,Nabel::N,1838,NAVEL
+BusenN,Busen::N,1402,BREAST
+BrustN,Brust::N,1592,CHEST
+SchulterN,Schulter::N,1482,SHOULDER
+ArmN,Arm::N,1673,ARM
+EllenbogenN,Ellenbogen::N,981,ELBOW
+HandN,Hand::N,1277,HAND
+HandflacheN,Handfläche::N,1183,PALM OF HAND
+FingerN,Finger::N,1303,FINGER
+FingernagelN,Fingernagel::N,1258,FINGERNAIL
+NagelAnatomieN,Nagel[Anatomie]::N,1896,FINGERNAIL OR TOENAIL
+ZehN,Zeh::N,1389,TOE
+FuN,Fuß::N,1301,FOOT
+FerseN,Ferse::N,980,HEEL
+KnieN,Knie::N,1371,KNEE
+OberschenkelN,Oberschenkel::N,800,THIGH
+BeinN,Bein::N,1297,LEG
+KorperN,Körper::N,1480,BODY
+HautN,Haut::N,763,SKIN
+BlutN,Blut::N,946,BLOOD
+AderN,Ader::N,1924,VEIN
+SehneN,Sehne::N,1137,TENDON
+KnochenN,Knochen::N,1394,BONE
+GehirnN,Gehirn::N,1583,BRAIN
+HerzN,Herz::N,1223,HEART
+MagenN,Magen::N,819,STOMACH
+LeberN,Leber::N,1224,LIVER
+AtemN,Atem::N,870,BREATH
+HungerN,Hunger::N,1864,HUNGER
+TraneN,Träne::N,1651,TEAR (OF EYE)
+GeschmackN,Geschmack::N,2190,TASTE
 GeruchN,Geruch::N,,
-SchlafN,Schlaf::N,2972,
-TraumN,Traum::N,2374,
-HimmelN,Himmel::N,1732,
-SonneN,Sonne::N,1343,
-MondN,Mond::N,1313,
-SternN,Stern::N,1430,
-LuftN,Luft::N,27,
-WindN,Wind::N,960,
-WelleN,Welle::N,978,
-WasserN,Wasser::N,948,
-SteinN,Stein::N,668,
-BodenN,Boden::N,2159,
-ErdeN,Erde::N,1228,
-StaubN,Staub::N,2,
-RauchN,Rauch::N,778,
-FunkeN,Funke::N,518,
-FeuerN,Feuer::N,221,
-LichtN,Licht::N,630,
-SchattenN,Schatten::N,1388,
-WetterN,Wetter::N,952,
-NebelN,Nebel::N,249,
-WolkeN,Wolke::N,1489,
-RegenN,Regen::N,658,
-SchneeN,Schnee::N,784,
-EisN,Eis::N,617,
-FrostN,Frost::N,2034,
-KalteN,Kälte::N,2932,
-HitzeN,Hitze::N,612,
-RaureifN,Raureif::N,2942,
-RegenbogenN,Regenbogen::N,1733,
-DonnerN,Donner::N,1150,
-StromungN,Strömung::N,2935,
+SchlafN,Schlaf::N,2972,SLEEP (STATE)
+TraumN,Traum::N,2374,DREAM
+HimmelN,Himmel::N,1732,SKY
+SonneN,Sonne::N,1343,SUN
+MondN,Mond::N,1313,MOON
+SternN,Stern::N,1430,STAR
+LuftN,Luft::N,27,AIR
+WindN,Wind::N,960,WIND
+WelleN,Welle::N,978,WAVE
+WasserN,Wasser::N,948,WATER
+SteinN,Stein::N,668,ROCK
+BodenN,Boden::N,2159,GROUND
+ErdeN,Erde::N,1228,EARTH (SOIL)
+StaubN,Staub::N,2,DUST
+RauchN,Rauch::N,778,SMOKE (EXHAUST)
+FunkeN,Funke::N,518,SPARK
+FeuerN,Feuer::N,221,FIRE
+LichtN,Licht::N,630,LIGHT (RADIATION)
+SchattenN,Schatten::N,1388,SHADE
+WetterN,Wetter::N,952,WEATHER
+NebelN,Nebel::N,249,FOG
+WolkeN,Wolke::N,1489,CLOUD
+RegenN,Regen::N,658,RAIN (PRECIPITATION)
+SchneeN,Schnee::N,784,SNOW
+EisN,Eis::N,617,ICE
+FrostN,Frost::N,2034,FROST
+KalteN,Kälte::N,2932,COLD (CHILL)
+HitzeN,Hitze::N,612,HEAT
+RaureifN,Raureif::N,2942,HOARFROST
+RegenbogenN,Regenbogen::N,1733,RAINBOW
+DonnerN,Donner::N,1150,THUNDER
+StromungN,Strömung::N,2935,CURRENT (STREAM)
 TropfenN,Tropfen::N,,
-SchaumN,Schaum::N,1768,
-SchmutzN,Schmutz::N,25,
-SeeN,See::N,624,
-SumpfN,Sumpf::N,1145,
-MoorN,Moor::N,2962,
-WieseN,Wiese::N,649,
-WaldN,Wald::N,420,
-HugelN,Hügel::N,614,
-AnhoheN,Anhöhe::N,2936,
-BergN,Berg::N,639,
-GipfelN,Gipfel::N,1614,
-HohleN,Höhle::N,1155,
-AbhangN,Abhang::N,618,
-QuelleN,Quelle::N,849,
+SchaumN,Schaum::N,1768,FOAM
+SchmutzN,Schmutz::N,25,DIRT
+SeeN,See::N,624,LAKE
+SumpfN,Sumpf::N,1145,SWAMP
+MoorN,Moor::N,2962,MOORLAND
+WieseN,Wiese::N,649,PASTURE
+WaldN,Wald::N,420,FOREST
+HugelN,Hügel::N,614,HILL
+AnhoheN,Anhöhe::N,2936,ELEVATION
+BergN,Berg::N,639,MOUNTAIN
+GipfelN,Gipfel::N,1614,SUMMIT
+HohleN,Höhle::N,1155,CAVE
+AbhangN,Abhang::N,618,PRECIPICE
+QuelleN,Quelle::N,849,SPRING (OF WATER)
 BachN,Bach::N,,
-FlussN,Fluss::N,666,
-UferN,Ufer::N,113,
-KusteN,Küste::N,1525,
-FestlandN,Festland::N,166,
-MeerN,Meer::N,1474,
-BuchtN,Bucht::N,663,
-InselN,Insel::N,622,
-BlumeN,Blume::N,239,
-GrasN,Gras::N,606,
-WurzelN,Wurzel::N,670,
-BaumN,Baum::N,906,
-StammN,Stamm::N,344,
-RindeN,Rinde::N,1204,
-AstN,Ast::N,1531,
+FlussN,Fluss::N,666,RIVER
+UferN,Ufer::N,113,SHORE
+KusteN,Küste::N,1525,COAST
+FestlandN,Festland::N,166,MAINLAND
+MeerN,Meer::N,1474,SEA
+BuchtN,Bucht::N,663,BAY
+InselN,Insel::N,622,ISLAND
+BlumeN,Blume::N,239,FLOWER
+GrasN,Gras::N,606,GRASS
+WurzelN,Wurzel::N,670,ROOT
+BaumN,Baum::N,906,TREE
+StammN,Stamm::N,344,TREE TRUNK
+RindeN,Rinde::N,1204,BARK
+AstN,Ast::N,1531,BRANCH
 ZweigN,Zweig::N,,
-BlattN,Blatt::N,628,
-BirkeN,Birke::N,1855,
-KieferBaumN,Kiefer[Baum]::N,1740,
-WeideBaumN,Weide[Baum]::N,818,
-TanneN,Tanne::N,1915,
-HornN,Horn::N,1393,
-FederN,Feder::N,1201,
-FellN,Fell::N,580,
-FlugelN,Flügel::N,1257,
-KlaueN,Klaue::N,72,
-KralleN,Kralle::N,2965,
-SchwanzN,Schwanz::N,1220,
-EiN,Ei::N,744,
-NestN,Nest::N,539,
-BauN,Bau::N,2949,
-TierN,Tier::N,619,
-HerdeN,Herde::N,2939,
-KuhN,Kuh::N,1007,
-BulleN,Bulle::N,1008,
-PferdN,Pferd::N,615,
-SchafN,Schaf::N,1331,
-SchweinN,Schwein::N,1337,
-HundN,Hund::N,2009,
-KatzeN,Katze::N,1208,
-BarN,Bär::N,1820,
-EichhornchenN,Eichhörnchen::N,1628,
-ElchN,Elch::N,1772,
-FuchsN,Fuchs::N,1312,
-HaseN,Hase::N,1190,
-MausN,Maus::N,1491,
-WolfN,Wolf::N,522,
-VogelN,Vogel::N,937,
-SchwarmN,Schwarm::N,2974,
-HuhnN,Huhn::N,1318,
-HahnN,Hahn::N,1511,
-GansN,Gans::N,1187,
-AdlerN,Adler::N,1905,
-EnteN,Ente::N,1360,
-EuleN,Eule::N,735,
-KranichN,Kranich::N,1830,
-KraheN,Krähe::N,913,
-KuckuckN,Kuckuck::N,2934,
-SchwanN,Schwan::N,2837,
-FischN,Fisch::N,227,
-BarschN,Barsch::N,2966,
-HechtN,Hecht::N,2967,
-SchlangeTierN,Schlange[Tier]::N,730,
-WurmN,Wurm::N,1219,
-SpinneN,Spinne::N,843,
-AmeiseN,Ameise::N,587,
-LausN,Laus::N,1392,
-MuckeN,Mücke::N,1509,
-FliegeN,Fliege::N,1504,
-SchmetterlingN,Schmetterling::N,1791,
-BeereN,Beere::N,904,
-ApfelN,Apfel::N,1320,
-PilzN,Pilz::N,641,
-ZwiebelN,Zwiebel::N,2366,
-SaatN,Saat::N,714,
-KornN,Korn::N,605,
-HeuN,Heu::N,342,
-SchaleN,Schale::N,2373,
-GrubeN,Grube::N,2539,
-FalleN,Falle::N,1075,
-SchlingeN,Schlinge::N,2604,
-SpurN,Spur::N,318,
-AscheN,Asche::N,646,
+BlattN,Blatt::N,628,LEAF
+BirkeN,Birke::N,1855,BIRCH
+KieferBaumN,Kiefer[Baum]::N,1740,PINE
+WeideBaumN,Weide[Baum]::N,818,WILLOW
+TanneN,Tanne::N,1915,FIR
+HornN,Horn::N,1393,HORN (ANATOMY)
+FederN,Feder::N,1201,FEATHER
+FellN,Fell::N,580,FUR
+FlugelN,Flügel::N,1257,WING
+KlaueN,Klaue::N,72,CLAW
+KralleN,Kralle::N,2965,PAW
+SchwanzN,Schwanz::N,1220,TAIL
+EiN,Ei::N,744,EGG
+NestN,Nest::N,539,NEST
+BauN,Bau::N,2949,LAIR
+TierN,Tier::N,619,ANIMAL
+HerdeN,Herde::N,2939,FLOCK (OF ANIMALS)
+KuhN,Kuh::N,1007,COW
+BulleN,Bulle::N,1008,BULL
+PferdN,Pferd::N,615,HORSE
+SchafN,Schaf::N,1331,SHEEP
+SchweinN,Schwein::N,1337,PIG
+HundN,Hund::N,2009,DOG
+KatzeN,Katze::N,1208,CAT
+BarN,Bär::N,1820,BEAR
+EichhornchenN,Eichhörnchen::N,1628,SQUIRREL
+ElchN,Elch::N,1772,ELK
+FuchsN,Fuchs::N,1312,FOX
+HaseN,Hase::N,1190,HARE
+MausN,Maus::N,1491,MOUSE
+WolfN,Wolf::N,522,WOLF
+VogelN,Vogel::N,937,BIRD
+SchwarmN,Schwarm::N,2974,SWARM (OF BIRDS)
+HuhnN,Huhn::N,1318,CHICKEN
+HahnN,Hahn::N,1511,ROOSTER
+GansN,Gans::N,1187,GOOSE
+AdlerN,Adler::N,1905,EAGLE
+EnteN,Ente::N,1360,DUCK
+EuleN,Eule::N,735,OWL
+KranichN,Kranich::N,1830,CRANE
+KraheN,Krähe::N,913,CROW
+KuckuckN,Kuckuck::N,2934,CUCKOO
+SchwanN,Schwan::N,2837,SWAN
+FischN,Fisch::N,227,FISH
+BarschN,Barsch::N,2966,PERCH (FISH)
+HechtN,Hecht::N,2967,PIKE (FISH)
+SchlangeTierN,Schlange[Tier]::N,730,SNAKE
+WurmN,Wurm::N,1219,WORM
+SpinneN,Spinne::N,843,SPIDER
+AmeiseN,Ameise::N,587,ANT
+LausN,Laus::N,1392,LOUSE
+MuckeN,Mücke::N,1509,MOSQUITO
+FliegeN,Fliege::N,1504,FLY (INSECT)
+SchmetterlingN,Schmetterling::N,1791,BUTTERFLY
+BeereN,Beere::N,904,BERRY
+ApfelN,Apfel::N,1320,APPLE
+PilzN,Pilz::N,641,MUSHROOM
+ZwiebelN,Zwiebel::N,2366,ONION
+SaatN,Saat::N,714,SEED
+KornN,Korn::N,605,GRAIN
+HeuN,Heu::N,342,HAY
+SchaleN,Schale::N,2373,SKIN (OF FRUIT)
+GrubeN,Grube::N,2539,PIT (POTHOLE)
+FalleN,Falle::N,1075,TRAP (PITFALL)
+SchlingeN,Schlinge::N,2604,NOOSE
+SpurN,Spur::N,318,FOOTPRINT
+AscheN,Asche::N,646,ASH
 DreckN,Dreck::N,,
-EisenN,Eisen::N,621,
-GoldN,Gold::N,1369,
-SilberN,Silber::N,759,
-KohleN,Kohle::N,2658,
-GlasN,Glas::N,604,
-LehmN,Lehm::N,1399,
-SandN,Sand::N,671,
-MenschN,Mensch::N,683,
-MannN,Mann::N,1554,
-FrauN,Frau::N,962,
-KindN,Kind::N,1304,
-JungeN,Junge::N,1366,
-MadchenN,Mädchen::N,1646,
-FamilieN,Familie::N,194,
-GrovaterN,Großvater::N,1383,
-GromutterN,Großmutter::N,1496,
-ElternN,Eltern::N,505,
-VaterN,Vater::N,1217,
-MutterN,Mutter::N,1216,
-SohnN,Sohn::N,1620,
-TochterN,Tochter::N,1357,
-BruderN,Bruder::N,1262,
-SchwesterN,Schwester::N,1263,
-OnkelN,Onkel::N,1327,
-TanteN,Tante::N,1272,
-EhemannN,Ehemann::N,1200,
-EhefrauN,Ehefrau::N,1199,
-FreudeN,Freude::N,2524,
-GelachterN,Gelächter::N,2958,
-GluckN,Glück::N,2941,
-KummerN,Kummer::N,1668,
+EisenN,Eisen::N,621,IRON
+GoldN,Gold::N,1369,GOLD
+SilberN,Silber::N,759,SILVER
+KohleN,Kohle::N,2658,COAL
+GlasN,Glas::N,604,GLASS
+LehmN,Lehm::N,1399,CLAY
+SandN,Sand::N,671,SAND
+MenschN,Mensch::N,683,PERSON
+MannN,Mann::N,1554,MAN
+FrauN,Frau::N,962,WOMAN
+KindN,Kind::N,1304,CHILD (YOUNG HUMAN)
+JungeN,Junge::N,1366,BOY
+MadchenN,Mädchen::N,1646,GIRL
+FamilieN,Familie::N,194,FAMILY
+GrovaterN,Großvater::N,1383,GRANDFATHER
+GromutterN,Großmutter::N,1496,GRANDMOTHER
+ElternN,Eltern::N,505,PARENTS
+VaterN,Vater::N,1217,FATHER
+MutterN,Mutter::N,1216,MOTHER
+SohnN,Sohn::N,1620,SON
+TochterN,Tochter::N,1357,DAUGHTER
+BruderN,Bruder::N,1262,BROTHER
+SchwesterN,Schwester::N,1263,SISTER
+OnkelN,Onkel::N,1327,UNCLE
+TanteN,Tante::N,1272,AUNT
+EhemannN,Ehemann::N,1200,HUSBAND
+EhefrauN,Ehefrau::N,1199,WIFE
+FreudeN,Freude::N,2524,JOY
+GelachterN,Gelächter::N,2958,LAUGHTER
+GluckN,Glück::N,2941,HAPPINESS
+KummerN,Kummer::N,1668,GRIEF
 WunschN,Wunsch::N,,
 LustN,Lust::N,,
-GeistN,Geist::N,53,
-GedankeN,Gedanke::N,2975,
-GedachtnisN,Gedächtnis::N,1018,
-VerstandN,Verstand::N,1562,
-SinnN,Sinn::N,2950,
-GrundN,Grund::N,2968,
-WahrheitN,Wahrheit::N,1638,
-GesprachN,Gespräch::N,2933,
-MarchenN,Märchen::N,2937,
-ErzahlungN,Erzählung::N,2060,
-NachrichtN,Nachricht::N,2961,
-NeuigkeitN,Neuigkeit::N,2964,
-NameN,Name::N,1405,
+GeistN,Geist::N,53,SPIRIT
+GedankeN,Gedanke::N,2975,THOUGHT
+GedachtnisN,Gedächtnis::N,1018,MEMORY
+VerstandN,Verstand::N,1562,MIND
+SinnN,Sinn::N,2950,MEANING
+GrundN,Grund::N,2968,REASON
+WahrheitN,Wahrheit::N,1638,TRUTH
+GesprachN,Gespräch::N,2933,CONVERSATION
+MarchenN,Märchen::N,2937,FAIRY TALE
+ErzahlungN,Erzählung::N,2060,STORY
+NachrichtN,Nachricht::N,2961,MESSAGE
+NeuigkeitN,Neuigkeit::N,2964,NEWS
+NameN,Name::N,1405,NAME
 RatselN,Rätsel::N,,
-RedeN,Rede::N,1115,
-SpracheN,Sprache::N,1307,
-StimmeN,Stimme::N,1363,
-WortN,Wort::N,1599,
-ZeichenN,Zeichen::N,1720,
-RufN,Ruf::N,2944,
-LarmN,Lärm::N,1182,
-LautN,Laut::N,1811,
-TonN,Ton::N,2995,
-LiedN,Lied::N,1096,
-RuheN,Ruhe::N,1314,
+RedeN,Rede::N,1115,SPEECH
+SpracheN,Sprache::N,1307,LANGUAGE
+StimmeN,Stimme::N,1363,VOICE
+WortN,Wort::N,1599,WORD
+ZeichenN,Zeichen::N,1720,SIGN
+RufN,Ruf::N,2944,CALL (APPEAL)
+LarmN,Lärm::N,1182,NOISE
+LautN,Laut::N,1811,SOUND OR NOISE
+TonN,Ton::N,2995,TONE (MUSIC)
+LiedN,Lied::N,1096,SONG
+RuheN,Ruhe::N,1314,QUIET
 LeuteN,Leute::N,,
-VolkN,Volk::N,789,
-ArbeitN,Arbeit::N,984,
-GastN,Gast::N,1782,
-GeschenkN,Geschenk::N,2982,
-SpielN,Spiel::N,2467,
-GesellschaftN,Gesellschaft::N,2983,
+VolkN,Volk::N,789,PEOPLE
+ArbeitN,Arbeit::N,984,WORK (LABOUR)
+GastN,Gast::N,1782,GUEST
+GeschenkN,Geschenk::N,2982,GIFT
+SpielN,Spiel::N,2467,GAME
+GesellschaftN,Gesellschaft::N,2983,COMPANIONSHIP
 HilfeN,Hilfe::N,,
-FreundN,Freund::N,1325,
+FreundN,Freund::N,1325,FRIEND
 KameradN,Kamerad::N,,
 AngelegenheitN,Angelegenheit::N,,
-AnzahlN,Anzahl::N,2945,
-ArtN,Art::N,844,
-StuckN,Stück::N,594,
-TeilN,Teil::N,779,
-HalfteN,Hälfte::N,816,
-KreisN,Kreis::N,1467,
-KreuzN,Kreuz::N,1367,
-LinieN,Linie::N,1048,
-StrichN,Strich::N,2993,
-AbstandN,Abstand::N,2948,
-EntfernungN,Entfernung::N,2978,
-GegendN,Gegend::N,2980,
-PlatzN,Platz::N,3006,
-OrtN,Ort::N,723,
-SeiteN,Seite::N,682,
-MitteN,Mitte::N,1093,
-GegenstandN,Gegenstand::N,2981,
-SacheN,Sache::N,738,
-RandN,Rand::N,2989,
-KanteN,Kante::N,863,
-EckeN,Ecke::N,192,
-SpitzeN,Spitze::N,2992,
-EndeN,Ende::N,742,
-LochN,Loch::N,1667,
+AnzahlN,Anzahl::N,2945,COUNT (QUANTITY)
+ArtN,Art::N,844,KIND (THING)
+StuckN,Stück::N,594,PIECE
+TeilN,Teil::N,779,PART
+HalfteN,Hälfte::N,816,HALF
+KreisN,Kreis::N,1467,CIRCLE
+KreuzN,Kreuz::N,1367,CROSS
+LinieN,Linie::N,1048,LINE
+StrichN,Strich::N,2993,STROKE (OF PEN)
+AbstandN,Abstand::N,2948,GAP (DISTANCE)
+EntfernungN,Entfernung::N,2978,DISTANCE
+GegendN,Gegend::N,2980,AREA
+PlatzN,Platz::N,3006,SPACE (AVAILABLE)
+OrtN,Ort::N,723,PLACE (POSITION)
+SeiteN,Seite::N,682,SIDE
+MitteN,Mitte::N,1093,MIDDLE
+GegenstandN,Gegenstand::N,2981,ITEM
+SacheN,Sache::N,738,THING
+RandN,Rand::N,2989,FRINGE
+KanteN,Kante::N,863,EDGE
+EckeN,Ecke::N,192,CORNER
+SpitzeN,Spitze::N,2992,TIP (OF OBJECT)
+EndeN,Ende::N,742,END (OF SPACE)
+LochN,Loch::N,1667,HOLE
 WinkelN,Winkel::N,,
-MusterN,Muster::N,2988,
-GroeN,Größe::N,2845,
-LangeN,Länge::N,2537,
-HoheN,Höhe::N,2985,
-GewichtN,Gewicht::N,2466,
-MengeN,Menge::N,2987,
-HaufenN,Haufen::N,2984,
+MusterN,Muster::N,2988,PATTERN
+GroeN,Größe::N,2845,SIZE (OF OBJECT)
+LangeN,Länge::N,2537,LENGTH
+HoheN,Höhe::N,2985,HEIGHT
+GewichtN,Gewicht::N,2466,WEIGHT
+MengeN,Menge::N,2987,AMOUNT
+HaufenN,Haufen::N,2984,HEAP
 ReiheN,Reihe::N,,
-BootN,Boot::N,1844,
-RuderN,Ruder::N,234,
-SchlittenN,Schlitten::N,16,
-SkiN,Ski::N,2991,
-LagerfeuerN,Lagerfeuer::N,2986,
-LastN,Last::N,1679,
-GangN,Gang::N,2979,
-SchrittN,Schritt::N,1158,
-NordenN,Norden::N,1598,
-SudenN,Süden::N,1595,
-WestenN,Westen::N,1817,
-OstenN,Osten::N,1877,
-HolzN,Holz::N,1803,
-BrettN,Brett::N,1227,
-PlatteN,Platte::N,2952,
-StutzeN,Stütze::N,2994,
-StangeN,Stange::N,281,
-StockN,Stock::N,1295,
+BootN,Boot::N,1844,BOAT
+RuderN,Ruder::N,234,PADDLE
+SchlittenN,Schlitten::N,16,SLED
+SkiN,Ski::N,2991,SKI
+LagerfeuerN,Lagerfeuer::N,2986,CAMPFIRE
+LastN,Last::N,1679,LOAD
+GangN,Gang::N,2979,WALK (MANNER)
+SchrittN,Schritt::N,1158,STEP
+NordenN,Norden::N,1598,NORTH
+SudenN,Süden::N,1595,SOUTH
+WestenN,Westen::N,1817,WEST
+OstenN,Osten::N,1877,EAST
+HolzN,Holz::N,1803,WOOD
+BrettN,Brett::N,1227,BOARD
+PlatteN,Platte::N,2952,SLAB
+StutzeN,Stütze::N,2994,SUPPORT (OF OBJECT)
+StangeN,Stange::N,281,POST
+StockN,Stock::N,1295,STICK
 StabN,Stab::N,,
-RohrN,Rohr::N,2956,
-HausN,Haus::N,1252,
-HeimN,Heim::N,2406,
-OfenN,Ofen::N,859,
-FubodenN,Fußboden::N,1632,
-TischN,Tisch::N,1775,
-StuhlN,Stuhl::N,1476,
-WiegeN,Wiege::N,2946,
-BettN,Bett::N,1663,
-RegalN,Regal::N,745,
-KisteN,Kiste::N,1465,
-FensterN,Fenster::N,1375,
-TurN,Tür::N,1567,
-TorN,Tor::N,2940,
-ZaunN,Zaun::N,1690,
-DachN,Dach::N,769,
-LeiterN,Leiter::N,1464,
-BesenN,Besen::N,245,
-SpatenN,Spaten::N,1176,
-SchaufelN,Schaufel::N,1901,
-GabelN,Gabel::N,1302,
-LoffelN,Löffel::N,1378,
-MesserN,Messer::N,1352,
-NagelN,Nagel::N,502,
-NetzN,Netz::N,2963,
-HakenN,Haken::N,1071,
-GriffN,Griff::N,1254,
-SchlossN,Schloss::N,1596,
-BildN,Bild::N,2401,
-FigurN,Figur::N,1945,
-PuppeN,Puppe::N,1659,
-BeutelN,Beutel::N,2951,
-BundelN,Bündel::N,2943,
-TascheN,Tasche::N,2468,
-EimerN,Eimer::N,2052,
-DeckelN,Deckel::N,2319,
-GeschirrN,Geschirr::N,481,
-SackN,Sack::N,2990,
-TasseN,Tasse::N,476,
-TopfN,Topf::N,1462,
-KesselN,Kessel::N,854,
-EssenN,Essen::N,1526,
-NahrungN,Nahrung::N,256,
+RohrN,Rohr::N,2956,TUBE
+HausN,Haus::N,1252,HOUSE
+HeimN,Heim::N,2406,HOME
+OfenN,Ofen::N,859,STOVE
+FubodenN,Fußboden::N,1632,FLOOR
+TischN,Tisch::N,1775,TABLE
+StuhlN,Stuhl::N,1476,CHAIR
+WiegeN,Wiege::N,2946,CRADLE
+BettN,Bett::N,1663,BED
+RegalN,Regal::N,745,SHELF
+KisteN,Kiste::N,1465,BOX
+FensterN,Fenster::N,1375,WINDOW
+TurN,Tür::N,1567,DOOR
+TorN,Tor::N,2940,GATE
+ZaunN,Zaun::N,1690,FENCE
+DachN,Dach::N,769,ROOF
+LeiterN,Leiter::N,1464,LADDER
+BesenN,Besen::N,245,BROOM
+SpatenN,Spaten::N,1176,SPADE
+SchaufelN,Schaufel::N,1901,SHOVEL
+GabelN,Gabel::N,1302,FORK
+LoffelN,Löffel::N,1378,SPOON
+MesserN,Messer::N,1352,KNIFE
+NagelN,Nagel::N,502,NAIL (TOOL)
+NetzN,Netz::N,2963,NET
+HakenN,Haken::N,1071,HOOK
+GriffN,Griff::N,1254,HANDLE
+SchlossN,Schloss::N,1596,LOCK
+BildN,Bild::N,2401,PICTURE
+FigurN,Figur::N,1945,IDOL
+PuppeN,Puppe::N,1659,DOLL
+BeutelN,Beutel::N,2951,POUCH
+BundelN,Bündel::N,2943,BUNDLE
+TascheN,Tasche::N,2468,BAG
+EimerN,Eimer::N,2052,BUCKET
+DeckelN,Deckel::N,2319,"LID (COVER, CAP)"
+GeschirrN,Geschirr::N,481,DISH
+SackN,Sack::N,2990,SACK
+TasseN,Tasse::N,476,CUP
+TopfN,Topf::N,1462,POT
+KesselN,Kessel::N,854,KETTLE
+EssenN,Essen::N,1526,MEAL
+NahrungN,Nahrung::N,256,FOOD
 SpeiseN,Speise::N,,
-FleischN,Fleisch::N,634,
+FleischN,Fleisch::N,634,MEAT
 GetreideN,Getreide::N,,
-BreiN,Brei::N,400,
-BrotN,Brot::N,1368,
-ScheibeN,Scheibe::N,2954,
-FettN,Fett::N,323,
-ButterN,Butter::N,1245,
-OlN,Öl::N,1484,
-SalzN,Salz::N,1274,
-SuppeN,Suppe::N,1547,
-HonigN,Honig::N,942,
-MilchN,Milch::N,635,
-TeeN,Tee::N,1373,
-LederN,Leder::N,629,
-WolleN,Wolle::N,964,
-StoffN,Stoff::N,1616,
-NadelN,Nadel::N,1382,
-FadenN,Faden::N,1161,
-KnopfN,Knopf::N,757,
-KnotenN,Knoten::N,760,
-FarbeN,Farbe::N,647,
-KleidungN,Kleidung::N,1895,
-HemdN,Hemd::N,1622,
-KragenN,Kragen::N,2012,
-ArmelN,Ärmel::N,2953,
-HoseN,Hose::N,809,
-GurtelN,Gürtel::N,772,
-MutzeN,Mütze::N,1288,
-SchuhN,Schuh::N,1381,
-StiefelN,Stiefel::N,585,
-RingN,Ring::N,1374,
-BandN,Band::N,2969,
-KammN,Kamm::N,1475,
-SpiegelN,Spiegel::N,1171,
-RiemenN,Riemen::N,2973,
-SchnurN,Schnur::N,362,
-LeineN,Leine::N,2959,
-DeckeN,Decke::N,806,
-KissenN,Kissen::N,1044,
+BreiN,Brei::N,400,MUSH
+BrotN,Brot::N,1368,BREAD
+ScheibeN,Scheibe::N,2954,SLICE
+FettN,Fett::N,323,FAT (ORGANIC SUBSTANCE)
+ButterN,Butter::N,1245,BUTTER
+OlN,Öl::N,1484,OIL (ORGANIC SUBSTANCE)
+SalzN,Salz::N,1274,SALT
+SuppeN,Suppe::N,1547,SOUP
+HonigN,Honig::N,942,HONEY
+MilchN,Milch::N,635,MILK
+TeeN,Tee::N,1373,TEA
+LederN,Leder::N,629,LEATHER
+WolleN,Wolle::N,964,WOOL
+StoffN,Stoff::N,1616,CLOTH
+NadelN,Nadel::N,1382,NEEDLE (FOR SEWING)
+FadenN,Faden::N,1161,THREAD
+KnopfN,Knopf::N,757,BUTTON
+KnotenN,Knoten::N,760,KNOT
+FarbeN,Farbe::N,647,PAINT (PIGMENTS)
+KleidungN,Kleidung::N,1895,CLOTHES
+HemdN,Hemd::N,1622,SHIRT
+KragenN,Kragen::N,2012,COLLAR
+ArmelN,Ärmel::N,2953,SLEEVE
+HoseN,Hose::N,809,TROUSERS
+GurtelN,Gürtel::N,772,BELT
+MutzeN,Mütze::N,1288,CAP
+SchuhN,Schuh::N,1381,SHOE
+StiefelN,Stiefel::N,585,BOOT
+RingN,Ring::N,1374,RING
+BandN,Band::N,2969,RIBBON
+KammN,Kamm::N,1475,COMB
+SpiegelN,Spiegel::N,1171,MIRROR
+RiemenN,Riemen::N,2973,STRAP
+SchnurN,Schnur::N,362,STRING
+LeineN,Leine::N,2959,LEASH
+DeckeN,Decke::N,806,BLANKET
+KissenN,Kissen::N,1044,PILLOW
 TuchN,Tuch::N,,
-HandtuchN,Handtuch::N,1021,
+HandtuchN,Handtuch::N,1021,TOWEL
 KraftN,Kraft::N,,
-StarkeN,Stärke::N,202,
-GesundheitN,Gesundheit::N,1364,
-KrankheitN,Krankheit::N,1986,
-SchmerzN,Schmerz::N,1783,
-WundeN,Wunde::N,1109,
-FieberN,Fieber::N,1534,
-ArzneiN,Arznei::N,1372,
-BruckeN,Brücke::N,1011,
-BrunnenN,Brunnen::N,954,
+StarkeN,Stärke::N,202,STRENGTH
+GesundheitN,Gesundheit::N,1364,HEALTHY
+KrankheitN,Krankheit::N,1986,DISEASE
+SchmerzN,Schmerz::N,1783,PAIN
+WundeN,Wunde::N,1109,WOUND
+FieberN,Fieber::N,1534,FEVER
+ArzneiN,Arznei::N,1372,MEDICINE
+BruckeN,Brücke::N,1011,BRIDGE
+BrunnenN,Brunnen::N,954,WELL
 WeideN,Weide::N,,
-PfadN,Pfad::N,2252,
-WegN,Weg::N,2457,
-StraeN,Straße::N,667,
-DorfN,Dorf::N,930,
-StadtN,Stadt::N,1391,
-BriefN,Brief::N,1612,
-BuchN,Buch::N,963,
-BuchstabeN,Buchstabe::N,1024,
-ZeitungN,Zeitung::N,1298,
-LebenN,Leben::N,210,
-TodN,Tod::N,910,
-GrabN,Grab::N,1773,
-KircheN,Kirche::N,1349,
-SundeN,Sünde::N,2971,
-GottN,Gott::N,1944,
-ArbeiterN,Arbeiter::N,2977,
-ChefN,Chef::N,2930,
-MeisterN,Meister::N,383,
-ArztN,Arzt::N,597,
-LehrerN,Lehrer::N,1038,
-GeldN,Geld::N,1559,
-GeschaftN,Geschäft::N,2931,
-LadenN,Laden::N,746,
-PreisN,Preis::N,657,
-WareN,Ware::N,2957,
-NutzenN,Nutzen::N,2929,
-ReichtumN,Reichtum::N,2996,
-WeltN,Welt::N,965,
-LandN,Land::N,1300,
-StaatN,Staat::N,2955,
-KonigN,König::N,1508,
-MachtN,Macht::N,2526,
-GrenzeN,Grenze::N,2546,
-KriegN,Krieg::N,935,
-FeindN,Feind::N,1358,
-GewaltN,Gewalt::N,2976,
+PfadN,Pfad::N,2252,PATH
+WegN,Weg::N,2457,PATH OR ROAD
+StraeN,Straße::N,667,ROAD
+DorfN,Dorf::N,930,VILLAGE
+StadtN,Stadt::N,1391,TOWN
+BriefN,Brief::N,1612,LETTER
+BuchN,Buch::N,963,BOOK
+BuchstabeN,Buchstabe::N,1024,CHARACTER
+ZeitungN,Zeitung::N,1298,NEWSPAPER
+LebenN,Leben::N,210,LIFE
+TodN,Tod::N,910,DEATH
+GrabN,Grab::N,1773,GRAVE
+KircheN,Kirche::N,1349,CHURCH
+SundeN,Sünde::N,2971,SIN
+GottN,Gott::N,1944,GOD
+ArbeiterN,Arbeiter::N,2977,WORKER
+ChefN,Chef::N,2930,BOSS
+MeisterN,Meister::N,383,MASTER
+ArztN,Arzt::N,597,PHYSICIAN
+LehrerN,Lehrer::N,1038,TEACHER
+GeldN,Geld::N,1559,MONEY
+GeschaftN,Geschäft::N,2931,BUSINESS
+LadenN,Laden::N,746,SHOP
+PreisN,Preis::N,657,PRICE
+WareN,Ware::N,2957,WARE
+NutzenN,Nutzen::N,2929,BENEFIT
+ReichtumN,Reichtum::N,2996,WEALTH
+WeltN,Welt::N,965,WORLD
+LandN,Land::N,1300,COUNTRY
+StaatN,Staat::N,2955,STATE (POLITICS)
+KonigN,König::N,1508,KING
+MachtN,Macht::N,2526,POWER
+GrenzeN,Grenze::N,2546,BORDER
+KriegN,Krieg::N,935,WAR
+FeindN,Feind::N,1358,ENEMY
+GewaltN,Gewalt::N,2976,VIOLENCE
 KampfN,Kampf::N,,
-BogenWaffeN,Bogen[Waffe]::N,994,
-PfeilN,Pfeil::N,977,
-GewehrN,Gewehr::N,1566,
-FehlerN,Fehler::N,1293,
-LugeN,Lüge::N,475,
-SchadenN,Schaden::N,2947,
-UngluckN,Unglück::N,56,
-SchuldN,Schuld::N,134,
-AlterN,Alter::N,1789,
-SchlussN,Schluss::N,743,
-ZeitN,Zeit::N,892,
-TagN,Tag::N,1225,
-MorgenN,Morgen::N,1339,
-MittagN,Mittag::N,12,
-AbendN,Abend::N,1629,
-NachtN,Nacht::N,1233,
-WocheN,Woche::N,1469,
-MonatN,Monat::N,1370,
-JahrN,Jahr::N,1226,
-FruhlingN,Frühling::N,1537,
-SommerN,Sommer::N,1342,
-HerbstN,Herbst::N,1276,
-WinterN,Winter::N,1471,
-JanuarN,Januar::N,2036,
-FebruarN,Februar::N,2037,
-MarzN,März::N,2846,
-AprilN,April::N,2847,
-MaiN,Mai::N,2848,
-JuniN,Juni::N,2849,
-JuliN,Juli::N,2850,
-AugustN,August::N,2851,
-SeptemberN,September::N,2852,
-OktoberN,Oktober::N,2853,
-NovemberN,November::N,2854,
-DezemberN,Dezember::N,2855,
-MontagN,Montag::N,1697,
-DienstagN,Dienstag::N,1695,
-MittwochN,Mittwoch::N,1694,
-DonnerstagN,Donnerstag::N,1693,
-FreitagN,Freitag::N,1692,
-SamstagN,Samstag::N,1700,
-SonntagN,Sonntag::N,1699,
-groA,groß::A,1202,
-kleinA,klein::A,1246,
-langA,lang::A,1203,
-kurzA,kurz::A,1645,
-breitA,breit::A,1243,
-schmalA,schmal::A,1267,
-dichtA,dicht::A,2239,
-dickGegenstandA,dick[Gegenstand]::A,1244,
-dunnA,dünn::A,2249,
-feinA,fein::A,2157,
-festA,fest::A,3003,
-flachA,flach::A,1633,
-glattA,glatt::A,1234,
-hartA,hart::A,1884,
-weichA,weich::A,1856,
-rundA,rund::A,1395,
-spitzA,spitz::A,372,
-scharfA,scharf::A,1396,
-stumpfA,stumpf::A,379,
-schwerA,schwer::A,1210,
-schonA,schön::A,1427,
-heiA,heiß::A,1286,
-warmA,warm::A,1232,
-kaltA,kalt::A,1287,
-kuhlA,kühl::A,2483,
-frischA,frisch::A,243,
-feuchtA,feucht::A,2998,
-nassA,nass::A,1726,
-trockenA,trocken::A,1398,
-vollA,voll::A,1429,
-leerA,leer::A,1624,
+BogenWaffeN,Bogen[Waffe]::N,994,BOW
+PfeilN,Pfeil::N,977,ARROW
+GewehrN,Gewehr::N,1566,GUN
+FehlerN,Fehler::N,1293,MISTAKE
+LugeN,Lüge::N,475,UNTRUTH
+SchadenN,Schaden::N,2947,DAMAGE (INJURY)
+UngluckN,Unglück::N,56,BAD LUCK
+SchuldN,Schuld::N,134,FAULT
+AlterN,Alter::N,1789,AGE
+SchlussN,Schluss::N,743,END (OF TIME)
+ZeitN,Zeit::N,892,TIME
+TagN,Tag::N,1225,DAY (NOT NIGHT)
+MorgenN,Morgen::N,1339,MORNING
+MittagN,Mittag::N,12,MIDDAY
+AbendN,Abend::N,1629,EVENING
+NachtN,Nacht::N,1233,NIGHT
+WocheN,Woche::N,1469,WEEK
+MonatN,Monat::N,1370,MONTH
+JahrN,Jahr::N,1226,YEAR
+FruhlingN,Frühling::N,1537,SPRINGTIME
+SommerN,Sommer::N,1342,SUMMER
+HerbstN,Herbst::N,1276,AUTUMN
+WinterN,Winter::N,1471,WINTER
+JanuarN,Januar::N,2036,JANUARY
+FebruarN,Februar::N,2037,FEBRUARY
+MarzN,März::N,2846,MARCH
+AprilN,April::N,2847,APRIL
+MaiN,Mai::N,2848,MAY (MONTH)
+JuniN,Juni::N,2849,JUNE
+JuliN,Juli::N,2850,JULY
+AugustN,August::N,2851,AUGUST
+SeptemberN,September::N,2852,SEPTEMBER
+OktoberN,Oktober::N,2853,OCTOBER
+NovemberN,November::N,2854,NOVEMBER
+DezemberN,Dezember::N,2855,DECEMBER
+MontagN,Montag::N,1697,MONDAY
+DienstagN,Dienstag::N,1695,TUESDAY
+MittwochN,Mittwoch::N,1694,WEDNESDAY
+DonnerstagN,Donnerstag::N,1693,THURSDAY
+FreitagN,Freitag::N,1692,FRIDAY
+SamstagN,Samstag::N,1700,SATURDAY
+SonntagN,Sonntag::N,1699,SUNDAY
+groA,groß::A,1202,BIG
+kleinA,klein::A,1246,SMALL
+langA,lang::A,1203,LONG
+kurzA,kurz::A,1645,SHORT
+breitA,breit::A,1243,WIDE
+schmalA,schmal::A,1267,NARROW
+dichtA,dicht::A,2239,DENSE
+dickGegenstandA,dick[Gegenstand]::A,1244,THICK
+dunnA,dünn::A,2249,THIN (OF SHAPE OF OBJECT)
+feinA,fein::A,2157,FINE OR THIN
+festA,fest::A,3003,SOLID
+flachA,flach::A,1633,FLAT
+glattA,glatt::A,1234,SMOOTH
+hartA,hart::A,1884,HARD
+weichA,weich::A,1856,SOFT
+rundA,rund::A,1395,ROUND
+spitzA,spitz::A,372,POINTED
+scharfA,scharf::A,1396,SHARP
+stumpfA,stumpf::A,379,BLUNT
+schwerA,schwer::A,1210,HEAVY
+schonA,schön::A,1427,BEAUTIFUL
+heiA,heiß::A,1286,HOT
+warmA,warm::A,1232,WARM
+kaltA,kalt::A,1287,COLD
+kuhlA,kühl::A,2483,COLD (OF WEATHER)
+frischA,frisch::A,243,FRESH
+feuchtA,feucht::A,2998,DAMP
+nassA,nass::A,1726,WET
+trockenA,trocken::A,1398,DRY
+vollA,voll::A,1429,FULL
+leerA,leer::A,1624,EMPTY
 offenA,offen::A,,
-geschlossenA,geschlossen::A,589,
-sauberA,sauber::A,704,
-schmutzigA,schmutzig::A,1230,
-rohA,roh::A,1959,
-reifA,reif::A,178,
-leckerA,lecker::A,1813,
-suA,süß::A,717,
-bitterA,bitter::A,887,
-sauerA,sauer::A,1906,
-hellA,hell::A,679,
-dunkelA,dunkel::A,706,
-schwarzA,schwarz::A,163,
-weiA,weiß::A,1335,
-rotA,rot::A,156,
-gelbA,gelb::A,1424,
-blauA,blau::A,837,
-grunA,grün::A,1425,
-grauA,grau::A,153,
-buntA,bunt::A,2997,
-billigA,billig::A,1887,
-teuerA,teuer::A,1426,
-wertvollA,wertvoll::A,3002,
-blindA,blind::A,1653,
-taubA,taub::A,996,
-kraftigA,kräftig::A,3001,
-starkA,stark::A,785,
-schwachA,schwach::A,1601,
-fettA,fett::A,1279,
-schlankA,schlank::A,1400,
-hubschA,hübsch::A,2410,
-boseA,böse::A,45,
-dummA,dumm::A,1518,
-faulA,faul::A,1564,
-fleiigA,fleißig::A,2077,
-geizigA,geizig::A,1774,
-klugA,klug::A,1310,
-geschicktA,geschickt::A,1824,
-liebA,lieb::A,2470,
-lustigA,lustig::A,1976,
-sanftA,sanft::A,1954,
-hungrigA,hungrig::A,1533,
-krankA,krank::A,1847,
-nacktA,nackt::A,590,
-traurigA,traurig::A,699,
-lebendigA,lebendig::A,3000,
-gutA,gut::A,1035,
-schlechtA,schlecht::A,1292,
-richtigA,richtig::A,1725,
-schlimmA,schlimm::A,419,
-wahrA,wahr::A,1657,
-altA,alt::A,1229,
-neuA,neu::A,1231,
-ehemaligA,ehemalig::A,3004,
-altLebewesenA,alt[Lebewesen]::A,2112,
-jungA,jung::A,1207,
-armA,arm::A,1674,
-reichA,reich::A,712,
-bekanntA,bekannt::A,3005,
+geschlossenA,geschlossen::A,589,CLOSED
+sauberA,sauber::A,704,CLEAN
+schmutzigA,schmutzig::A,1230,DIRTY
+rohA,roh::A,1959,RAW
+reifA,reif::A,178,RIPE
+leckerA,lecker::A,1813,TASTY
+suA,süß::A,717,SWEET
+bitterA,bitter::A,887,BITTER
+sauerA,sauer::A,1906,SOUR
+hellA,hell::A,679,BRIGHT
+dunkelA,dunkel::A,706,DARK
+schwarzA,schwarz::A,163,BLACK
+weiA,weiß::A,1335,WHITE
+rotA,rot::A,156,RED
+gelbA,gelb::A,1424,YELLOW
+blauA,blau::A,837,BLUE
+grunA,grün::A,1425,GREEN
+grauA,grau::A,153,GREY
+buntA,bunt::A,2997,COLORFUL
+billigA,billig::A,1887,CHEAP
+teuerA,teuer::A,1426,EXPENSIVE
+wertvollA,wertvoll::A,3002,PRECIOUS
+blindA,blind::A,1653,BLIND
+taubA,taub::A,996,DEAF
+kraftigA,kräftig::A,3001,POWERFUL
+starkA,stark::A,785,STRONG
+schwachA,schwach::A,1601,WEAK
+fettA,fett::A,1279,FAT (OBESE)
+schlankA,schlank::A,1400,THIN (SLIM)
+hubschA,hübsch::A,2410,GOOD-LOOKING
+boseA,böse::A,45,EVIL
+dummA,dumm::A,1518,STUPID
+faulA,faul::A,1564,LAZY
+fleiigA,fleißig::A,2077,DILIGENT
+geizigA,geizig::A,1774,STINGY
+klugA,klug::A,1310,CLEVER
+geschicktA,geschickt::A,1824,DEXTEROUS
+liebA,lieb::A,2470,DEAR
+lustigA,lustig::A,1976,MERRY
+sanftA,sanft::A,1954,GENTLE
+hungrigA,hungrig::A,1533,BE HUNGRY
+krankA,krank::A,1847,SICK
+nacktA,nackt::A,590,NAKED
+traurigA,traurig::A,699,SAD
+lebendigA,lebendig::A,3000,LIVING
+gutA,gut::A,1035,GOOD
+schlechtA,schlecht::A,1292,BAD
+richtigA,richtig::A,1725,CORRECT (RIGHT)
+schlimmA,schlimm::A,419,SEVERE
+wahrA,wahr::A,1657,TRUE
+altA,alt::A,1229,OLD
+neuA,neu::A,1231,NEW
+ehemaligA,ehemalig::A,3004,FORMER
+altLebewesenA,alt[Lebewesen]::A,2112,OLD (AGED)
+jungA,jung::A,1207,YOUNG
+armA,arm::A,1674,POOR
+reichA,reich::A,712,RICH
+bekanntA,bekannt::A,3005,FAMILIAR
 beruhmtA,berühmt::A,,
-fremdA,fremd::A,109,
-verschiedenA,verschieden::A,2504,
-nahA,nah::A,1942,
-fernA,fern::A,1406,
-linkerA,linker::A,244,
-rechterA,rechter::A,1019,
-andererA,anderer::A,197,
-ersterA,erster::A,728,
-zweiterA,zweiter::A,1384,
-dritterA,dritter::A,1859,
-letzterA,letzter::A,1529,
-alleinADV,allein::ADV,1964,
-aufeinmalADV,auf einmal::ADV,1963,
-zusammenADV,zusammen::ADV,2482,
+fremdA,fremd::A,109,FOREIGN
+verschiedenA,verschieden::A,2504,DIFFERENT
+nahA,nah::A,1942,NEAR
+fernA,fern::A,1406,FAR
+linkerA,linker::A,244,LEFT
+rechterA,rechter::A,1019,RIGHT
+andererA,anderer::A,197,OTHER
+ersterA,erster::A,728,FIRST
+zweiterA,zweiter::A,1384,SECOND
+dritterA,dritter::A,1859,THIRD
+letzterA,letzter::A,1529,LAST (FINAL)
+alleinADV,allein::ADV,1964,ALONE
+aufeinmalADV,auf einmal::ADV,1963,IMMEDIATELY
+zusammenADV,zusammen::ADV,2482,TOGETHER
 langeADV,lange::ADV,,
-plotzlichADV,plötzlich::ADV,2920,
-sofortADV,sofort::ADV,2916,
+plotzlichADV,plötzlich::ADV,2920,SUDDENLY
+sofortADV,sofort::ADV,2916,INSTANTLY
 spaterADV,später::ADV,,
-jetztADV,jetzt::ADV,1376,
-heuteADV,heute::ADV,1283,
-morgenADV,morgen::ADV,1329,
-baldADV,bald::ADV,703,
-dannADV,dann::ADV,2921,
-gesternADV,gestern::ADV,1174,
-einstADV,einst::ADV,2914,
-damalsADV,damals::ADV,2922,
-danachADV,danach::ADV,2093,
-vorherADV,vorher::ADV,1882,
-zuerstADV,zuerst::ADV,2915,
-einmalADV,einmal::ADV,374,
-manchmalADV,manchmal::ADV,1544,
-oftADV,oft::ADV,1852,
-immerADV,immer::ADV,1676,
-niemalsADV,niemals::ADV,1656,
-hierADV,hier::ADV,136,
-hierhinADV,hierhin::ADV,2925,
-vonhierADV,von hier::ADV,2927,
-dortADV,dort::ADV,1937,
-dorthinADV,dorthin::ADV,2923,
-geradeausADV,geradeaus::ADV,1404,
-vorwartsADV,vorwärts::ADV,2912,
-ruckwartsADV,rückwärts::ADV,2911,
-zuruckADV,zurück::ADV,2910,
+jetztADV,jetzt::ADV,1376,NOW
+heuteADV,heute::ADV,1283,TODAY
+morgenADV,morgen::ADV,1329,TOMORROW
+baldADV,bald::ADV,703,SOON
+dannADV,dann::ADV,2921,THEN
+gesternADV,gestern::ADV,1174,YESTERDAY
+einstADV,einst::ADV,2914,ONCE (IN THE PAST)
+damalsADV,damals::ADV,2922,AT THAT TIME
+danachADV,danach::ADV,2093,AFTERWARDS
+vorherADV,vorher::ADV,1882,BEFORE
+zuerstADV,zuerst::ADV,2915,AT FIRST
+einmalADV,einmal::ADV,374,ONE TIME
+manchmalADV,manchmal::ADV,1544,SOMETIMES
+oftADV,oft::ADV,1852,OFTEN
+immerADV,immer::ADV,1676,ALWAYS
+niemalsADV,niemals::ADV,1656,NEVER
+hierADV,hier::ADV,136,HERE
+hierhinADV,hierhin::ADV,2925,HITHER (HERE TO)
+vonhierADV,von hier::ADV,2927,FROM HERE
+dortADV,dort::ADV,1937,THERE
+dorthinADV,dorthin::ADV,2923,THITHER (THERE TO)
+geradeausADV,geradeaus::ADV,1404,STRAIGHT
+vorwartsADV,vorwärts::ADV,2912,FORWARD
+ruckwartsADV,rückwärts::ADV,2911,BACKWARD
+zuruckADV,zurück::ADV,2910,BACK (DIRECTION)
 untenADV,unten::ADV,,
-hinabADV,hinab::ADV,1326,
-obenADV,oben::ADV,1741,
-hinaufADV,hinauf::ADV,1591,
-uberallADV,überall::ADV,2999,
-nichtADV,nicht::ADV,1240,
-einwenigADV,ein wenig::ADV,2924,
-kaumADV,kaum::ADV,2926,
-sehrADV,sehr::ADV,1311,
-soADV,so::ADV,2336,
-nochADV,noch::ADV,2919,
-nurADV,nur::ADV,1580,
-schonADV,schon::ADV,2576,
-wiederADV,wieder::ADV,204,
-vergebensADV,vergebens::ADV,1765,
-vorPRP,vor::PRP,1883,
-hinterPRP,hinter::PRP,1686,
+hinabADV,hinab::ADV,1326,DOWN
+obenADV,oben::ADV,1741,ABOVE
+hinaufADV,hinauf::ADV,1591,UP
+uberallADV,überall::ADV,2999,EVERYWHERE
+nichtADV,nicht::ADV,1240,NOT
+einwenigADV,ein wenig::ADV,2924,A LITTLE
+kaumADV,kaum::ADV,2926,HARDLY
+sehrADV,sehr::ADV,1311,VERY
+soADV,so::ADV,2336,OF THIS KIND (SUCH)
+nochADV,noch::ADV,2919,STILL (CONTINUING)
+nurADV,nur::ADV,1580,ONLY
+schonADV,schon::ADV,2576,ALREADY
+wiederADV,wieder::ADV,204,AGAIN
+vergebensADV,vergebens::ADV,1765,IN VAIN
+vorPRP,vor::PRP,1883,IN FRONT OF
+hinterPRP,hinter::PRP,1686,BEHIND
 unterPRP,unter::PRP,,
-durchPRP,durch::PRP,97,
-nebenPRP,neben::PRP,2917,
-zwischenPRP,zwischen::PRP,689,
-wegenPRP,wegen::PRP,2918,
-diesPRN,dies::PRN,1214,
-dasPRN,das::PRN,78,
-allesPRN,alles::PRN,98,
-ichPRN,ich::PRN,1209,
-duPRN,du::PRN,1215,
-erPRN,er::PRN,262,
-wirPRN,wir::PRN,1212,
-ihrPRN,ihr::PRN,1213,
-siePRN,sie::PRN,817,
-wasFPRN,was::FPRN,1236,
-werFPRN,wer::FPRN,1235,
-woFADV,wo::FADV,1237,
-wohinFADV,wohin::FADV,2928,
-wieFADV,wie::FADV,1239,
-warumFADV,warum::FADV,1270,
-wievielFNUM,wieviel::FNUM,531,
-einsNUM,eins::NUM,1493,
-zweiNUM,zwei::NUM,1498,
-dreiNUM,drei::NUM,492,
-vierNUM,vier::NUM,1500,
-funfNUM,fünf::NUM,493,
-sechsNUM,sechs::NUM,1703,
-siebenNUM,sieben::NUM,1704,
-achtNUM,acht::NUM,1705,
-neunNUM,neun::NUM,1483,
-zehnNUM,zehn::NUM,1515,
-elfNUM,elf::NUM,1706,
-zwolfNUM,zwölf::NUM,1707,
-zwanzigNUM,zwanzig::NUM,1710,
-dreiigNUM,dreißig::NUM,1715,
-vierzigNUM,vierzig::NUM,1716,
-funfzigNUM,fünfzig::NUM,1717,
-sechzigNUM,sechzig::NUM,1718,
-siebzigNUM,siebzig::NUM,1721,
-achtzigNUM,achtzig::NUM,1722,
-neunzigNUM,neunzig::NUM,1724,
-hundertNUM,hundert::NUM,1634,
-tausendNUM,tausend::NUM,1843,
-undCNJ,und::CNJ,1577,
-oderCNJ,oder::CNJ,1014,
-stehenV,stehen::V,1442,
-sitzenV,sitzen::V,1416,
-liegenV,liegen::V,1411,
-hangenV,hängen::V,2884,
-werdenV,werden::V,1990,
-passierenV,passieren::V,248,
+durchPRP,durch::PRP,97,THROUGH
+nebenPRP,neben::PRP,2917,NEXT TO
+zwischenPRP,zwischen::PRP,689,BETWEEN
+wegenPRP,wegen::PRP,2918,BECAUSE OF
+diesPRN,dies::PRN,1214,THIS
+dasPRN,das::PRN,78,THAT
+allesPRN,alles::PRN,98,ALL
+ichPRN,ich::PRN,1209,I
+duPRN,du::PRN,1215,THOU
+erPRN,er::PRN,262,HE OR SHE OR IT
+wirPRN,wir::PRN,1212,WE
+ihrPRN,ihr::PRN,1213,YOU
+siePRN,sie::PRN,817,THEY
+wasFPRN,was::FPRN,1236,WHAT
+werFPRN,wer::FPRN,1235,WHO
+woFADV,wo::FADV,1237,WHERE
+wohinFADV,wohin::FADV,2928,WHITHER (WHERE TO)
+wieFADV,wie::FADV,1239,HOW
+warumFADV,warum::FADV,1270,WHY
+wievielFNUM,wieviel::FNUM,531,HOW MUCH
+einsNUM,eins::NUM,1493,ONE
+zweiNUM,zwei::NUM,1498,TWO
+dreiNUM,drei::NUM,492,THREE
+vierNUM,vier::NUM,1500,FOUR
+funfNUM,fünf::NUM,493,FIVE
+sechsNUM,sechs::NUM,1703,SIX
+siebenNUM,sieben::NUM,1704,SEVEN
+achtNUM,acht::NUM,1705,EIGHT
+neunNUM,neun::NUM,1483,NINE
+zehnNUM,zehn::NUM,1515,TEN
+elfNUM,elf::NUM,1706,ELEVEN
+zwolfNUM,zwölf::NUM,1707,TWELVE
+zwanzigNUM,zwanzig::NUM,1710,TWENTY
+dreiigNUM,dreißig::NUM,1715,THIRTY
+vierzigNUM,vierzig::NUM,1716,FORTY
+funfzigNUM,fünfzig::NUM,1717,FIFTY
+sechzigNUM,sechzig::NUM,1718,SIXTY
+siebzigNUM,siebzig::NUM,1721,SEVENTY
+achtzigNUM,achtzig::NUM,1722,EIGHTY
+neunzigNUM,neunzig::NUM,1724,NINETY
+hundertNUM,hundert::NUM,1634,HUNDRED
+tausendNUM,tausend::NUM,1843,THOUSAND
+undCNJ,und::CNJ,1577,AND
+oderCNJ,oder::CNJ,1014,OR
+stehenV,stehen::V,1442,STAND
+sitzenV,sitzen::V,1416,SIT
+liegenV,liegen::V,1411,LIE (REST)
+hangenV,hängen::V,2884,HANG
+werdenV,werden::V,1990,BECOME
+passierenV,passieren::V,248,HAPPEN
 beginnenV,beginnen::V,,
-endenV,enden::V,1928,
-wechselnV,wechseln::V,2857,
+endenV,enden::V,1928,CEASE
+wechselnV,wechseln::V,2857,CHANGE (BECOME DIFFERENT)
 aufgehenSonneV,aufgehen[Sonne]::V,,
-untergehenSonneV,untergehen[Sonne]::V,160,
-scheinenSonneV,scheinen[Sonne]::V,708,
-donnernV,donnern::V,2378,
-wehenV,wehen::V,175,
-stromenV,strömen::V,2858,
-flieenV,fließen::V,2003,
+untergehenSonneV,untergehen[Sonne]::V,160,SET (HEAVENLY BODIES)
+scheinenSonneV,scheinen[Sonne]::V,708,SHINE
+donnernV,donnern::V,2378,THUNDER (VERB)
+wehenV,wehen::V,175,BLOW (OF WIND)
+stromenV,strömen::V,2858,STREAM (FLOW CONTINUOUSLY)
+flieenV,fließen::V,2003,FLOW
 sichdrehenV,sich drehen::V,,
-schwankenV,schwanken::V,573,
-schwingenV,schwingen::V,2871,
-fallenV,fallen::V,1280,
-brennenV,brennen::V,1428,
-rauchenV,rauchen::V,2859,
-regnenV,regnen::V,1253,
-gefrierenV,gefrieren::V,1431,
-tauenV,tauen::V,2887,
-schmelzenV,schmelzen::V,2334,
-trocknenV,trocknen::V,1786,
-siedenV,sieden::V,792,
-faulenV,faulen::V,569,
-verfaulenV,verfaulen::V,2907,
-reienV,reißen::V,460,
-versinkenV,versinken::V,2908,
-vergehenV,vergehen::V,1951,
-erscheinenV,erscheinen::V,1076,
-verschwindenV,verschwinden::V,485,
-sinkenV,sinken::V,1088,
-abnehmenV,abnehmen::V,2864,
-zunehmenV,zunehmen::V,1041,
-steigenV,steigen::V,568,
-wachsenV,wachsen::V,479,
+schwankenV,schwanken::V,573,SWAY
+schwingenV,schwingen::V,2871,SWING (MOVEMENT)
+fallenV,fallen::V,1280,FALL
+brennenV,brennen::V,1428,BURNING
+rauchenV,rauchen::V,2859,SMOKE (EMIT SMOKE)
+regnenV,regnen::V,1253,RAIN (RAINING)
+gefrierenV,gefrieren::V,1431,FREEZE
+tauenV,tauen::V,2887,THAW (DEW)
+schmelzenV,schmelzen::V,2334,MELT
+trocknenV,trocknen::V,1786,DRY UP
+siedenV,sieden::V,792,BOIL (OF LIQUID)
+faulenV,faulen::V,569,SPOIL (BECOME SPOILED)
+verfaulenV,verfaulen::V,2907,ROT
+reienV,reißen::V,460,BREAK (OF ROPE)
+versinkenV,versinken::V,2908,SINK (DISAPPEAR IN WATER)
+vergehenV,vergehen::V,1951,PASS
+erscheinenV,erscheinen::V,1076,EMERGE (APPEAR)
+verschwindenV,verschwinden::V,485,DISAPPEAR
+sinkenV,sinken::V,1088,SINK (DESCEND)
+abnehmenV,abnehmen::V,2864,DECREASE
+zunehmenV,zunehmen::V,1041,INCREASE
+steigenV,steigen::V,568,RISE (MOVE UPWARDS)
+wachsenV,wachsen::V,479,GROW
 glanzenV,glänzen::V,,
-funkelnV,funkeln::V,2889,
+funkelnV,funkeln::V,2889,TWINKLE
 larmenV,lärmen::V,,
-lautenV,läuten::V,2897,
-klingelnV,klingeln::V,2875,
-klirrenV,klirren::V,2888,
-brausenV,brausen::V,2876,
-rauschenV,rauschen::V,2877,
-klingenV,klingen::V,2879,
-bellenV,bellen::V,1206,
-heulenV,heulen::V,526,
-blasenV,blasen::V,176,
-pfeifenV,pfeifen::V,1025,
-schreienV,schreien::V,715,
-stohnenV,stöhnen::V,716,
-zitternV,zittern::V,52,
-lebenV,leben::V,1422,
-geborenwerdenV,geboren werden::V,1090,
-atmenV,atmen::V,1407,
-trinkenV,trinken::V,1401,
-essenV,essen::V,1336,
-schluckenV,schlucken::V,897,
-mudewerdenV,müde werden::V,1996,
-einschlafenV,einschlafen::V,1106,
-schlafenV,schlafen::V,1585,
+lautenV,läuten::V,2897,CHIME (ACTION)
+klingelnV,klingeln::V,2875,RING (MAKE SOUND)
+klirrenV,klirren::V,2888,TINKLE
+brausenV,brausen::V,2876,ROAR (OF SEA)
+rauschenV,rauschen::V,2877,RUSTLE (OF LEAVES)
+klingenV,klingen::V,2879,SOUND (OF INSTRUMENT OR VOICE)
+bellenV,bellen::V,1206,BARKING
+heulenV,heulen::V,526,HOWL
+blasenV,blasen::V,176,BLOW (WITH MOUTH)
+pfeifenV,pfeifen::V,1025,WHISTLE
+schreienV,schreien::V,715,SHOUT
+stohnenV,stöhnen::V,716,GROAN
+zitternV,zittern::V,52,SHIVER
+lebenV,leben::V,1422,BE ALIVE
+geborenwerdenV,geboren werden::V,1090,BE BORN
+atmenV,atmen::V,1407,BREATHE
+trinkenV,trinken::V,1401,DRINK
+essenV,essen::V,1336,EAT
+schluckenV,schlucken::V,897,SWALLOW
+mudewerdenV,müde werden::V,1996,GET TIRED
+einschlafenV,einschlafen::V,1106,FALL ASLEEP
+schlafenV,schlafen::V,1585,SLEEP
 aufwachenV,aufwachen::V,,
 aufstehenV,aufstehen::V,,
-sicherholenV,sich erholen::V,168,
-krankwerdenV,krank werden::V,2327,
+sicherholenV,sich erholen::V,168,REST
+krankwerdenV,krank werden::V,2327,BECOME SICK
 krankseinV,krank sein::V,,
-schmerzenV,schmerzen::V,1815,
-hustenV,husten::V,879,
-genesenV,genesen::V,1978,
-sterbenV,sterben::V,1494,
-umkommenV,umkommen::V,2865,
-sichbewegenV,sich bewegen::V,2874,
-sichruhrenV,sich rühren::V,2861,
-sicherhebenV,sich erheben::V,570,
-sichsetzenV,sich setzen::V,1649,
-hinfallenV,hinfallen::V,2894,
-laufenV,laufen::V,1443,
-schreitenV,schreiten::V,2065,
-spazierengehenV,spazierengehen::V,2890,
-eilenV,eilen::V,2860,
-sichbeeilenV,sich beeilen::V,754,
-sausenV,sausen::V,2863,
-rennenV,rennen::V,1519,
-springenV,springen::V,1829,
-kletternV,klettern::V,1102,
+schmerzenV,schmerzen::V,1815,ACHE
+hustenV,husten::V,879,COUGH
+genesenV,genesen::V,1978,RECOVER
+sterbenV,sterben::V,1494,DIE
+umkommenV,umkommen::V,2865,DIE (FROM ACCIDENT)
+sichbewegenV,sich bewegen::V,2874,MOVE (ONESELF)
+sichruhrenV,sich rühren::V,2861,BUDGE (ONESELF)
+sicherhebenV,sich erheben::V,570,STAND UP
+sichsetzenV,sich setzen::V,1649,SIT DOWN
+hinfallenV,hinfallen::V,2894,TUMBLE (FALL DOWN)
+laufenV,laufen::V,1443,WALK
+schreitenV,schreiten::V,2065,STEP (VERB)
+spazierengehenV,spazierengehen::V,2890,WALK (TAKE A WALK)
+eilenV,eilen::V,2860,BOLT (MOVE IN HASTE)
+sichbeeilenV,sich beeilen::V,754,HURRY
+sausenV,sausen::V,2863,DASH (OF VEHICLE)
+rennenV,rennen::V,1519,RUN
+springenV,springen::V,1829,JUMP
+kletternV,klettern::V,1102,CLIMB
 schaukelnV,schaukeln::V,,
-kriechenV,kriechen::V,96,
-schwimmenV,schwimmen::V,1439,
-tauchenV,tauchen::V,119,
-rudernV,rudern::V,1849,
-fahrenV,fahren::V,741,
-fliegenV,fliegen::V,1441,
-gehenV,gehen::V,695,
-weggehenV,weggehen::V,1752,
+kriechenV,kriechen::V,96,CRAWL
+schwimmenV,schwimmen::V,1439,SWIM
+tauchenV,tauchen::V,119,DIVE
+rudernV,rudern::V,1849,ROW
+fahrenV,fahren::V,741,DRIVE
+fliegenV,fliegen::V,1441,FLY (MOVE THROUGH AIR)
+gehenV,gehen::V,695,GO
+weggehenV,weggehen::V,1752,LEAVE
 abfahrenV,abfahren::V,,
-anhaltenV,anhalten::V,2880,
-hineingehenV,hineingehen::V,749,
+anhaltenV,anhalten::V,2880,HALT (STOP)
+hineingehenV,hineingehen::V,749,ENTER
 eintretenV,eintreten::V,,
-kommenV,kommen::V,1446,
-ankommenV,ankommen::V,1387,
-zuruckkommenV,zurückkommen::V,581,
-bleibenV,bleiben::V,987,
+kommenV,kommen::V,1446,COME
+ankommenV,ankommen::V,1387,ARRIVE
+zuruckkommenV,zurückkommen::V,581,COME BACK
+bleibenV,bleiben::V,987,REMAIN
 wartenV,warten::V,,
-erwartenV,erwarten::V,1590,
-suchenV,suchen::V,1468,
-findenV,finden::V,719,
-versuchenV,versuchen::V,1812,
-vorbereitenV,vorbereiten::V,2909,
-liebenV,lieben::V,923,
-mogenV,mögen::V,1117,
-lachenV,lachen::V,1355,
-ruhrenV,rühren::V,2873,
-weinenV,weinen::V,1839,
+erwartenV,erwarten::V,1590,WAIT (FOR)
+suchenV,suchen::V,1468,LOOK FOR
+findenV,finden::V,719,FIND
+versuchenV,versuchen::V,1812,TRY
+vorbereitenV,vorbereiten::V,2909,PREPARE
+liebenV,lieben::V,923,LOVE
+mogenV,mögen::V,1117,LIKE
+lachenV,lachen::V,1355,LAUGH
+ruhrenV,rühren::V,2873,MOVE (AFFECT EMOTIONALLY)
+weinenV,weinen::V,1839,CRY
 schimpfenV,schimpfen::V,,
-sichargernV,sich ärgern::V,2223,
-sichfurchtenV,sich fürchten::V,1419,
+sichargernV,sich ärgern::V,2223,BE ANGRY
+sichfurchtenV,sich fürchten::V,1419,FEAR (BE AFRAID)
 furchtenV,fürchten::V,,
-fliehenV,fliehen::V,956,
-fluchtenV,flüchten::V,1615,
-sehenV,sehen::V,1409,
-anschauenV,anschauen::V,1819,
-ansehenV,ansehen::V,1650,
-horenV,hören::V,1408,
-zuhorenV,zuhören::V,1608,
-probierenV,probieren::V,21,
-riechenV,riechen::V,1586,
-fuhlenV,fühlen::V,2559,
-scheinenV,scheinen::V,1521,
+fliehenV,fliehen::V,956,FLEE
+fluchtenV,flüchten::V,1615,ESCAPE
+sehenV,sehen::V,1409,SEE
+anschauenV,anschauen::V,1819,LOOK
+ansehenV,ansehen::V,1650,WATCH
+horenV,hören::V,1408,HEAR
+zuhorenV,zuhören::V,1608,LISTEN
+probierenV,probieren::V,21,TASTE (SOMETHING)
+riechenV,riechen::V,1586,SMELL (PERCEIVE)
+fuhlenV,fühlen::V,2559,FEEL (TACTUALLY)
+scheinenV,scheinen::V,1521,SEEM
 zusehenseinV,zu sehen sein::V,,
 vernehmenV,vernehmen::V,,
 frierenV,frieren::V,,
-tunV,tun::V,813,
-konnenV,können::V,972,
-wollenV,wollen::V,1784,
-anfangenV,anfangen::V,1806,
-beendenV,beenden::V,1766,
+tunV,tun::V,813,DO
+konnenV,können::V,972,BE ABLE
+wollenV,wollen::V,1784,WANT
+anfangenV,anfangen::V,1806,BEGIN
+beendenV,beenden::V,1766,FINISH
 aufhorenV,aufhören::V,,
-gelingenV,gelingen::V,1112,
-geratenV,geraten::V,1723,
-offnenV,öffnen::V,1156,
-schlieenV,schließen::V,1046,
-stellenV,stellen::V,998,
+gelingenV,gelingen::V,1112,SUCCEED
+geratenV,geraten::V,1723,RESULT IN
+offnenV,öffnen::V,1156,OPEN
+schlieenV,schließen::V,1046,SHUT
+stellenV,stellen::V,998,PUT
 setzenV,setzen::V,,
-legenV,legen::V,2071,
-beruhrenV,berühren::V,1892,
-verbindenV,verbinden::V,2862,
-bedeckenV,bedecken::V,761,
-aufhangenV,aufhängen::V,357,
-anzundenV,anzünden::V,737,
-aufhebenV,aufheben::V,371,
+legenV,legen::V,2071,LAY (VERB)
+beruhrenV,berühren::V,1892,TOUCH
+verbindenV,verbinden::V,2862,CONNECT
+bedeckenV,bedecken::V,761,COVER
+aufhangenV,aufhängen::V,357,HANG UP
+anzundenV,anzünden::V,737,LIGHT (IGNITE)
+aufhebenV,aufheben::V,371,PICK UP
 zurucklassenV,zurücklassen::V,,
-verlierenV,verlieren::V,1660,
-fallenlassenV,fallen lassen::V,2866,
-machenV,machen::V,734,
-herstellenV,herstellen::V,2886,
-bauenV,bauen::V,1840,
-reparierenV,reparieren::V,2243,
-verbessernV,verbessern::V,2872,
-andernV,ändern::V,1264,
-grabenV,graben::V,1418,
+verlierenV,verlieren::V,1660,LOSE
+fallenlassenV,fallen lassen::V,2866,DROP (SOMETHING)
+machenV,machen::V,734,MAKE
+herstellenV,herstellen::V,2886,PRODUCE
+bauenV,bauen::V,1840,BUILD
+reparierenV,reparieren::V,2243,REPAIR
+verbessernV,verbessern::V,2872,IMPROVE (SOMETHING)
+andernV,ändern::V,1264,CHANGE
+grabenV,graben::V,1418,DIG
 beugenV,beugen::V,,
-biegenV,biegen::V,2224,
+biegenV,biegen::V,2224,BEND (SOMETHING)
 drehenV,drehen::V,,
-wendenV,wenden::V,1445,
-umdrehenV,umdrehen::V,1444,
+wendenV,wenden::V,1445,TURN (SOMETHING)
+umdrehenV,umdrehen::V,1444,TURN AROUND
 hebenV,heben::V,,
-hochhebenV,hochheben::V,501,
-ergreifenV,ergreifen::V,855,
-haltenV,halten::V,1448,
-druckenV,drücken::V,1913,
-schiebenV,schieben::V,1452,
-kratzenV,kratzen::V,1767,
-leckenV,lecken::V,319,
-beienV,beißen::V,1403,
+hochhebenV,hochheben::V,501,LIFT
+ergreifenV,ergreifen::V,855,SEIZE
+haltenV,halten::V,1448,HOLD
+druckenV,drücken::V,1913,PRESS
+schiebenV,schieben::V,1452,PUSH
+kratzenV,kratzen::V,1767,SCRAPE
+leckenV,lecken::V,319,LICK
+beienV,beißen::V,1403,BITE
 abreienV,abreißen::V,,
 abschneidenV,abschneiden::V,,
-bindenV,binden::V,1917,
+bindenV,binden::V,1917,TIE
 steckenV,stecken::V,,
-brechenV,brechen::V,680,
-klopfenV,klopfen::V,2396,
-hauenV,hauen::V,1433,
-klebenV,kleben::V,1069,
-reibenV,reiben::V,1449,
-streichenV,streichen::V,38,
-schleifenV,schleifen::V,251,
-schneidenV,schneiden::V,1432,
-ruttelnV,rütteln::V,2899,
-schuttelnV,schütteln::V,1909,
-schwenkenV,schwenken::V,2901,
-schuttenV,schütten::V,1487,
-fullenV,füllen::V,2006,
-einwickelnV,einwickeln::V,1113,
-tragenV,tragen::V,700,
-schleppenV,schleppen::V,2030,
-ziehenV,ziehen::V,1455,
-aufbewahrenV,aufbewahren::V,1477,
-werfenV,werfen::V,1456,
-fangenV,fangen::V,702,
+brechenV,brechen::V,680,BREAK (DESTROY OR GET DESTROYED)
+klopfenV,klopfen::V,2396,KNOCK
+hauenV,hauen::V,1433,HIT
+klebenV,kleben::V,1069,GLUE
+reibenV,reiben::V,1449,RUB
+streichenV,streichen::V,38,SPREAD OUT
+schleifenV,schleifen::V,251,SHARPEN (SOMETHING)
+schneidenV,schneiden::V,1432,CUT
+ruttelnV,rütteln::V,2899,JOG (SOMETHING)
+schuttelnV,schütteln::V,1909,SHAKE
+schwenkenV,schwenken::V,2901,SWING (SOMETHING)
+schuttenV,schütten::V,1487,POUR
+fullenV,füllen::V,2006,FILL
+einwickelnV,einwickeln::V,1113,WRAP
+tragenV,tragen::V,700,CARRY
+schleppenV,schleppen::V,2030,DRAG
+ziehenV,ziehen::V,1455,PULL
+aufbewahrenV,aufbewahren::V,1477,KEEP
+werfenV,werfen::V,1456,THROW
+fangenV,fangen::V,702,CATCH
 packenV,packen::V,,
-versteckenV,verstecken::V,2485,
-teilenV,teilen::V,1119,
-schickenV,schicken::V,1127,
-bringenV,bringen::V,692,
-hinzufugenV,hinzufügen::V,2882,
+versteckenV,verstecken::V,2485,HIDE (ONESELF)
+teilenV,teilen::V,1119,DIVIDE
+schickenV,schicken::V,1127,SEND
+bringenV,bringen::V,692,BRING
+hinzufugenV,hinzufügen::V,2882,ADD
 bekommenV,bekommen::V,,
-erhaltenV,erhalten::V,694,
-nehmenV,nehmen::V,1749,
-wahlenV,wählen::V,1750,
+erhaltenV,erhalten::V,694,GET
+nehmenV,nehmen::V,1749,TAKE
+wahlenV,wählen::V,1750,CHOOSE
 auswahlenV,auswählen::V,,
-bewahrenV,bewahren::V,1997,
-behindernV,behindern::V,554,
-verderbenV,verderben::V,92,
-beschadigenV,beschädigen::V,1116,
-zerbrechenV,zerbrechen::V,2558,
-zerreienV,zerreißen::V,1735,
-zerstorenV,zerstören::V,681,
-verbrennenV,verbrennen::V,141,
-gebenV,geben::V,1447,
+bewahrenV,bewahren::V,1997,PRESERVE
+behindernV,behindern::V,554,HINDER
+verderbenV,verderben::V,92,SPOIL (SOMEBODY OR SOMETHING)
+beschadigenV,beschädigen::V,1116,DAMAGE
+zerbrechenV,zerbrechen::V,2558,BREAK (CLEAVE)
+zerreienV,zerreißen::V,1735,TEAR (SHRED)
+zerstorenV,zerstören::V,681,DESTROY
+verbrennenV,verbrennen::V,141,BURN (SOMETHING)
+gebenV,geben::V,1447,GIVE
 reichenV,reichen::V,,
-schenkenV,schenken::V,196,
-versprechenV,versprechen::V,1675,
+schenkenV,schenken::V,196,DONATE
+versprechenV,versprechen::V,1675,PROMISE
 wunschenV,wünschen::V,,
-lobenV,loben::V,1687,
-kussenV,küssen::V,578,
+lobenV,loben::V,1687,PRAISE
+kussenV,küssen::V,578,KISS
 wiegenV,wiegen::V,,
 zudeckenV,zudecken::V,,
-weckenV,wecken::V,1602,
-zeigenV,zeigen::V,1039,
+weckenV,wecken::V,1602,WAKE UP
+zeigenV,zeigen::V,1039,SHOW
 fuhrenV,führen::V,,
-lehrenV,lehren::V,709,
+lehrenV,lehren::V,709,TEACH
 unterrichtenV,unterrichten::V,,
-aufziehenV,aufziehen::V,2134,
-leitenV,leiten::V,43,
-antreibenV,antreiben::V,2881,
-lassenV,lassen::V,2896,
-einladenV,einladen::V,1611,
-vereinigenV,vereinigen::V,1743,
-besuchenV,besuchen::V,1377,
-treffenV,treffen::V,1831,
+aufziehenV,aufziehen::V,2134,RAISE (A CHILD)
+leitenV,leiten::V,43,LEAD (GUIDE)
+antreibenV,antreiben::V,2881,URGE (SOMEONE)
+lassenV,lassen::V,2896,CAUSE TO (LET)
+einladenV,einladen::V,1611,INVITE
+vereinigenV,vereinigen::V,1743,JOIN
+besuchenV,besuchen::V,1377,VISIT
+treffenV,treffen::V,1831,MEET
 sichversammelnV,sich versammeln::V,,
-spielenV,spielen::V,1413,
-singenV,singen::V,1261,
-tanzenV,tanzen::V,1879,
-sichtrennenV,sich trennen::V,1359,
+spielenV,spielen::V,1413,PLAY
+singenV,singen::V,1261,SING
+tanzenV,tanzen::V,1879,DANCE
+sichtrennenV,sich trennen::V,1359,SEPARATE
 verlassenV,verlassen::V,,
-rettenV,retten::V,2008,
-bewachenV,bewachen::V,1940,
-schutzenV,schützen::V,2900,
-verteidigenV,verteidigen::V,1330,
-sichschlagenV,sich schlagen::V,2902,
-schieenV,schießen::V,1172,
-siegenV,siegen::V,866,
-argernV,ärgern::V,2892,
-schlagenV,schlagen::V,1665,
-tretenV,treten::V,1135,
-stechenV,stechen::V,571,
+rettenV,retten::V,2008,RESCUE
+bewachenV,bewachen::V,1940,GUARD
+schutzenV,schützen::V,2900,PROTECT
+verteidigenV,verteidigen::V,1330,DEFEND
+sichschlagenV,sich schlagen::V,2902,BRAWL (FIGHT)
+schieenV,schießen::V,1172,SHOOT
+siegenV,siegen::V,866,WIN
+argernV,ärgern::V,2892,MAKE ANGRY (ANNOY)
+schlagenV,schlagen::V,1665,BEAT
+tretenV,treten::V,1135,KICK
+stechenV,stechen::V,571,STING
 stoenV,stoßen::V,,
-stehlenV,stehlen::V,713,
-storenV,stören::V,2883,
-belastigenV,belästigen::V,2869,
-verbergenV,verbergen::V,602,
+stehlenV,stehlen::V,713,STEAL
+storenV,stören::V,2883,DISTURB
+belastigenV,belästigen::V,2869,BOTHER (HARASS)
+verbergenV,verbergen::V,602,HIDE (CONCEAL)
 tauschenV,täuschen::V,,
-betrugenV,betrügen::V,1902,
-totenV,töten::V,1417,
-wohnenV,wohnen::V,363,
-arbeitenV,arbeiten::V,1086,
-sammelnV,sammeln::V,7,
-pfluckenV,pflücken::V,2148,
-jagenV,jagen::V,1435,
-fischenV,fischen::V,2638,
+betrugenV,betrügen::V,1902,BETRAY
+totenV,töten::V,1417,KILL
+wohnenV,wohnen::V,363,"DWELL (LIVE, RESIDE)"
+arbeitenV,arbeiten::V,1086,WORK (ACTIVITY)
+sammelnV,sammeln::V,7,GATHER
+pfluckenV,pflücken::V,2148,PICK
+jagenV,jagen::V,1435,HUNT
+fischenV,fischen::V,2638,FISHING
 fassenV,fassen::V,,
-hutenV,hüten::V,2885,
-treibenV,treiben::V,2868,
-anbindenV,anbinden::V,2891,
-futternV,füttern::V,739,
-melkenV,melken::V,93,
-hackenV,hacken::V,155,
+hutenV,hüten::V,2885,HERD (SOMETHING)
+treibenV,treiben::V,2868,DRIVE (CATTLE)
+anbindenV,anbinden::V,2891,TIE UP (TETHER)
+futternV,füttern::V,739,FEED
+melkenV,melken::V,93,DRAW MILK
+hackenV,hacken::V,155,CHOP
 gieenV,gießen::V,,
-reifenV,reifen::V,179,
-zubereitenV,zubereiten::V,1100,
-kochenV,kochen::V,2492,
-backenV,backen::V,183,
-bratenV,braten::V,991,
-umruhrenV,umrühren::V,696,
-strickenV,stricken::V,2905,
-nahenV,nähen::V,1457,
-farbenV,färben::V,157,
-reinigenV,reinigen::V,2235,
-waschenV,waschen::V,1453,
-abwischenV,abwischen::V,1454,
-spulenV,spülen::V,2904,
-fegenV,fegen::V,230,
+reifenV,reifen::V,179,RIPEN
+zubereitenV,zubereiten::V,1100,COOK (SOMETHING)
+kochenV,kochen::V,2492,BOIL (SOMETHING)
+backenV,backen::V,183,BAKE
+bratenV,braten::V,991,FRY
+umruhrenV,umrühren::V,696,STIR
+strickenV,stricken::V,2905,KNIT
+nahenV,nähen::V,1457,SEW
+farbenV,färben::V,157,DYE
+reinigenV,reinigen::V,2235,CLEAN (SOMETHING)
+waschenV,waschen::V,1453,WASH
+abwischenV,abwischen::V,1454,WIPE
+spulenV,spülen::V,2904,RINSE
+fegenV,fegen::V,230,SWEEP
 kehrenV,kehren::V,,
-badenV,baden::V,138,
+badenV,baden::V,138,BATHE
 sichwaschenV,sich waschen::V,,
 ausziehenV,ausziehen::V,,
-anziehenV,anziehen::V,158,
+anziehenV,anziehen::V,158,PUT ON
 sichanziehenV,sich anziehen::V,,
-kammenV,kämmen::V,2070,
-schmuckenV,schmücken::V,1739,
-sagenV,sagen::V,1458,
-sprechenV,sprechen::V,1623,
-redenV,reden::V,2708,
-sichunterhaltenV,sich unterhalten::V,2903,
-fragenV,fragen::V,1309,
-bittenV,bitten::V,1828,
-erzahlenV,erzählen::V,1711,
-mitteilenV,mitteilen::V,2898,
-nennenV,nennen::V,180,
-rufenV,rufen::V,1084,
-prahlenV,prahlen::V,101,
-ubersetzenV,übersetzen::V,2906,
-denkenV,denken::V,1415,
-glaubenV,glauben::V,1890,
-bemerkenV,bemerken::V,2893,
-erkennenV,erkennen::V,2870,
+kammenV,kämmen::V,2070,COMB (VERB)
+schmuckenV,schmücken::V,1739,DECORATE
+sagenV,sagen::V,1458,SAY
+sprechenV,sprechen::V,1623,SPEAK
+redenV,reden::V,2708,TALK
+sichunterhaltenV,sich unterhalten::V,2903,CHAT (WITH SOMEBODY)
+fragenV,fragen::V,1309,ASK (INQUIRE)
+bittenV,bitten::V,1828,ASK (REQUEST)
+erzahlenV,erzählen::V,1711,TELL
+mitteilenV,mitteilen::V,2898,CONVEY (A MESSAGE)
+nennenV,nennen::V,180,CALL BY NAME
+rufenV,rufen::V,1084,CALL
+prahlenV,prahlen::V,101,BOAST
+ubersetzenV,übersetzen::V,2906,TRANSLATE
+denkenV,denken::V,1415,THINK (REFLECT)
+glaubenV,glauben::V,1890,BELIEVE
+bemerkenV,bemerken::V,2893,NOTICE (SOMETHING)
+erkennenV,erkennen::V,2870,RECOGNIZE (SOMEBODY)
 begreifenV,begreifen::V,,
-verstehenV,verstehen::V,1536,
-lernenV,lernen::V,504,
-wissenV,wissen::V,1410,
-sicherinnernanV,sich erinnern an::V,707,
-vergessenV,vergessen::V,1523,
-messenV,messen::V,1506,
-zahlenV,zählen::V,1420,
-rechnenV,rechnen::V,2867,
-lesenV,lesen::V,724,
-malenV,malen::V,2001,
+verstehenV,verstehen::V,1536,UNDERSTAND
+lernenV,lernen::V,504,LEARN
+wissenV,wissen::V,1410,KNOW (SOMETHING)
+sicherinnernanV,sich erinnern an::V,707,REMEMBER
+vergessenV,vergessen::V,1523,FORGET
+messenV,messen::V,1506,MEASURE
+zahlenV,zählen::V,1420,COUNT
+rechnenV,rechnen::V,2867,CALCULATE
+lesenV,lesen::V,724,READ
+malenV,malen::V,2001,PAINTING
 zeichnenV,zeichnen::V,,
-schreibenV,schreiben::V,1672,
-besitzenV,besitzen::V,684,
-kaufenV,kaufen::V,1869,
-verkaufenV,verkaufen::V,1571,
+schreibenV,schreiben::V,1672,WRITE
+besitzenV,besitzen::V,684,OWN
+kaufenV,kaufen::V,1869,BUY
+verkaufenV,verkaufen::V,1571,SELL
 bezahlenV,bezahlen::V,,
-beherrschenV,beherrschen::V,1846,
-ertragenV,ertragen::V,833,
+beherrschenV,beherrschen::V,1846,RULE
+ertragenV,ertragen::V,833,ENDURE

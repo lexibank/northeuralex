@@ -42,20 +42,28 @@ class Dataset(BaseDataset):
                 self.raw.posix('nelex.tsv'), delimiter="\t") as reader:
             ds.add_sources(self.raw.read('sources.bib'))
 
+            language_map = {}
+            for language in self.languages:
+                language_map[language['ID']] = slug(language['NAME'])
+
+                ds.add_language(
+                    ID=slug(language['NAME']),
+                    Name=language['NAME'],
+                    Glottocode=language['GLOTTOCODE'],
+                    ISO639P3code=language['ISO_CODE'],
+                    Family=language['FAMILY'],
+                )
+
             for row in pb(reader, desc="installing northeuralex"):
                 cid = row.Concept_ID.replace(':', '_').replace('[', '-').replace(']', '-') if row.Concept_ID else None
                 cid = slug(cid, lowercase=False)
                 if row.rawIPA:
-                    ds.add_language(
-                        ID=row.Language_ID,
-                        Name=row.Language_ID,
-                        Glottocode=row.Glottocode)
                     ds.add_concept(
                         ID=cid,
                         Name=row.Concept_ID,
                         Concepticon_ID=ccode[row.Concept_ID])
                     ds.add_lexemes(
-                        Language_ID=row.Language_ID,
+                        Language_ID=language_map[row.Language_ID],
                         Parameter_ID=cid,
                         Value=row.rawIPA,
                         Orthography=row.Word_Form,
