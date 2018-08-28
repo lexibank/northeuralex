@@ -4,14 +4,12 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": "http://concepticon.clld.org/contributions/Dellert-2017-1016",
     "dc:identifier": "http://www.northeuralex.org",
-    "dc:license": [
-        "CC-BY-SA-4.0",
-        "Creative Commons Attribution Share Alike 4.0",
-        "https://creativecommons.org/licenses/by-sa/4.0/"
-    ],
+    "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "NorthEuraLex",
+    "dcat:accessURL": "https://github.com/lexibank/northeuralex",
     "rdf:ID": "northeuralex",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -19,14 +17,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.2-69-gcf07b00",
-                "concepticon_version": "v1.1.0-81-g64a1b5d"
+                "glottolog_version": "v3.3.2",
+                "concepticon_version": "pyconcepticon-1.4.0-10-g1d57531"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:extent": 121612,
             "tableSchema": {
                 "columns": [
                     {
@@ -125,6 +124,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 107,
             "tableSchema": {
                 "columns": [
                     {
@@ -160,6 +160,10 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Subfamily"
                     }
                 ],
                 "primaryKey": [
@@ -170,6 +174,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 1015,
             "tableSchema": {
                 "columns": [
                     {
@@ -201,10 +206,11 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },

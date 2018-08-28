@@ -1,1016 +1,1016 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-AugeN,Auge::N,1248,EYE
-OhrN,Ohr::N,1247,EAR
-NaseN,Nase::N,1221,NOSE
-MundN,Mund::N,674,MOUTH
-ZahnN,Zahn::N,1380,TOOTH
-ZungeN,Zunge::N,1205,TONGUE
-LippeN,Lippe::N,478,LIP
-WangeN,Wange::N,1730,CHEEK
-GesichtN,Gesicht::N,1560,FACE
-StirnN,Stirn::N,123,FOREHEAD
-HaarN,Haar::N,1040,HAIR
-SchnurrbartN,Schnurrbart::N,1165,MOUSTACHE
-BartN,Bart::N,678,BEARD
-KinnN,Kinn::N,1510,CHIN
-KieferAnatomieN,Kiefer[Anatomie]::N,798,JAW
-KehleN,Kehle::N,1346,THROAT
-HalsN,Hals::N,1333,NECK
-GenickN,Genick::N,1347,NAPE (OF NECK)
-KopfN,Kopf::N,1256,HEAD
-RuckenN,Rücken::N,1291,BACK
-BauchN,Bauch::N,1251,BELLY
-NabelN,Nabel::N,1838,NAVEL
-BusenN,Busen::N,1402,BREAST
-BrustN,Brust::N,1592,CHEST
-SchulterN,Schulter::N,1482,SHOULDER
-ArmN,Arm::N,1673,ARM
-EllenbogenN,Ellenbogen::N,981,ELBOW
-HandN,Hand::N,1277,HAND
-HandflacheN,Handfläche::N,1183,PALM OF HAND
-FingerN,Finger::N,1303,FINGER
-FingernagelN,Fingernagel::N,1258,FINGERNAIL
-NagelAnatomieN,Nagel[Anatomie]::N,1896,FINGERNAIL OR TOENAIL
-ZehN,Zeh::N,1389,TOE
-FuN,Fuß::N,1301,FOOT
-FerseN,Ferse::N,980,HEEL
-KnieN,Knie::N,1371,KNEE
-OberschenkelN,Oberschenkel::N,800,THIGH
-BeinN,Bein::N,1297,LEG
-KorperN,Körper::N,1480,BODY
-HautN,Haut::N,763,SKIN
-BlutN,Blut::N,946,BLOOD
-AderN,Ader::N,1924,VEIN
-SehneN,Sehne::N,1137,TENDON
-KnochenN,Knochen::N,1394,BONE
-GehirnN,Gehirn::N,1583,BRAIN
-HerzN,Herz::N,1223,HEART
-MagenN,Magen::N,819,STOMACH
-LeberN,Leber::N,1224,LIVER
-AtemN,Atem::N,870,BREATH
-HungerN,Hunger::N,1864,HUNGER
-TraneN,Träne::N,1651,TEAR (OF EYE)
-GeschmackN,Geschmack::N,2190,TASTE
-GeruchN,Geruch::N,,
-SchlafN,Schlaf::N,2972,SLEEP (STATE)
-TraumN,Traum::N,2374,DREAM
-HimmelN,Himmel::N,1732,SKY
-SonneN,Sonne::N,1343,SUN
-MondN,Mond::N,1313,MOON
-SternN,Stern::N,1430,STAR
-LuftN,Luft::N,27,AIR
-WindN,Wind::N,960,WIND
-WelleN,Welle::N,978,WAVE
-WasserN,Wasser::N,948,WATER
-SteinN,Stein::N,668,ROCK
-BodenN,Boden::N,2159,GROUND
-ErdeN,Erde::N,1228,EARTH (SOIL)
-StaubN,Staub::N,2,DUST
-RauchN,Rauch::N,778,SMOKE (EXHAUST)
-FunkeN,Funke::N,518,SPARK
-FeuerN,Feuer::N,221,FIRE
-LichtN,Licht::N,630,LIGHT (RADIATION)
-SchattenN,Schatten::N,1388,SHADE
-WetterN,Wetter::N,952,WEATHER
-NebelN,Nebel::N,249,FOG
-WolkeN,Wolke::N,1489,CLOUD
-RegenN,Regen::N,658,RAIN (PRECIPITATION)
-SchneeN,Schnee::N,784,SNOW
-EisN,Eis::N,617,ICE
-FrostN,Frost::N,2034,FROST
-KalteN,Kälte::N,2932,COLD (CHILL)
-HitzeN,Hitze::N,612,HEAT
-RaureifN,Raureif::N,2942,HOARFROST
-RegenbogenN,Regenbogen::N,1733,RAINBOW
-DonnerN,Donner::N,1150,THUNDER
-StromungN,Strömung::N,2935,CURRENT (STREAM)
-TropfenN,Tropfen::N,,
-SchaumN,Schaum::N,1768,FOAM
-SchmutzN,Schmutz::N,25,DIRT
-SeeN,See::N,624,LAKE
-SumpfN,Sumpf::N,1145,SWAMP
-MoorN,Moor::N,2962,MOORLAND
-WieseN,Wiese::N,649,PASTURE
-WaldN,Wald::N,420,FOREST
-HugelN,Hügel::N,614,HILL
-AnhoheN,Anhöhe::N,2936,ELEVATION
-BergN,Berg::N,639,MOUNTAIN
-GipfelN,Gipfel::N,1614,SUMMIT
-HohleN,Höhle::N,1155,CAVE
-AbhangN,Abhang::N,618,PRECIPICE
-QuelleN,Quelle::N,849,SPRING (OF WATER)
-BachN,Bach::N,,
-FlussN,Fluss::N,666,RIVER
-UferN,Ufer::N,113,SHORE
-KusteN,Küste::N,1525,COAST
-FestlandN,Festland::N,166,MAINLAND
-MeerN,Meer::N,1474,SEA
-BuchtN,Bucht::N,663,BAY
-InselN,Insel::N,622,ISLAND
-BlumeN,Blume::N,239,FLOWER
-GrasN,Gras::N,606,GRASS
-WurzelN,Wurzel::N,670,ROOT
-BaumN,Baum::N,906,TREE
-StammN,Stamm::N,344,TREE TRUNK
-RindeN,Rinde::N,1204,BARK
-AstN,Ast::N,1531,BRANCH
-ZweigN,Zweig::N,,
-BlattN,Blatt::N,628,LEAF
-BirkeN,Birke::N,1855,BIRCH
-KieferBaumN,Kiefer[Baum]::N,1740,PINE
-WeideBaumN,Weide[Baum]::N,818,WILLOW
-TanneN,Tanne::N,1915,FIR
-HornN,Horn::N,1393,HORN (ANATOMY)
-FederN,Feder::N,1201,FEATHER
-FellN,Fell::N,580,FUR
-FlugelN,Flügel::N,1257,WING
-KlaueN,Klaue::N,72,CLAW
-KralleN,Kralle::N,2965,PAW
-SchwanzN,Schwanz::N,1220,TAIL
-EiN,Ei::N,744,EGG
-NestN,Nest::N,539,NEST
-BauN,Bau::N,2949,LAIR
-TierN,Tier::N,619,ANIMAL
-HerdeN,Herde::N,2939,FLOCK (OF ANIMALS)
-KuhN,Kuh::N,1007,COW
-BulleN,Bulle::N,1008,BULL
-PferdN,Pferd::N,615,HORSE
-SchafN,Schaf::N,1331,SHEEP
-SchweinN,Schwein::N,1337,PIG
-HundN,Hund::N,2009,DOG
-KatzeN,Katze::N,1208,CAT
-BarN,Bär::N,1820,BEAR
-EichhornchenN,Eichhörnchen::N,1628,SQUIRREL
-ElchN,Elch::N,1772,ELK
-FuchsN,Fuchs::N,1312,FOX
-HaseN,Hase::N,1190,HARE
-MausN,Maus::N,1491,MOUSE
-WolfN,Wolf::N,522,WOLF
-VogelN,Vogel::N,937,BIRD
-SchwarmN,Schwarm::N,2974,SWARM (OF BIRDS)
-HuhnN,Huhn::N,1318,CHICKEN
-HahnN,Hahn::N,1511,ROOSTER
-GansN,Gans::N,1187,GOOSE
-AdlerN,Adler::N,1905,EAGLE
-EnteN,Ente::N,1360,DUCK
-EuleN,Eule::N,735,OWL
-KranichN,Kranich::N,1830,CRANE
-KraheN,Krähe::N,913,CROW
-KuckuckN,Kuckuck::N,2934,CUCKOO
-SchwanN,Schwan::N,2837,SWAN
-FischN,Fisch::N,227,FISH
-BarschN,Barsch::N,2966,PERCH (FISH)
-HechtN,Hecht::N,2967,PIKE (FISH)
-SchlangeTierN,Schlange[Tier]::N,730,SNAKE
-WurmN,Wurm::N,1219,WORM
-SpinneN,Spinne::N,843,SPIDER
-AmeiseN,Ameise::N,587,ANT
-LausN,Laus::N,1392,LOUSE
-MuckeN,Mücke::N,1509,MOSQUITO
-FliegeN,Fliege::N,1504,FLY (INSECT)
-SchmetterlingN,Schmetterling::N,1791,BUTTERFLY
-BeereN,Beere::N,904,BERRY
-ApfelN,Apfel::N,1320,APPLE
-PilzN,Pilz::N,641,MUSHROOM
-ZwiebelN,Zwiebel::N,2366,ONION
-SaatN,Saat::N,714,SEED
-KornN,Korn::N,605,GRAIN
-HeuN,Heu::N,342,HAY
-SchaleN,Schale::N,2373,SKIN (OF FRUIT)
-GrubeN,Grube::N,2539,PIT (POTHOLE)
-FalleN,Falle::N,1075,TRAP (PITFALL)
-SchlingeN,Schlinge::N,2604,NOOSE
-SpurN,Spur::N,318,FOOTPRINT
-AscheN,Asche::N,646,ASH
-DreckN,Dreck::N,,
-EisenN,Eisen::N,621,IRON
-GoldN,Gold::N,1369,GOLD
-SilberN,Silber::N,759,SILVER
-KohleN,Kohle::N,2658,COAL
-GlasN,Glas::N,604,GLASS
-LehmN,Lehm::N,1399,CLAY
-SandN,Sand::N,671,SAND
-MenschN,Mensch::N,683,PERSON
-MannN,Mann::N,1554,MAN
-FrauN,Frau::N,962,WOMAN
-KindN,Kind::N,1304,CHILD (YOUNG HUMAN)
-JungeN,Junge::N,1366,BOY
-MadchenN,Mädchen::N,1646,GIRL
-FamilieN,Familie::N,194,FAMILY
-GrovaterN,Großvater::N,1383,GRANDFATHER
-GromutterN,Großmutter::N,1496,GRANDMOTHER
-ElternN,Eltern::N,505,PARENTS
-VaterN,Vater::N,1217,FATHER
-MutterN,Mutter::N,1216,MOTHER
-SohnN,Sohn::N,1620,SON
-TochterN,Tochter::N,1357,DAUGHTER
-BruderN,Bruder::N,1262,BROTHER
-SchwesterN,Schwester::N,1263,SISTER
-OnkelN,Onkel::N,1327,UNCLE
-TanteN,Tante::N,1272,AUNT
-EhemannN,Ehemann::N,1200,HUSBAND
-EhefrauN,Ehefrau::N,1199,WIFE
-FreudeN,Freude::N,2524,JOY
-GelachterN,Gelächter::N,2958,LAUGHTER
-GluckN,Glück::N,2941,HAPPINESS
-KummerN,Kummer::N,1668,GRIEF
-WunschN,Wunsch::N,,
-LustN,Lust::N,,
-GeistN,Geist::N,53,SPIRIT
-GedankeN,Gedanke::N,2975,THOUGHT
-GedachtnisN,Gedächtnis::N,1018,MEMORY
-VerstandN,Verstand::N,1562,MIND
-SinnN,Sinn::N,2950,MEANING
-GrundN,Grund::N,2968,REASON
-WahrheitN,Wahrheit::N,1638,TRUTH
-GesprachN,Gespräch::N,2933,CONVERSATION
-MarchenN,Märchen::N,2937,FAIRY TALE
-ErzahlungN,Erzählung::N,2060,STORY
-NachrichtN,Nachricht::N,2961,MESSAGE
-NeuigkeitN,Neuigkeit::N,2964,NEWS
-NameN,Name::N,1405,NAME
-RatselN,Rätsel::N,,
-RedeN,Rede::N,1115,SPEECH
-SpracheN,Sprache::N,1307,LANGUAGE
-StimmeN,Stimme::N,1363,VOICE
-WortN,Wort::N,1599,WORD
-ZeichenN,Zeichen::N,1720,SIGN
-RufN,Ruf::N,2944,CALL (APPEAL)
-LarmN,Lärm::N,1182,NOISE
-LautN,Laut::N,1811,SOUND OR NOISE
-TonN,Ton::N,2995,TONE (MUSIC)
-LiedN,Lied::N,1096,SONG
-RuheN,Ruhe::N,1314,QUIET
-LeuteN,Leute::N,,
-VolkN,Volk::N,789,PEOPLE
-ArbeitN,Arbeit::N,984,WORK (LABOUR)
-GastN,Gast::N,1782,GUEST
-GeschenkN,Geschenk::N,2982,GIFT
-SpielN,Spiel::N,2467,GAME
-GesellschaftN,Gesellschaft::N,2983,COMPANIONSHIP
-HilfeN,Hilfe::N,,
-FreundN,Freund::N,1325,FRIEND
-KameradN,Kamerad::N,,
-AngelegenheitN,Angelegenheit::N,,
-AnzahlN,Anzahl::N,2945,COUNT (QUANTITY)
-ArtN,Art::N,844,KIND (THING)
-StuckN,Stück::N,594,PIECE
-TeilN,Teil::N,779,PART
-HalfteN,Hälfte::N,816,HALF
-KreisN,Kreis::N,1467,CIRCLE
-KreuzN,Kreuz::N,1367,CROSS
-LinieN,Linie::N,1048,LINE
-StrichN,Strich::N,2993,STROKE (OF PEN)
-AbstandN,Abstand::N,2948,GAP (DISTANCE)
-EntfernungN,Entfernung::N,2978,DISTANCE
-GegendN,Gegend::N,2980,AREA
-PlatzN,Platz::N,3006,SPACE (AVAILABLE)
-OrtN,Ort::N,723,PLACE (POSITION)
-SeiteN,Seite::N,682,SIDE
-MitteN,Mitte::N,1093,MIDDLE
-GegenstandN,Gegenstand::N,2981,ITEM
-SacheN,Sache::N,738,THING
-RandN,Rand::N,2989,FRINGE
-KanteN,Kante::N,863,EDGE
-EckeN,Ecke::N,192,CORNER
-SpitzeN,Spitze::N,2992,TIP (OF OBJECT)
-EndeN,Ende::N,742,END (OF SPACE)
-LochN,Loch::N,1667,HOLE
-WinkelN,Winkel::N,,
-MusterN,Muster::N,2988,PATTERN
-GroeN,Größe::N,2845,SIZE (OF OBJECT)
-LangeN,Länge::N,2537,LENGTH
-HoheN,Höhe::N,2985,HEIGHT
-GewichtN,Gewicht::N,2466,WEIGHT
-MengeN,Menge::N,2987,AMOUNT
-HaufenN,Haufen::N,2984,HEAP
-ReiheN,Reihe::N,,
-BootN,Boot::N,1844,BOAT
-RuderN,Ruder::N,234,PADDLE
-SchlittenN,Schlitten::N,16,SLED
-SkiN,Ski::N,2991,SKI
-LagerfeuerN,Lagerfeuer::N,2986,CAMPFIRE
-LastN,Last::N,1679,LOAD
-GangN,Gang::N,2979,WALK (MANNER)
-SchrittN,Schritt::N,1158,STEP
-NordenN,Norden::N,1598,NORTH
-SudenN,Süden::N,1595,SOUTH
-WestenN,Westen::N,1817,WEST
-OstenN,Osten::N,1877,EAST
-HolzN,Holz::N,1803,WOOD
-BrettN,Brett::N,1227,BOARD
-PlatteN,Platte::N,2952,SLAB
-StutzeN,Stütze::N,2994,SUPPORT (OF OBJECT)
-StangeN,Stange::N,281,POST
-StockN,Stock::N,1295,STICK
-StabN,Stab::N,,
-RohrN,Rohr::N,2956,TUBE
-HausN,Haus::N,1252,HOUSE
-HeimN,Heim::N,2406,HOME
-OfenN,Ofen::N,859,STOVE
-FubodenN,Fußboden::N,1632,FLOOR
-TischN,Tisch::N,1775,TABLE
-StuhlN,Stuhl::N,1476,CHAIR
-WiegeN,Wiege::N,2946,CRADLE
-BettN,Bett::N,1663,BED
-RegalN,Regal::N,745,SHELF
-KisteN,Kiste::N,1465,BOX
-FensterN,Fenster::N,1375,WINDOW
-TurN,Tür::N,1567,DOOR
-TorN,Tor::N,2940,GATE
-ZaunN,Zaun::N,1690,FENCE
-DachN,Dach::N,769,ROOF
-LeiterN,Leiter::N,1464,LADDER
-BesenN,Besen::N,245,BROOM
-SpatenN,Spaten::N,1176,SPADE
-SchaufelN,Schaufel::N,1901,SHOVEL
-GabelN,Gabel::N,1302,FORK
-LoffelN,Löffel::N,1378,SPOON
-MesserN,Messer::N,1352,KNIFE
-NagelN,Nagel::N,502,NAIL (TOOL)
-NetzN,Netz::N,2963,NET
-HakenN,Haken::N,1071,HOOK
-GriffN,Griff::N,1254,HANDLE
-SchlossN,Schloss::N,1596,LOCK
-BildN,Bild::N,2401,PICTURE
-FigurN,Figur::N,1945,IDOL
-PuppeN,Puppe::N,1659,DOLL
-BeutelN,Beutel::N,2951,POUCH
-BundelN,Bündel::N,2943,BUNDLE
-TascheN,Tasche::N,2468,BAG
-EimerN,Eimer::N,2052,BUCKET
-DeckelN,Deckel::N,2319,"LID (COVER, CAP)"
-GeschirrN,Geschirr::N,481,DISH
-SackN,Sack::N,2990,SACK
-TasseN,Tasse::N,476,CUP
-TopfN,Topf::N,1462,POT
-KesselN,Kessel::N,854,KETTLE
-EssenN,Essen::N,1526,MEAL
-NahrungN,Nahrung::N,256,FOOD
-SpeiseN,Speise::N,,
-FleischN,Fleisch::N,634,MEAT
-GetreideN,Getreide::N,,
-BreiN,Brei::N,400,MUSH
-BrotN,Brot::N,1368,BREAD
-ScheibeN,Scheibe::N,2954,SLICE
-FettN,Fett::N,323,FAT (ORGANIC SUBSTANCE)
-ButterN,Butter::N,1245,BUTTER
-OlN,Öl::N,1484,OIL (ORGANIC SUBSTANCE)
-SalzN,Salz::N,1274,SALT
-SuppeN,Suppe::N,1547,SOUP
-HonigN,Honig::N,942,HONEY
-MilchN,Milch::N,635,MILK
-TeeN,Tee::N,1373,TEA
-LederN,Leder::N,629,LEATHER
-WolleN,Wolle::N,964,WOOL
-StoffN,Stoff::N,1616,CLOTH
-NadelN,Nadel::N,1382,NEEDLE (FOR SEWING)
-FadenN,Faden::N,1161,THREAD
-KnopfN,Knopf::N,757,BUTTON
-KnotenN,Knoten::N,760,KNOT
-FarbeN,Farbe::N,647,PAINT (PIGMENTS)
-KleidungN,Kleidung::N,1895,CLOTHES
-HemdN,Hemd::N,1622,SHIRT
-KragenN,Kragen::N,2012,COLLAR
-ArmelN,Ärmel::N,2953,SLEEVE
-HoseN,Hose::N,809,TROUSERS
-GurtelN,Gürtel::N,772,BELT
-MutzeN,Mütze::N,1288,CAP
-SchuhN,Schuh::N,1381,SHOE
-StiefelN,Stiefel::N,585,BOOT
-RingN,Ring::N,1374,RING
-BandN,Band::N,2969,RIBBON
-KammN,Kamm::N,1475,COMB
-SpiegelN,Spiegel::N,1171,MIRROR
-RiemenN,Riemen::N,2973,STRAP
-SchnurN,Schnur::N,362,STRING
-LeineN,Leine::N,2959,LEASH
-DeckeN,Decke::N,806,BLANKET
-KissenN,Kissen::N,1044,PILLOW
-TuchN,Tuch::N,,
-HandtuchN,Handtuch::N,1021,TOWEL
-KraftN,Kraft::N,,
-StarkeN,Stärke::N,202,STRENGTH
-GesundheitN,Gesundheit::N,1364,HEALTHY
-KrankheitN,Krankheit::N,1986,DISEASE
-SchmerzN,Schmerz::N,1783,PAIN
-WundeN,Wunde::N,1109,WOUND
-FieberN,Fieber::N,1534,FEVER
-ArzneiN,Arznei::N,1372,MEDICINE
-BruckeN,Brücke::N,1011,BRIDGE
-BrunnenN,Brunnen::N,954,WELL
-WeideN,Weide::N,,
-PfadN,Pfad::N,2252,PATH
-WegN,Weg::N,2457,PATH OR ROAD
-StraeN,Straße::N,667,ROAD
-DorfN,Dorf::N,930,VILLAGE
-StadtN,Stadt::N,1391,TOWN
-BriefN,Brief::N,1612,LETTER
-BuchN,Buch::N,963,BOOK
-BuchstabeN,Buchstabe::N,1024,CHARACTER
-ZeitungN,Zeitung::N,1298,NEWSPAPER
-LebenN,Leben::N,210,LIFE
-TodN,Tod::N,910,DEATH
-GrabN,Grab::N,1773,GRAVE
-KircheN,Kirche::N,1349,CHURCH
-SundeN,Sünde::N,2971,SIN
-GottN,Gott::N,1944,GOD
-ArbeiterN,Arbeiter::N,2977,WORKER
-ChefN,Chef::N,2930,BOSS
-MeisterN,Meister::N,383,MASTER
-ArztN,Arzt::N,597,PHYSICIAN
-LehrerN,Lehrer::N,1038,TEACHER
-GeldN,Geld::N,1559,MONEY
-GeschaftN,Geschäft::N,2931,BUSINESS
-LadenN,Laden::N,746,SHOP
-PreisN,Preis::N,657,PRICE
-WareN,Ware::N,2957,WARE
-NutzenN,Nutzen::N,2929,BENEFIT
-ReichtumN,Reichtum::N,2996,WEALTH
-WeltN,Welt::N,965,WORLD
-LandN,Land::N,1300,COUNTRY
-StaatN,Staat::N,2955,STATE (POLITICS)
-KonigN,König::N,1508,KING
-MachtN,Macht::N,2526,POWER
-GrenzeN,Grenze::N,2546,BORDER
-KriegN,Krieg::N,935,WAR
-FeindN,Feind::N,1358,ENEMY
-GewaltN,Gewalt::N,2976,VIOLENCE
-KampfN,Kampf::N,,
-BogenWaffeN,Bogen[Waffe]::N,994,BOW
-PfeilN,Pfeil::N,977,ARROW
-GewehrN,Gewehr::N,1566,GUN
-FehlerN,Fehler::N,1293,MISTAKE
-LugeN,Lüge::N,475,UNTRUTH
-SchadenN,Schaden::N,2947,DAMAGE (INJURY)
-UngluckN,Unglück::N,56,BAD LUCK
-SchuldN,Schuld::N,134,FAULT
-AlterN,Alter::N,1789,AGE
-SchlussN,Schluss::N,743,END (OF TIME)
-ZeitN,Zeit::N,892,TIME
-TagN,Tag::N,1225,DAY (NOT NIGHT)
-MorgenN,Morgen::N,1339,MORNING
-MittagN,Mittag::N,12,MIDDAY
-AbendN,Abend::N,1629,EVENING
-NachtN,Nacht::N,1233,NIGHT
-WocheN,Woche::N,1469,WEEK
-MonatN,Monat::N,1370,MONTH
-JahrN,Jahr::N,1226,YEAR
-FruhlingN,Frühling::N,1537,SPRINGTIME
-SommerN,Sommer::N,1342,SUMMER
-HerbstN,Herbst::N,1276,AUTUMN
-WinterN,Winter::N,1471,WINTER
-JanuarN,Januar::N,2036,JANUARY
-FebruarN,Februar::N,2037,FEBRUARY
-MarzN,März::N,2846,MARCH
-AprilN,April::N,2847,APRIL
-MaiN,Mai::N,2848,MAY (MONTH)
-JuniN,Juni::N,2849,JUNE
-JuliN,Juli::N,2850,JULY
-AugustN,August::N,2851,AUGUST
-SeptemberN,September::N,2852,SEPTEMBER
-OktoberN,Oktober::N,2853,OCTOBER
-NovemberN,November::N,2854,NOVEMBER
-DezemberN,Dezember::N,2855,DECEMBER
-MontagN,Montag::N,1697,MONDAY
-DienstagN,Dienstag::N,1695,TUESDAY
-MittwochN,Mittwoch::N,1694,WEDNESDAY
-DonnerstagN,Donnerstag::N,1693,THURSDAY
-FreitagN,Freitag::N,1692,FRIDAY
-SamstagN,Samstag::N,1700,SATURDAY
-SonntagN,Sonntag::N,1699,SUNDAY
-groA,groß::A,1202,BIG
-kleinA,klein::A,1246,SMALL
-langA,lang::A,1203,LONG
-kurzA,kurz::A,1645,SHORT
-breitA,breit::A,1243,WIDE
-schmalA,schmal::A,1267,NARROW
-dichtA,dicht::A,2239,DENSE
-dickGegenstandA,dick[Gegenstand]::A,1244,THICK
-dunnA,dünn::A,2249,THIN (OF SHAPE OF OBJECT)
-feinA,fein::A,2157,FINE OR THIN
-festA,fest::A,3003,SOLID
-flachA,flach::A,1633,FLAT
-glattA,glatt::A,1234,SMOOTH
-hartA,hart::A,1884,HARD
-weichA,weich::A,1856,SOFT
-rundA,rund::A,1395,ROUND
-spitzA,spitz::A,372,POINTED
-scharfA,scharf::A,1396,SHARP
-stumpfA,stumpf::A,379,BLUNT
-schwerA,schwer::A,1210,HEAVY
-schonA,schön::A,1427,BEAUTIFUL
-heiA,heiß::A,1286,HOT
-warmA,warm::A,1232,WARM
-kaltA,kalt::A,1287,COLD
-kuhlA,kühl::A,2483,COLD (OF WEATHER)
-frischA,frisch::A,243,FRESH
-feuchtA,feucht::A,2998,DAMP
-nassA,nass::A,1726,WET
-trockenA,trocken::A,1398,DRY
-vollA,voll::A,1429,FULL
-leerA,leer::A,1624,EMPTY
-offenA,offen::A,,
-geschlossenA,geschlossen::A,589,CLOSED
-sauberA,sauber::A,704,CLEAN
-schmutzigA,schmutzig::A,1230,DIRTY
-rohA,roh::A,1959,RAW
-reifA,reif::A,178,RIPE
-leckerA,lecker::A,1813,TASTY
-suA,süß::A,717,SWEET
-bitterA,bitter::A,887,BITTER
-sauerA,sauer::A,1906,SOUR
-hellA,hell::A,679,BRIGHT
-dunkelA,dunkel::A,706,DARK
-schwarzA,schwarz::A,163,BLACK
-weiA,weiß::A,1335,WHITE
-rotA,rot::A,156,RED
-gelbA,gelb::A,1424,YELLOW
-blauA,blau::A,837,BLUE
-grunA,grün::A,1425,GREEN
-grauA,grau::A,153,GREY
-buntA,bunt::A,2997,COLORFUL
-billigA,billig::A,1887,CHEAP
-teuerA,teuer::A,1426,EXPENSIVE
-wertvollA,wertvoll::A,3002,PRECIOUS
-blindA,blind::A,1653,BLIND
-taubA,taub::A,996,DEAF
-kraftigA,kräftig::A,3001,POWERFUL
-starkA,stark::A,785,STRONG
-schwachA,schwach::A,1601,WEAK
-fettA,fett::A,1279,FAT (OBESE)
-schlankA,schlank::A,1400,THIN (SLIM)
-hubschA,hübsch::A,2410,GOOD-LOOKING
-boseA,böse::A,45,EVIL
-dummA,dumm::A,1518,STUPID
-faulA,faul::A,1564,LAZY
-fleiigA,fleißig::A,2077,DILIGENT
-geizigA,geizig::A,1774,STINGY
-klugA,klug::A,1310,CLEVER
-geschicktA,geschickt::A,1824,DEXTEROUS
-liebA,lieb::A,2470,DEAR
-lustigA,lustig::A,1976,MERRY
-sanftA,sanft::A,1954,GENTLE
-hungrigA,hungrig::A,1533,BE HUNGRY
-krankA,krank::A,1847,SICK
-nacktA,nackt::A,590,NAKED
-traurigA,traurig::A,699,SAD
-lebendigA,lebendig::A,3000,LIVING
-gutA,gut::A,1035,GOOD
-schlechtA,schlecht::A,1292,BAD
-richtigA,richtig::A,1725,CORRECT (RIGHT)
-schlimmA,schlimm::A,419,SEVERE
-wahrA,wahr::A,1657,TRUE
-altA,alt::A,1229,OLD
-neuA,neu::A,1231,NEW
-ehemaligA,ehemalig::A,3004,FORMER
-altLebewesenA,alt[Lebewesen]::A,2112,OLD (AGED)
-jungA,jung::A,1207,YOUNG
-armA,arm::A,1674,POOR
-reichA,reich::A,712,RICH
-bekanntA,bekannt::A,3005,FAMILIAR
-beruhmtA,berühmt::A,,
-fremdA,fremd::A,109,FOREIGN
-verschiedenA,verschieden::A,2504,DIFFERENT
-nahA,nah::A,1942,NEAR
-fernA,fern::A,1406,FAR
-linkerA,linker::A,244,LEFT
-rechterA,rechter::A,1019,RIGHT
-andererA,anderer::A,197,OTHER
-ersterA,erster::A,728,FIRST
-zweiterA,zweiter::A,1384,SECOND
-dritterA,dritter::A,1859,THIRD
-letzterA,letzter::A,1529,LAST (FINAL)
-alleinADV,allein::ADV,1964,ALONE
-aufeinmalADV,auf einmal::ADV,1963,IMMEDIATELY
-zusammenADV,zusammen::ADV,2482,TOGETHER
-langeADV,lange::ADV,,
-plotzlichADV,plötzlich::ADV,2920,SUDDENLY
-sofortADV,sofort::ADV,2916,INSTANTLY
-spaterADV,später::ADV,,
-jetztADV,jetzt::ADV,1376,NOW
-heuteADV,heute::ADV,1283,TODAY
-morgenADV,morgen::ADV,1329,TOMORROW
-baldADV,bald::ADV,703,SOON
-dannADV,dann::ADV,2921,THEN
-gesternADV,gestern::ADV,1174,YESTERDAY
-einstADV,einst::ADV,2914,ONCE (IN THE PAST)
-damalsADV,damals::ADV,2922,AT THAT TIME
-danachADV,danach::ADV,2093,AFTERWARDS
-vorherADV,vorher::ADV,1882,BEFORE
-zuerstADV,zuerst::ADV,2915,AT FIRST
-einmalADV,einmal::ADV,374,ONE TIME
-manchmalADV,manchmal::ADV,1544,SOMETIMES
-oftADV,oft::ADV,1852,OFTEN
-immerADV,immer::ADV,1676,ALWAYS
-niemalsADV,niemals::ADV,1656,NEVER
-hierADV,hier::ADV,136,HERE
-hierhinADV,hierhin::ADV,2925,HITHER (HERE TO)
-vonhierADV,von hier::ADV,2927,FROM HERE
-dortADV,dort::ADV,1937,THERE
-dorthinADV,dorthin::ADV,2923,THITHER (THERE TO)
-geradeausADV,geradeaus::ADV,1404,STRAIGHT
-vorwartsADV,vorwärts::ADV,2912,FORWARD
-ruckwartsADV,rückwärts::ADV,2911,BACKWARD
-zuruckADV,zurück::ADV,2910,BACK (DIRECTION)
-untenADV,unten::ADV,,
-hinabADV,hinab::ADV,1326,DOWN
-obenADV,oben::ADV,1741,ABOVE
-hinaufADV,hinauf::ADV,1591,UP
-uberallADV,überall::ADV,2999,EVERYWHERE
-nichtADV,nicht::ADV,1240,NOT
-einwenigADV,ein wenig::ADV,2924,A LITTLE
-kaumADV,kaum::ADV,2926,HARDLY
-sehrADV,sehr::ADV,1311,VERY
-soADV,so::ADV,2336,OF THIS KIND (SUCH)
-nochADV,noch::ADV,2919,STILL (CONTINUING)
-nurADV,nur::ADV,1580,ONLY
-schonADV,schon::ADV,2576,ALREADY
-wiederADV,wieder::ADV,204,AGAIN
-vergebensADV,vergebens::ADV,1765,IN VAIN
-vorPRP,vor::PRP,1883,IN FRONT OF
-hinterPRP,hinter::PRP,1686,BEHIND
-unterPRP,unter::PRP,,
-durchPRP,durch::PRP,97,THROUGH
-nebenPRP,neben::PRP,2917,NEXT TO
-zwischenPRP,zwischen::PRP,689,BETWEEN
-wegenPRP,wegen::PRP,2918,BECAUSE OF
-diesPRN,dies::PRN,1214,THIS
-dasPRN,das::PRN,78,THAT
-allesPRN,alles::PRN,98,ALL
-ichPRN,ich::PRN,1209,I
-duPRN,du::PRN,1215,THOU
-erPRN,er::PRN,262,HE OR SHE OR IT
-wirPRN,wir::PRN,1212,WE
-ihrPRN,ihr::PRN,1213,YOU
-siePRN,sie::PRN,817,THEY
-wasFPRN,was::FPRN,1236,WHAT
-werFPRN,wer::FPRN,1235,WHO
-woFADV,wo::FADV,1237,WHERE
-wohinFADV,wohin::FADV,2928,WHITHER (WHERE TO)
-wieFADV,wie::FADV,1239,HOW
-warumFADV,warum::FADV,1270,WHY
-wievielFNUM,wieviel::FNUM,531,HOW MUCH
-einsNUM,eins::NUM,1493,ONE
-zweiNUM,zwei::NUM,1498,TWO
-dreiNUM,drei::NUM,492,THREE
-vierNUM,vier::NUM,1500,FOUR
-funfNUM,fünf::NUM,493,FIVE
-sechsNUM,sechs::NUM,1703,SIX
-siebenNUM,sieben::NUM,1704,SEVEN
-achtNUM,acht::NUM,1705,EIGHT
-neunNUM,neun::NUM,1483,NINE
-zehnNUM,zehn::NUM,1515,TEN
-elfNUM,elf::NUM,1706,ELEVEN
-zwolfNUM,zwölf::NUM,1707,TWELVE
-zwanzigNUM,zwanzig::NUM,1710,TWENTY
-dreiigNUM,dreißig::NUM,1715,THIRTY
-vierzigNUM,vierzig::NUM,1716,FORTY
-funfzigNUM,fünfzig::NUM,1717,FIFTY
-sechzigNUM,sechzig::NUM,1718,SIXTY
-siebzigNUM,siebzig::NUM,1721,SEVENTY
-achtzigNUM,achtzig::NUM,1722,EIGHTY
-neunzigNUM,neunzig::NUM,1724,NINETY
-hundertNUM,hundert::NUM,1634,HUNDRED
-tausendNUM,tausend::NUM,1843,THOUSAND
-undCNJ,und::CNJ,1577,AND
-oderCNJ,oder::CNJ,1014,OR
-stehenV,stehen::V,1442,STAND
-sitzenV,sitzen::V,1416,SIT
-liegenV,liegen::V,1411,LIE (REST)
-hangenV,hängen::V,2884,HANG
-werdenV,werden::V,1990,BECOME
-passierenV,passieren::V,248,HAPPEN
-beginnenV,beginnen::V,,
-endenV,enden::V,1928,CEASE
-wechselnV,wechseln::V,2857,CHANGE (BECOME DIFFERENT)
-aufgehenSonneV,aufgehen[Sonne]::V,,
-untergehenSonneV,untergehen[Sonne]::V,160,SET (HEAVENLY BODIES)
-scheinenSonneV,scheinen[Sonne]::V,708,SHINE
-donnernV,donnern::V,2378,THUNDER (VERB)
-wehenV,wehen::V,175,BLOW (OF WIND)
-stromenV,strömen::V,2858,STREAM (FLOW CONTINUOUSLY)
-flieenV,fließen::V,2003,FLOW
-sichdrehenV,sich drehen::V,,
-schwankenV,schwanken::V,573,SWAY
-schwingenV,schwingen::V,2871,SWING (MOVEMENT)
-fallenV,fallen::V,1280,FALL
-brennenV,brennen::V,1428,BURNING
-rauchenV,rauchen::V,2859,SMOKE (EMIT SMOKE)
-regnenV,regnen::V,1253,RAIN (RAINING)
-gefrierenV,gefrieren::V,1431,FREEZE
-tauenV,tauen::V,2887,THAW (DEW)
-schmelzenV,schmelzen::V,2334,MELT
-trocknenV,trocknen::V,1786,DRY UP
-siedenV,sieden::V,792,BOIL (OF LIQUID)
-faulenV,faulen::V,569,SPOIL (BECOME SPOILED)
-verfaulenV,verfaulen::V,2907,ROT
-reienV,reißen::V,460,BREAK (OF ROPE)
-versinkenV,versinken::V,2908,SINK (DISAPPEAR IN WATER)
-vergehenV,vergehen::V,1951,PASS
-erscheinenV,erscheinen::V,1076,EMERGE (APPEAR)
-verschwindenV,verschwinden::V,485,DISAPPEAR
-sinkenV,sinken::V,1088,SINK (DESCEND)
-abnehmenV,abnehmen::V,2864,DECREASE
-zunehmenV,zunehmen::V,1041,INCREASE
-steigenV,steigen::V,568,RISE (MOVE UPWARDS)
-wachsenV,wachsen::V,479,GROW
-glanzenV,glänzen::V,,
-funkelnV,funkeln::V,2889,TWINKLE
-larmenV,lärmen::V,,
-lautenV,läuten::V,2897,CHIME (ACTION)
-klingelnV,klingeln::V,2875,RING (MAKE SOUND)
-klirrenV,klirren::V,2888,TINKLE
-brausenV,brausen::V,2876,ROAR (OF SEA)
-rauschenV,rauschen::V,2877,RUSTLE (OF LEAVES)
-klingenV,klingen::V,2879,SOUND (OF INSTRUMENT OR VOICE)
-bellenV,bellen::V,1206,BARKING
-heulenV,heulen::V,526,HOWL
-blasenV,blasen::V,176,BLOW (WITH MOUTH)
-pfeifenV,pfeifen::V,1025,WHISTLE
-schreienV,schreien::V,715,SHOUT
-stohnenV,stöhnen::V,716,GROAN
-zitternV,zittern::V,52,SHIVER
-lebenV,leben::V,1422,BE ALIVE
-geborenwerdenV,geboren werden::V,1090,BE BORN
-atmenV,atmen::V,1407,BREATHE
-trinkenV,trinken::V,1401,DRINK
-essenV,essen::V,1336,EAT
-schluckenV,schlucken::V,897,SWALLOW
-mudewerdenV,müde werden::V,1996,GET TIRED
-einschlafenV,einschlafen::V,1106,FALL ASLEEP
-schlafenV,schlafen::V,1585,SLEEP
-aufwachenV,aufwachen::V,,
-aufstehenV,aufstehen::V,,
-sicherholenV,sich erholen::V,168,REST
-krankwerdenV,krank werden::V,2327,BECOME SICK
-krankseinV,krank sein::V,,
-schmerzenV,schmerzen::V,1815,ACHE
-hustenV,husten::V,879,COUGH
-genesenV,genesen::V,1978,RECOVER
-sterbenV,sterben::V,1494,DIE
-umkommenV,umkommen::V,2865,DIE (FROM ACCIDENT)
-sichbewegenV,sich bewegen::V,2874,MOVE (ONESELF)
-sichruhrenV,sich rühren::V,2861,BUDGE (ONESELF)
-sicherhebenV,sich erheben::V,570,STAND UP
-sichsetzenV,sich setzen::V,1649,SIT DOWN
-hinfallenV,hinfallen::V,2894,TUMBLE (FALL DOWN)
-laufenV,laufen::V,1443,WALK
-schreitenV,schreiten::V,2065,STEP (VERB)
-spazierengehenV,spazierengehen::V,2890,WALK (TAKE A WALK)
-eilenV,eilen::V,2860,BOLT (MOVE IN HASTE)
-sichbeeilenV,sich beeilen::V,754,HURRY
-sausenV,sausen::V,2863,DASH (OF VEHICLE)
-rennenV,rennen::V,1519,RUN
-springenV,springen::V,1829,JUMP
-kletternV,klettern::V,1102,CLIMB
-schaukelnV,schaukeln::V,,
-kriechenV,kriechen::V,96,CRAWL
-schwimmenV,schwimmen::V,1439,SWIM
-tauchenV,tauchen::V,119,DIVE
-rudernV,rudern::V,1849,ROW
-fahrenV,fahren::V,741,DRIVE
-fliegenV,fliegen::V,1441,FLY (MOVE THROUGH AIR)
-gehenV,gehen::V,695,GO
-weggehenV,weggehen::V,1752,LEAVE
-abfahrenV,abfahren::V,,
-anhaltenV,anhalten::V,2880,HALT (STOP)
-hineingehenV,hineingehen::V,749,ENTER
-eintretenV,eintreten::V,,
-kommenV,kommen::V,1446,COME
-ankommenV,ankommen::V,1387,ARRIVE
-zuruckkommenV,zurückkommen::V,581,COME BACK
-bleibenV,bleiben::V,987,REMAIN
-wartenV,warten::V,,
-erwartenV,erwarten::V,1590,WAIT (FOR)
-suchenV,suchen::V,1468,LOOK FOR
-findenV,finden::V,719,FIND
-versuchenV,versuchen::V,1812,TRY
-vorbereitenV,vorbereiten::V,2909,PREPARE
-liebenV,lieben::V,923,LOVE
-mogenV,mögen::V,1117,LIKE
-lachenV,lachen::V,1355,LAUGH
-ruhrenV,rühren::V,2873,MOVE (AFFECT EMOTIONALLY)
-weinenV,weinen::V,1839,CRY
-schimpfenV,schimpfen::V,,
-sichargernV,sich ärgern::V,2223,BE ANGRY
-sichfurchtenV,sich fürchten::V,1419,FEAR (BE AFRAID)
-furchtenV,fürchten::V,,
-fliehenV,fliehen::V,956,FLEE
-fluchtenV,flüchten::V,1615,ESCAPE
-sehenV,sehen::V,1409,SEE
-anschauenV,anschauen::V,1819,LOOK
-ansehenV,ansehen::V,1650,WATCH
-horenV,hören::V,1408,HEAR
-zuhorenV,zuhören::V,1608,LISTEN
-probierenV,probieren::V,21,TASTE (SOMETHING)
-riechenV,riechen::V,1586,SMELL (PERCEIVE)
-fuhlenV,fühlen::V,2559,FEEL (TACTUALLY)
-scheinenV,scheinen::V,1521,SEEM
-zusehenseinV,zu sehen sein::V,,
-vernehmenV,vernehmen::V,,
-frierenV,frieren::V,,
-tunV,tun::V,813,DO
-konnenV,können::V,972,BE ABLE
-wollenV,wollen::V,1784,WANT
-anfangenV,anfangen::V,1806,BEGIN
-beendenV,beenden::V,1766,FINISH
-aufhorenV,aufhören::V,,
-gelingenV,gelingen::V,1112,SUCCEED
-geratenV,geraten::V,1723,RESULT IN
-offnenV,öffnen::V,1156,OPEN
-schlieenV,schließen::V,1046,SHUT
-stellenV,stellen::V,998,PUT
-setzenV,setzen::V,,
-legenV,legen::V,2071,LAY (VERB)
-beruhrenV,berühren::V,1892,TOUCH
-verbindenV,verbinden::V,2862,CONNECT
-bedeckenV,bedecken::V,761,COVER
-aufhangenV,aufhängen::V,357,HANG UP
-anzundenV,anzünden::V,737,LIGHT (IGNITE)
-aufhebenV,aufheben::V,371,PICK UP
-zurucklassenV,zurücklassen::V,,
-verlierenV,verlieren::V,1660,LOSE
-fallenlassenV,fallen lassen::V,2866,DROP (SOMETHING)
-machenV,machen::V,734,MAKE
-herstellenV,herstellen::V,2886,PRODUCE
-bauenV,bauen::V,1840,BUILD
-reparierenV,reparieren::V,2243,REPAIR
-verbessernV,verbessern::V,2872,IMPROVE (SOMETHING)
-andernV,ändern::V,1264,CHANGE
-grabenV,graben::V,1418,DIG
-beugenV,beugen::V,,
-biegenV,biegen::V,2224,BEND (SOMETHING)
-drehenV,drehen::V,,
-wendenV,wenden::V,1445,TURN (SOMETHING)
-umdrehenV,umdrehen::V,1444,TURN AROUND
-hebenV,heben::V,,
-hochhebenV,hochheben::V,501,LIFT
-ergreifenV,ergreifen::V,855,SEIZE
-haltenV,halten::V,1448,HOLD
-druckenV,drücken::V,1913,PRESS
-schiebenV,schieben::V,1452,PUSH
-kratzenV,kratzen::V,1767,SCRAPE
-leckenV,lecken::V,319,LICK
-beienV,beißen::V,1403,BITE
-abreienV,abreißen::V,,
-abschneidenV,abschneiden::V,,
-bindenV,binden::V,1917,TIE
-steckenV,stecken::V,,
-brechenV,brechen::V,680,BREAK (DESTROY OR GET DESTROYED)
-klopfenV,klopfen::V,2396,KNOCK
-hauenV,hauen::V,1433,HIT
-klebenV,kleben::V,1069,GLUE
-reibenV,reiben::V,1449,RUB
-streichenV,streichen::V,38,SPREAD OUT
-schleifenV,schleifen::V,251,SHARPEN (SOMETHING)
-schneidenV,schneiden::V,1432,CUT
-ruttelnV,rütteln::V,2899,JOG (SOMETHING)
-schuttelnV,schütteln::V,1909,SHAKE
-schwenkenV,schwenken::V,2901,SWING (SOMETHING)
-schuttenV,schütten::V,1487,POUR
-fullenV,füllen::V,2006,FILL
-einwickelnV,einwickeln::V,1113,WRAP
-tragenV,tragen::V,700,CARRY
-schleppenV,schleppen::V,2030,DRAG
-ziehenV,ziehen::V,1455,PULL
-aufbewahrenV,aufbewahren::V,1477,KEEP
-werfenV,werfen::V,1456,THROW
-fangenV,fangen::V,702,CATCH
-packenV,packen::V,,
-versteckenV,verstecken::V,2485,HIDE (ONESELF)
-teilenV,teilen::V,1119,DIVIDE
-schickenV,schicken::V,1127,SEND
-bringenV,bringen::V,692,BRING
-hinzufugenV,hinzufügen::V,2882,ADD
-bekommenV,bekommen::V,,
-erhaltenV,erhalten::V,694,GET
-nehmenV,nehmen::V,1749,TAKE
-wahlenV,wählen::V,1750,CHOOSE
-auswahlenV,auswählen::V,,
-bewahrenV,bewahren::V,1997,PRESERVE
-behindernV,behindern::V,554,HINDER
-verderbenV,verderben::V,92,SPOIL (SOMEBODY OR SOMETHING)
-beschadigenV,beschädigen::V,1116,DAMAGE
-zerbrechenV,zerbrechen::V,2558,BREAK (CLEAVE)
-zerreienV,zerreißen::V,1735,TEAR (SHRED)
-zerstorenV,zerstören::V,681,DESTROY
-verbrennenV,verbrennen::V,141,BURN (SOMETHING)
-gebenV,geben::V,1447,GIVE
-reichenV,reichen::V,,
-schenkenV,schenken::V,196,DONATE
-versprechenV,versprechen::V,1675,PROMISE
-wunschenV,wünschen::V,,
-lobenV,loben::V,1687,PRAISE
-kussenV,küssen::V,578,KISS
-wiegenV,wiegen::V,,
-zudeckenV,zudecken::V,,
-weckenV,wecken::V,1602,WAKE UP
-zeigenV,zeigen::V,1039,SHOW
-fuhrenV,führen::V,,
-lehrenV,lehren::V,709,TEACH
-unterrichtenV,unterrichten::V,,
-aufziehenV,aufziehen::V,2134,RAISE (A CHILD)
-leitenV,leiten::V,43,LEAD (GUIDE)
-antreibenV,antreiben::V,2881,URGE (SOMEONE)
-lassenV,lassen::V,2896,CAUSE TO (LET)
-einladenV,einladen::V,1611,INVITE
-vereinigenV,vereinigen::V,1743,JOIN
-besuchenV,besuchen::V,1377,VISIT
-treffenV,treffen::V,1831,MEET
-sichversammelnV,sich versammeln::V,,
-spielenV,spielen::V,1413,PLAY
-singenV,singen::V,1261,SING
-tanzenV,tanzen::V,1879,DANCE
-sichtrennenV,sich trennen::V,1359,SEPARATE
-verlassenV,verlassen::V,,
-rettenV,retten::V,2008,RESCUE
-bewachenV,bewachen::V,1940,GUARD
-schutzenV,schützen::V,2900,PROTECT
-verteidigenV,verteidigen::V,1330,DEFEND
-sichschlagenV,sich schlagen::V,2902,BRAWL (FIGHT)
-schieenV,schießen::V,1172,SHOOT
-siegenV,siegen::V,866,WIN
-argernV,ärgern::V,2892,MAKE ANGRY (ANNOY)
-schlagenV,schlagen::V,1665,BEAT
-tretenV,treten::V,1135,KICK
-stechenV,stechen::V,571,STING
-stoenV,stoßen::V,,
-stehlenV,stehlen::V,713,STEAL
-storenV,stören::V,2883,DISTURB
-belastigenV,belästigen::V,2869,BOTHER (HARASS)
-verbergenV,verbergen::V,602,HIDE (CONCEAL)
-tauschenV,täuschen::V,,
-betrugenV,betrügen::V,1902,BETRAY
-totenV,töten::V,1417,KILL
-wohnenV,wohnen::V,363,"DWELL (LIVE, RESIDE)"
-arbeitenV,arbeiten::V,1086,WORK (ACTIVITY)
-sammelnV,sammeln::V,7,GATHER
-pfluckenV,pflücken::V,2148,PICK
-jagenV,jagen::V,1435,HUNT
-fischenV,fischen::V,2638,FISHING
-fassenV,fassen::V,,
-hutenV,hüten::V,2885,HERD (SOMETHING)
-treibenV,treiben::V,2868,DRIVE (CATTLE)
-anbindenV,anbinden::V,2891,TIE UP (TETHER)
-futternV,füttern::V,739,FEED
-melkenV,melken::V,93,DRAW MILK
-hackenV,hacken::V,155,CHOP
-gieenV,gießen::V,,
-reifenV,reifen::V,179,RIPEN
-zubereitenV,zubereiten::V,1100,COOK (SOMETHING)
-kochenV,kochen::V,2492,BOIL (SOMETHING)
-backenV,backen::V,183,BAKE
-bratenV,braten::V,991,FRY
-umruhrenV,umrühren::V,696,STIR
-strickenV,stricken::V,2905,KNIT
-nahenV,nähen::V,1457,SEW
-farbenV,färben::V,157,DYE
-reinigenV,reinigen::V,2235,CLEAN (SOMETHING)
-waschenV,waschen::V,1453,WASH
-abwischenV,abwischen::V,1454,WIPE
-spulenV,spülen::V,2904,RINSE
-fegenV,fegen::V,230,SWEEP
-kehrenV,kehren::V,,
-badenV,baden::V,138,BATHE
-sichwaschenV,sich waschen::V,,
-ausziehenV,ausziehen::V,,
-anziehenV,anziehen::V,158,PUT ON
-sichanziehenV,sich anziehen::V,,
-kammenV,kämmen::V,2070,COMB (VERB)
-schmuckenV,schmücken::V,1739,DECORATE
-sagenV,sagen::V,1458,SAY
-sprechenV,sprechen::V,1623,SPEAK
-redenV,reden::V,2708,TALK
-sichunterhaltenV,sich unterhalten::V,2903,CHAT (WITH SOMEBODY)
-fragenV,fragen::V,1309,ASK (INQUIRE)
-bittenV,bitten::V,1828,ASK (REQUEST)
-erzahlenV,erzählen::V,1711,TELL
-mitteilenV,mitteilen::V,2898,CONVEY (A MESSAGE)
-nennenV,nennen::V,180,CALL BY NAME
-rufenV,rufen::V,1084,CALL
-prahlenV,prahlen::V,101,BOAST
-ubersetzenV,übersetzen::V,2906,TRANSLATE
-denkenV,denken::V,1415,THINK (REFLECT)
-glaubenV,glauben::V,1890,BELIEVE
-bemerkenV,bemerken::V,2893,NOTICE (SOMETHING)
-erkennenV,erkennen::V,2870,RECOGNIZE (SOMEBODY)
-begreifenV,begreifen::V,,
-verstehenV,verstehen::V,1536,UNDERSTAND
-lernenV,lernen::V,504,LEARN
-wissenV,wissen::V,1410,KNOW (SOMETHING)
-sicherinnernanV,sich erinnern an::V,707,REMEMBER
-vergessenV,vergessen::V,1523,FORGET
-messenV,messen::V,1506,MEASURE
-zahlenV,zählen::V,1420,COUNT
-rechnenV,rechnen::V,2867,CALCULATE
-lesenV,lesen::V,724,READ
-malenV,malen::V,2001,PAINTING
-zeichnenV,zeichnen::V,,
-schreibenV,schreiben::V,1672,WRITE
-besitzenV,besitzen::V,684,OWN
-kaufenV,kaufen::V,1869,BUY
-verkaufenV,verkaufen::V,1571,SELL
-bezahlenV,bezahlen::V,,
-beherrschenV,beherrschen::V,1846,RULE
-ertragenV,ertragen::V,833,ENDURE
+AugeN,eye,1248,EYE
+OhrN,ear,1247,EAR
+NaseN,nose,1221,NOSE
+MundN,mouth,674,MOUTH
+ZahnN,tooth,1380,TOOTH
+ZungeN,tongue,1205,TONGUE
+LippeN,lip,478,LIP
+WangeN,cheek,1730,CHEEK
+GesichtN,face,1560,FACE
+StirnN,forehead,123,FOREHEAD
+HaarN,hair,1040,HAIR
+SchnurrbartN,moustache,1165,MOUSTACHE
+BartN,beard,678,BEARD
+KinnN,chin,1510,CHIN
+KieferAnatomieN,jaw,798,JAW
+KehleN,throat,1346,THROAT
+HalsN,neck,1333,NECK
+GenickN,nape,1347,NAPE (OF NECK)
+KopfN,head,1256,HEAD
+RuckenN,back,1291,BACK
+BauchN,belly,1251,BELLY
+NabelN,navel,1838,NAVEL
+BusenN,bosom,1402,BREAST
+BrustN,breast,1592,CHEST
+SchulterN,shoulder,1482,SHOULDER
+ArmN,arm,1673,ARM
+EllenbogenN,elbow,981,ELBOW
+HandN,hand,1277,HAND
+HandflacheN,palm,1183,PALM OF HAND
+FingerN,finger,1303,FINGER
+FingernagelN,fingernail,1258,FINGERNAIL
+NagelAnatomieN,nail,1896,FINGERNAIL OR TOENAIL
+ZehN,toe,1389,TOE
+FuN,foot,1301,FOOT
+FerseN,heel,980,HEEL
+KnieN,knee,1371,KNEE
+OberschenkelN,thigh,800,THIGH
+BeinN,leg,1297,LEG
+KorperN,body,1480,BODY
+HautN,skin,763,SKIN
+BlutN,blood,946,BLOOD
+AderN,vein,1924,VEIN
+SehneN,sinew,1137,TENDON
+KnochenN,bone,1394,BONE
+GehirnN,brain,1583,BRAIN
+HerzN,heart,1223,HEART
+MagenN,stomach,819,STOMACH
+LeberN,liver,1224,LIVER
+AtemN,breath,870,BREATH
+HungerN,hunger,1864,HUNGER
+TraneN,tear,1651,TEAR (OF EYE)
+GeschmackN,flavour,2190,TASTE
+GeruchN,odour,,
+SchlafN,sleep,2972,SLEEP (STATE)
+TraumN,dream,2374,DREAM
+HimmelN,sky,1732,SKY
+SonneN,sun,1343,SUN
+MondN,moon,1313,MOON
+SternN,star,1430,STAR
+LuftN,air,27,AIR
+WindN,wind,960,WIND
+WelleN,wave,978,WAVE
+WasserN,water,948,WATER
+SteinN,stone,668,ROCK
+BodenN,ground,2159,GROUND
+ErdeN,earth,1228,EARTH (SOIL)
+StaubN,dust,2,DUST
+RauchN,smoke,778,SMOKE (EXHAUST)
+FunkeN,spark,518,SPARK
+FeuerN,fire,221,FIRE
+LichtN,light,630,LIGHT (RADIATION)
+SchattenN,shadow,1388,SHADE
+WetterN,weather,952,WEATHER
+NebelN,fog,249,FOG
+WolkeN,cloud,1489,CLOUD
+RegenN,rain,658,RAIN (PRECIPITATION)
+SchneeN,snow,784,SNOW
+EisN,ice,617,ICE
+FrostN,frost,2034,FROST
+KalteN,chill,2932,COLD (CHILL)
+HitzeN,heat,612,HEAT
+RaureifN,hoarfrost,2942,HOARFROST
+RegenbogenN,rainbow,1733,RAINBOW
+DonnerN,thunder,1150,THUNDER
+StromungN,current,2935,CURRENT (STREAM)
+TropfenN,drop,,
+SchaumN,foam,1768,FOAM
+SchmutzN,dirt,25,DIRT
+SeeN,lake,624,LAKE
+SumpfN,swamp,1145,SWAMP
+MoorN,moor,2962,MOORLAND
+WieseN,meadow,649,PASTURE
+WaldN,forest,420,FOREST
+HugelN,hill,614,HILL
+AnhoheN,elevation,2936,ELEVATION
+BergN,mountain,639,MOUNTAIN
+GipfelN,summit,1614,SUMMIT
+HohleN,cave,1155,CAVE
+AbhangN,slope,618,PRECIPICE
+QuelleN,source,849,SPRING (OF WATER)
+BachN,brook,,
+FlussN,river,666,RIVER
+UferN,shore,113,SHORE
+KusteN,coast,1525,COAST
+FestlandN,land,166,MAINLAND
+MeerN,sea,1474,SEA
+BuchtN,"cove, bay",663,BAY
+InselN,island,622,ISLAND
+BlumeN,flower,239,FLOWER
+GrasN,grass,606,GRASS
+WurzelN,root,670,ROOT
+BaumN,tree,906,TREE
+StammN,trunk,344,TREE TRUNK
+RindeN,bark,1204,BARK
+AstN,limb,1531,BRANCH
+ZweigN,twig,,
+BlattN,leaf,628,LEAF
+BirkeN,birch,1855,BIRCH
+KieferBaumN,pine,1740,PINE
+WeideBaumN,willow,818,WILLOW
+TanneN,fir,1915,FIR
+HornN,horn,1393,HORN (ANATOMY)
+FederN,feather,1201,FEATHER
+FellN,fur,580,FUR
+FlugelN,wing,1257,WING
+KlaueN,claw,72,CLAW
+KralleN,paw,2965,PAW
+SchwanzN,tail,1220,TAIL
+EiN,egg,744,EGG
+NestN,nest,539,NEST
+BauN,lair,2949,LAIR
+TierN,animal,619,ANIMAL
+HerdeN,flock,2939,FLOCK (OF ANIMALS)
+KuhN,cow,1007,COW
+BulleN,bull,1008,BULL
+PferdN,horse,615,HORSE
+SchafN,sheep,1331,SHEEP
+SchweinN,pig,1337,PIG
+HundN,dog,2009,DOG
+KatzeN,cat,1208,CAT
+BarN,bear,1820,BEAR
+EichhornchenN,squirrel,1628,SQUIRREL
+ElchN,elk,1772,ELK
+FuchsN,fox,1312,FOX
+HaseN,hare,1190,HARE
+MausN,mouse,1491,MOUSE
+WolfN,wolf,522,WOLF
+VogelN,bird,937,BIRD
+SchwarmN,swarm,2974,SWARM (OF BIRDS)
+HuhnN,chicken,1318,CHICKEN
+HahnN,cock,1511,ROOSTER
+GansN,goose,1187,GOOSE
+AdlerN,eagle,1905,EAGLE
+EnteN,duck,1360,DUCK
+EuleN,owl,735,OWL
+KranichN,crane,1830,CRANE
+KraheN,crow,913,CROW
+KuckuckN,cuckoo,2934,CUCKOO
+SchwanN,swan,2837,SWAN
+FischN,fish,227,FISH
+BarschN,perch,2966,PERCH (FISH)
+HechtN,pike,2967,PIKE (FISH)
+SchlangeTierN,snake,730,SNAKE
+WurmN,worm,1219,WORM
+SpinneN,spider,843,SPIDER
+AmeiseN,ant,587,ANT
+LausN,louse,1392,LOUSE
+MuckeN,gnat,1509,MOSQUITO
+FliegeN,fly,1504,FLY (INSECT)
+SchmetterlingN,butterfly,1791,BUTTERFLY
+BeereN,berry,904,BERRY
+ApfelN,apple,1320,APPLE
+PilzN,mushroom,641,MUSHROOM
+ZwiebelN,onion,2366,ONION
+SaatN,seed,714,SEED
+KornN,grain,605,GRAIN
+HeuN,hay,342,HAY
+SchaleN,"peel, husk",2373,SKIN (OF FRUIT)
+GrubeN,pit,2539,PIT (POTHOLE)
+FalleN,trap,1075,TRAP (PITFALL)
+SchlingeN,noose,2604,NOOSE
+SpurN,track,318,FOOTPRINT
+AscheN,ash,646,ASH
+DreckN,filth,,
+EisenN,iron,621,IRON
+GoldN,gold,1369,GOLD
+SilberN,silver,759,SILVER
+KohleN,coal,2658,COAL
+GlasN,glass,604,GLASS
+LehmN,clay,1399,CLAY
+SandN,sand,671,SAND
+MenschN,human,683,PERSON
+MannN,man,1554,MAN
+FrauN,woman,962,WOMAN
+KindN,child,1304,CHILD (YOUNG HUMAN)
+JungeN,boy,1366,BOY
+MadchenN,girl,1646,GIRL
+FamilieN,family,194,FAMILY
+GrovaterN,grandfather,1383,GRANDFATHER
+GromutterN,grandmother,1496,GRANDMOTHER
+ElternN,parents,505,PARENTS
+VaterN,father,1217,FATHER
+MutterN,mother,1216,MOTHER
+SohnN,son,1620,SON
+TochterN,daughter,1357,DAUGHTER
+BruderN,brother,1262,BROTHER
+SchwesterN,sister,1263,SISTER
+OnkelN,uncle,1327,UNCLE
+TanteN,aunt,1272,AUNT
+EhemannN,husband,1200,HUSBAND
+EhefrauN,wife,1199,WIFE
+FreudeN,joy,2524,JOY
+GelachterN,laughter,2958,LAUGHTER
+GluckN,happiness,2941,HAPPINESS
+KummerN,grief,1668,GRIEF
+WunschN,wish,,
+LustN,desire,,
+GeistN,spirit,53,SPIRIT
+GedankeN,thought,2975,THOUGHT
+GedachtnisN,memory,1018,MEMORY
+VerstandN,mind,1562,MIND
+SinnN,meaning,2950,MEANING
+GrundN,reason,2968,REASON
+WahrheitN,truth,1638,TRUTH
+GesprachN,talk,2933,CONVERSATION
+MarchenN,fairy tale,2937,FAIRY TALE
+ErzahlungN,story,2060,STORY
+NachrichtN,message,2961,MESSAGE
+NeuigkeitN,news,2964,NEWS
+NameN,name,1405,NAME
+RatselN,puzzle,,
+RedeN,speech,1115,SPEECH
+SpracheN,language,1307,LANGUAGE
+StimmeN,voice,1363,VOICE
+WortN,word,1599,WORD
+ZeichenN,sign,1720,SIGN
+RufN,call,2944,CALL (APPEAL)
+LarmN,noise,1182,NOISE
+LautN,sound,1811,SOUND OR NOISE
+TonN,tone,2995,TONE (MUSIC)
+LiedN,song,1096,SONG
+RuheN,calm,1314,QUIET
+LeuteN,people,,
+VolkN,nation,789,PEOPLE
+ArbeitN,work,984,WORK (LABOUR)
+GastN,guest,1782,GUEST
+GeschenkN,gift,2982,GIFT
+SpielN,game,2467,GAME
+GesellschaftN,company,2983,COMPANIONSHIP
+HilfeN,help,,
+FreundN,friend,1325,FRIEND
+KameradN,companion,,
+AngelegenheitN,matter,,
+AnzahlN,count,2945,COUNT (QUANTITY)
+ArtN,sort,844,KIND (THING)
+StuckN,piece,594,PIECE
+TeilN,part,779,PART
+HalfteN,half,816,HALF
+KreisN,circle,1467,CIRCLE
+KreuzN,cross,1367,CROSS
+LinieN,line,1048,LINE
+StrichN,stroke,2993,STROKE (OF PEN)
+AbstandN,gap,2948,GAP (DISTANCE)
+EntfernungN,distance,2978,DISTANCE
+GegendN,area,2980,AREA
+PlatzN,space,3006,SPACE (AVAILABLE)
+OrtN,place,723,PLACE (POSITION)
+SeiteN,side,682,SIDE
+MitteN,middle,1093,MIDDLE
+GegenstandN,item,2981,ITEM
+SacheN,thing,738,THING
+RandN,fringe,2989,FRINGE
+KanteN,edge,863,EDGE
+EckeN,corner,192,CORNER
+SpitzeN,tip,2992,TIP (OF OBJECT)
+EndeN,end,742,END (OF SPACE)
+LochN,hole,1667,HOLE
+WinkelN,angle,,
+MusterN,pattern,2988,PATTERN
+GroeN,size,2845,SIZE (OF OBJECT)
+LangeN,length,2537,LENGTH
+HoheN,height,2985,HEIGHT
+GewichtN,weight,2466,WEIGHT
+MengeN,amount,2987,AMOUNT
+HaufenN,heap,2984,HEAP
+ReiheN,row,,
+BootN,boat,1844,BOAT
+RuderN,oar,234,PADDLE
+SchlittenN,sleigh,16,SLED
+SkiN,ski,2991,SKI
+LagerfeuerN,campfire,2986,CAMPFIRE
+LastN,load,1679,LOAD
+GangN,walk,2979,WALK (MANNER)
+SchrittN,step,1158,STEP
+NordenN,north,1598,NORTH
+SudenN,south,1595,SOUTH
+WestenN,west,1817,WEST
+OstenN,east,1877,EAST
+HolzN,wood,1803,WOOD
+BrettN,board,1227,BOARD
+PlatteN,slab,2952,SLAB
+StutzeN,"support, rest",2994,SUPPORT (OF OBJECT)
+StangeN,pole,281,POST
+StockN,stick,1295,STICK
+StabN,staff,,
+RohrN,pipe,2956,TUBE
+HausN,house,1252,HOUSE
+HeimN,home,2406,HOME
+OfenN,stove,859,STOVE
+FubodenN,floor,1632,FLOOR
+TischN,table,1775,TABLE
+StuhlN,chair,1476,CHAIR
+WiegeN,cradle,2946,CRADLE
+BettN,bed,1663,BED
+RegalN,shelf,745,SHELF
+KisteN,box,1465,BOX
+FensterN,window,1375,WINDOW
+TurN,door,1567,DOOR
+TorN,gate,2940,GATE
+ZaunN,fence,1690,FENCE
+DachN,roof,769,ROOF
+LeiterN,ladder,1464,LADDER
+BesenN,broom,245,BROOM
+SpatenN,spade,1176,SPADE
+SchaufelN,shovel,1901,SHOVEL
+GabelN,fork,1302,FORK
+LoffelN,spoon,1378,SPOON
+MesserN,knife,1352,KNIFE
+NagelN,nail,502,NAIL (TOOL)
+NetzN,net,2963,NET
+HakenN,hook,1071,HOOK
+GriffN,handle,1254,HANDLE
+SchlossN,lock,1596,LOCK
+BildN,picture,2401,PICTURE
+FigurN,figure,1945,IDOL
+PuppeN,doll,1659,DOLL
+BeutelN,pouch,2951,POUCH
+BundelN,bundle,2943,BUNDLE
+TascheN,bag,2468,BAG
+EimerN,bucket,2052,BUCKET
+DeckelN,"cover, lid",2319,"LID (COVER, CAP)"
+GeschirrN,dishes,481,DISH
+SackN,sack,2990,SACK
+TasseN,cup,476,CUP
+TopfN,pot,1462,POT
+KesselN,kettle,854,KETTLE
+EssenN,meal,1526,MEAL
+NahrungN,food,256,FOOD
+SpeiseN,dish,,
+FleischN,meat,634,MEAT
+GetreideN,corn,,
+BreiN,mush,400,MUSH
+BrotN,bread,1368,BREAD
+ScheibeN,slice,2954,SLICE
+FettN,fat,323,FAT (ORGANIC SUBSTANCE)
+ButterN,butter,1245,BUTTER
+OlN,oil,1484,OIL (ORGANIC SUBSTANCE)
+SalzN,salt,1274,SALT
+SuppeN,soup,1547,SOUP
+HonigN,honey,942,HONEY
+MilchN,milk,635,MILK
+TeeN,tea,1373,TEA
+LederN,leather,629,LEATHER
+WolleN,wool,964,WOOL
+StoffN,cloth,1616,CLOTH
+NadelN,needle,1382,NEEDLE (FOR SEWING)
+FadenN,thread,1161,THREAD
+KnopfN,button,757,BUTTON
+KnotenN,knot,760,KNOT
+FarbeN,paint,647,PAINT (PIGMENTS)
+KleidungN,clothes,1895,CLOTHES
+HemdN,shirt,1622,SHIRT
+KragenN,collar,2012,COLLAR
+ArmelN,sleeve,2953,SLEEVE
+HoseN,trousers,809,TROUSERS
+GurtelN,belt,772,BELT
+MutzeN,cap,1288,CAP
+SchuhN,shoe,1381,SHOE
+StiefelN,boot,585,BOOT
+RingN,ring,1374,RING
+BandN,ribbon,2969,RIBBON
+KammN,comb,1475,COMB
+SpiegelN,mirror,1171,MIRROR
+RiemenN,strap,2973,STRAP
+SchnurN,string,362,STRING
+LeineN,leash,2959,LEASH
+DeckeN,blanket,806,BLANKET
+KissenN,pillow,1044,PILLOW
+TuchN,scarf,,
+HandtuchN,towel,1021,TOWEL
+KraftN,force,,
+StarkeN,strength,202,STRENGTH
+GesundheitN,health,1364,HEALTHY
+KrankheitN,illness,1986,DISEASE
+SchmerzN,pain,1783,PAIN
+WundeN,wound,1109,WOUND
+FieberN,fever,1534,FEVER
+ArzneiN,medicine,1372,MEDICINE
+BruckeN,bridge,1011,BRIDGE
+BrunnenN,well,954,WELL
+WeideN,pasture,,
+PfadN,path,2252,PATH
+WegN,way,2457,PATH OR ROAD
+StraeN,road,667,ROAD
+DorfN,village,930,VILLAGE
+StadtN,town,1391,TOWN
+BriefN,letter,1612,LETTER
+BuchN,book,963,BOOK
+BuchstabeN,character,1024,CHARACTER
+ZeitungN,newspaper,1298,NEWSPAPER
+LebenN,life,210,LIFE
+TodN,death,910,DEATH
+GrabN,grave,1773,GRAVE
+KircheN,church,1349,CHURCH
+SundeN,sin,2971,SIN
+GottN,god,1944,GOD
+ArbeiterN,worker,2977,WORKER
+ChefN,boss,2930,BOSS
+MeisterN,master,383,MASTER
+ArztN,doctor,597,PHYSICIAN
+LehrerN,teacher,1038,TEACHER
+GeldN,money,1559,MONEY
+GeschaftN,business,2931,BUSINESS
+LadenN,shop,746,SHOP
+PreisN,price,657,PRICE
+WareN,ware,2957,WARE
+NutzenN,benefit,2929,BENEFIT
+ReichtumN,wealth,2996,WEALTH
+WeltN,world,965,WORLD
+LandN,country,1300,COUNTRY
+StaatN,state,2955,STATE (POLITICS)
+KonigN,king,1508,KING
+MachtN,power,2526,POWER
+GrenzeN,border,2546,BORDER
+KriegN,war,935,WAR
+FeindN,enemy,1358,ENEMY
+GewaltN,violence,2976,VIOLENCE
+KampfN,fight,,
+BogenWaffeN,bow,994,BOW
+PfeilN,arrow,977,ARROW
+GewehrN,gun,1566,GUN
+FehlerN,mistake,1293,MISTAKE
+LugeN,lie,475,UNTRUTH
+SchadenN,damage,2947,DAMAGE (INJURY)
+UngluckN,misfortune,56,BAD LUCK
+SchuldN,fault,134,FAULT
+AlterN,age,1789,AGE
+SchlussN,end,743,END (OF TIME)
+ZeitN,time,892,TIME
+TagN,day,1225,DAY (NOT NIGHT)
+MorgenN,morning,1339,MORNING
+MittagN,noon,12,MIDDAY
+AbendN,evening,1629,EVENING
+NachtN,night,1233,NIGHT
+WocheN,week,1469,WEEK
+MonatN,month,1370,MONTH
+JahrN,year,1226,YEAR
+FruhlingN,spring,1537,SPRINGTIME
+SommerN,summer,1342,SUMMER
+HerbstN,autumn,1276,AUTUMN
+WinterN,winter,1471,WINTER
+JanuarN,January,2036,JANUARY
+FebruarN,February,2037,FEBRUARY
+MarzN,March,2846,MARCH
+AprilN,April,2847,APRIL
+MaiN,May,2848,MAY (MONTH)
+JuniN,June,2849,JUNE
+JuliN,July,2850,JULY
+AugustN,August,2851,AUGUST
+SeptemberN,September,2852,SEPTEMBER
+OktoberN,October,2853,OCTOBER
+NovemberN,November,2854,NOVEMBER
+DezemberN,December,2855,DECEMBER
+MontagN,Monday,1697,MONDAY
+DienstagN,Tuesday,1695,TUESDAY
+MittwochN,Wednesday,1694,WEDNESDAY
+DonnerstagN,Thursday,1693,THURSDAY
+FreitagN,Friday,1692,FRIDAY
+SamstagN,Saturday,1700,SATURDAY
+SonntagN,Sunday,1699,SUNDAY
+groA,big,1202,BIG
+kleinA,little,1246,SMALL
+langA,long,1203,LONG
+kurzA,short,1645,SHORT
+breitA,wide,1243,WIDE
+schmalA,narrow,1267,NARROW
+dichtA,dense,2239,DENSE
+dickGegenstandA,thick,1244,THICK
+dunnA,thin,2249,THIN (OF SHAPE OF OBJECT)
+feinA,"delicate, fine",2157,FINE OR THIN
+festA,"firm, solid",3003,SOLID
+flachA,flat,1633,FLAT
+glattA,smooth,1234,SMOOTH
+hartA,hard,1884,HARD
+weichA,soft,1856,SOFT
+rundA,round,1395,ROUND
+spitzA,pointed,372,POINTED
+scharfA,sharp,1396,SHARP
+stumpfA,blunt,379,BLUNT
+schwerA,heavy,1210,HEAVY
+schonA,beautiful,1427,BEAUTIFUL
+heiA,hot,1286,HOT
+warmA,warm,1232,WARM
+kaltA,cold,1287,COLD
+kuhlA,cool,2483,COLD (OF WEATHER)
+frischA,fresh,243,FRESH
+feuchtA,damp,2998,DAMP
+nassA,wet,1726,WET
+trockenA,dry,1398,DRY
+vollA,full,1429,FULL
+leerA,empty,1624,EMPTY
+offenA,open,,
+geschlossenA,closed,589,CLOSED
+sauberA,clean,704,CLEAN
+schmutzigA,dirty,1230,DIRTY
+rohA,raw,1959,RAW
+reifA,ripe,178,RIPE
+leckerA,delicious,1813,TASTY
+suA,sweet,717,SWEET
+bitterA,bitter,887,BITTER
+sauerA,sour,1906,SOUR
+hellA,bright,679,BRIGHT
+dunkelA,dark,706,DARK
+schwarzA,black,163,BLACK
+weiA,white,1335,WHITE
+rotA,red,156,RED
+gelbA,yellow,1424,YELLOW
+blauA,blue,837,BLUE
+grunA,green,1425,GREEN
+grauA,grey,153,GREY
+buntA,colourful,2997,COLORFUL
+billigA,cheap,1887,CHEAP
+teuerA,expensive,1426,EXPENSIVE
+wertvollA,precious,3002,PRECIOUS
+blindA,blind,1653,BLIND
+taubA,deaf,996,DEAF
+kraftigA,powerful,3001,POWERFUL
+starkA,strong,785,STRONG
+schwachA,weak,1601,WEAK
+fettA,fat,1279,FAT (OBESE)
+schlankA,slim,1400,THIN (SLIM)
+hubschA,pretty,2410,GOOD-LOOKING
+boseA,evil,45,EVIL
+dummA,stupid,1518,STUPID
+faulA,lazy,1564,LAZY
+fleiigA,diligent,2077,DILIGENT
+geizigA,stingy,1774,STINGY
+klugA,clever,1310,CLEVER
+geschicktA,skilful,1824,DEXTEROUS
+liebA,dear,2470,DEAR
+lustigA,merry,1976,MERRY
+sanftA,gentle,1954,GENTLE
+hungrigA,hungry,1533,BE HUNGRY
+krankA,"sick, ill",1847,SICK
+nacktA,naked,590,NAKED
+traurigA,sad,699,SAD
+lebendigA,living,3000,LIVING
+gutA,good,1035,GOOD
+schlechtA,bad,1292,BAD
+richtigA,correct,1725,CORRECT (RIGHT)
+schlimmA,"nasty, dire",419,SEVERE
+wahrA,true,1657,TRUE
+altA,old,1229,OLD
+neuA,new,1231,NEW
+ehemaligA,former,3004,FORMER
+altLebewesenA,"aged, old",2112,OLD (AGED)
+jungA,young,1207,YOUNG
+armA,poor,1674,POOR
+reichA,rich,712,RICH
+bekanntA,familiar,3005,FAMILIAR
+beruhmtA,famous,,
+fremdA,foreign,109,FOREIGN
+verschiedenA,different,2504,DIFFERENT
+nahA,near,1942,NEAR
+fernA,far,1406,FAR
+linkerA,left,244,LEFT
+rechterA,right,1019,RIGHT
+andererA,other,197,OTHER
+ersterA,first,728,FIRST
+zweiterA,second,1384,SECOND
+dritterA,third,1859,THIRD
+letzterA,last,1529,LAST (FINAL)
+alleinADV,alone,1964,ALONE
+aufeinmalADV,at once,1963,IMMEDIATELY
+zusammenADV,together,2482,TOGETHER
+langeADV,long,,
+plotzlichADV,suddenly,2920,SUDDENLY
+sofortADV,instantly,2916,INSTANTLY
+spaterADV,later,,
+jetztADV,now,1376,NOW
+heuteADV,today,1283,TODAY
+morgenADV,tomorrow,1329,TOMORROW
+baldADV,soon,703,SOON
+dannADV,then,2921,THEN
+gesternADV,yesterday,1174,YESTERDAY
+einstADV,once,2914,ONCE (IN THE PAST)
+damalsADV,at that time,2922,AT THAT TIME
+danachADV,afterwards,2093,AFTERWARDS
+vorherADV,before,1882,BEFORE
+zuerstADV,at first,2915,AT FIRST
+einmalADV,once,374,ONE TIME
+manchmalADV,sometimes,1544,SOMETIMES
+oftADV,often,1852,OFTEN
+immerADV,always,1676,ALWAYS
+niemalsADV,never,1656,NEVER
+hierADV,here,136,HERE
+hierhinADV,hither,2925,HITHER (HERE TO)
+vonhierADV,hence,2927,FROM HERE
+dortADV,there,1937,THERE
+dorthinADV,thither,2923,THITHER (THERE TO)
+geradeausADV,ahead,1404,STRAIGHT
+vorwartsADV,forward,2912,FORWARD
+ruckwartsADV,backward,2911,BACKWARD
+zuruckADV,back,2910,BACK (DIRECTION)
+untenADV,below,,
+hinabADV,down,1326,DOWN
+obenADV,above,1741,ABOVE
+hinaufADV,up,1591,UP
+uberallADV,everywhere,2999,EVERYWHERE
+nichtADV,not,1240,NOT
+einwenigADV,a little,2924,A LITTLE
+kaumADV,hardly,2926,HARDLY
+sehrADV,very,1311,VERY
+soADV,so,2336,OF THIS KIND (SUCH)
+nochADV,still,2919,STILL (CONTINUING)
+nurADV,only,1580,ONLY
+schonADV,already,2576,ALREADY
+wiederADV,again,204,AGAIN
+vergebensADV,in vain,1765,IN VAIN
+vorPRP,in front of,1883,IN FRONT OF
+hinterPRP,behind,1686,BEHIND
+unterPRP,under,,
+durchPRP,through,97,THROUGH
+nebenPRP,next to,2917,NEXT TO
+zwischenPRP,between,689,BETWEEN
+wegenPRP,because of,2918,BECAUSE OF
+diesPRN,this,1214,THIS
+dasPRN,that,78,THAT
+allesPRN,everything,98,ALL
+ichPRN,I,1209,I
+duPRN,thou,1215,THOU
+erPRN,he,262,HE
+wirPRN,we,1212,WE
+ihrPRN,you,1213,YOU
+siePRN,they,817,THEY
+wasFPRN,what,1236,WHAT
+werFPRN,who,1235,WHO
+woFADV,where,1237,WHERE
+wohinFADV,where to,2928,WHITHER (WHERE TO)
+wieFADV,how,1239,HOW
+warumFADV,why,1270,WHY
+wievielFNUM,how much,531,HOW MUCH
+einsNUM,one,1493,ONE
+zweiNUM,two,1498,TWO
+dreiNUM,three,492,THREE
+vierNUM,four,1500,FOUR
+funfNUM,five,493,FIVE
+sechsNUM,six,1703,SIX
+siebenNUM,seven,1704,SEVEN
+achtNUM,eight,1705,EIGHT
+neunNUM,nine,1483,NINE
+zehnNUM,ten,1515,TEN
+elfNUM,eleven,1706,ELEVEN
+zwolfNUM,twelve,1707,TWELVE
+zwanzigNUM,twenty,1710,TWENTY
+dreiigNUM,thirty,1715,THIRTY
+vierzigNUM,forty,1716,FORTY
+funfzigNUM,fifty,1717,FIFTY
+sechzigNUM,sixty,1718,SIXTY
+siebzigNUM,seventy,1721,SEVENTY
+achtzigNUM,eighty,1722,EIGHTY
+neunzigNUM,ninety,1724,NINETY
+hundertNUM,a hundred,1634,HUNDRED
+tausendNUM,a thousand,1843,THOUSAND
+undCNJ,and,1577,AND
+oderCNJ,or,1014,OR
+stehenV,stand,1442,STAND
+sitzenV,sit,1416,SIT
+liegenV,lie,1411,LIE (REST)
+hangenV,hang,2884,HANG
+werdenV,become,1990,BECOME
+passierenV,happen,248,HAPPEN
+beginnenV,begin,,
+endenV,end,1928,CEASE
+wechselnV,change,2857,CHANGE (BECOME DIFFERENT)
+aufgehenSonneV,rise,,
+untergehenSonneV,set,160,SET (HEAVENLY BODIES)
+scheinenSonneV,shine,708,SHINE
+donnernV,thunder,2378,THUNDER (VERB)
+wehenV,blow,175,BLOW (OF WIND)
+stromenV,stream,2858,STREAM (FLOW CONTINUOUSLY)
+flieenV,flow,2003,FLOW
+sichdrehenV,revolve,,
+schwankenV,sway,573,SWAY
+schwingenV,swing,2871,SWING (MOVEMENT)
+fallenV,fall,1280,FALL
+brennenV,burn,1428,BURNING
+rauchenV,smoke,2859,SMOKE (EMIT SMOKE)
+regnenV,rain,1253,RAIN (RAINING)
+gefrierenV,freeze,1431,FREEZE
+tauenV,thaw,2887,THAW (DEW)
+schmelzenV,melt,2334,MELT
+trocknenV,dry,1786,DRY UP
+siedenV,boil,792,BOIL (OF LIQUID)
+faulenV,rot,569,SPOIL (BECOME SPOILED)
+verfaulenV,decay,2907,ROT
+reienV,snap,460,BREAK (OF ROPE)
+versinkenV,sink,2908,SINK (DISAPPEAR IN WATER)
+vergehenV,pass,1951,PASS
+erscheinenV,appear,1076,EMERGE (APPEAR)
+verschwindenV,disappear,485,DISAPPEAR
+sinkenV,"drop, descend",1088,SINK (DESCEND)
+abnehmenV,decrease,2864,DECREASE
+zunehmenV,increase,1041,INCREASE
+steigenV,rise,568,RISE (MOVE UPWARDS)
+wachsenV,grow,479,GROW
+glanzenV,shine,,
+funkelnV,"sparkle, twinkle",2889,TWINKLE
+larmenV,be noisy,,
+lautenV,chime,2897,CHIME (ACTION)
+klingelnV,ring,2875,RING (MAKE SOUND)
+klirrenV,tinkle,2888,TINKLE
+brausenV,roar,2876,ROAR (OF SEA)
+rauschenV,rustle,2877,RUSTLE (OF LEAVES)
+klingenV,sound,2879,SOUND (OF INSTRUMENT OR VOICE)
+bellenV,bark,1206,BARKING
+heulenV,howl,526,HOWL
+blasenV,blow,176,BLOW (WITH MOUTH)
+pfeifenV,whistle,1025,WHISTLE
+schreienV,shout,715,SHOUT
+stohnenV,groan,716,GROAN
+zitternV,tremble,52,SHIVER
+lebenV,live,1422,BE ALIVE
+geborenwerdenV,be born,1090,BE BORN
+atmenV,breathe,1407,BREATHE
+trinkenV,drink,1401,DRINK
+essenV,eat,1336,EAT
+schluckenV,swallow,897,SWALLOW
+mudewerdenV,get tired,1996,GET TIRED
+einschlafenV,fall asleep,1106,FALL ASLEEP
+schlafenV,sleep,1585,SLEEP
+aufwachenV,wake up,,
+aufstehenV,get up,,
+sicherholenV,relax,168,REST
+krankwerdenV,fall ill,2327,BECOME SICK
+krankseinV,be ill,,
+schmerzenV,ache,1815,ACHE
+hustenV,cough,879,COUGH
+genesenV,recover,1978,RECOVER
+sterbenV,die,1494,DIE
+umkommenV,perish,2865,DIE (FROM ACCIDENT)
+sichbewegenV,move,2874,MOVE (ONESELF)
+sichruhrenV,budge,2861,BUDGE (ONESELF)
+sicherhebenV,stand up,570,STAND UP
+sichsetzenV,sit down,1649,SIT DOWN
+hinfallenV,tumble,2894,TUMBLE (FALL DOWN)
+laufenV,walk,1443,WALK
+schreitenV,step,2065,STEP (VERB)
+spazierengehenV,take a walk,2890,WALK (TAKE A WALK)
+eilenV,rush,2860,BOLT (MOVE IN HASTE)
+sichbeeilenV,hurry,754,HURRY
+sausenV,dash,2863,DASH (OF VEHICLE)
+rennenV,run,1519,RUN
+springenV,jump,1829,JUMP
+kletternV,climb,1102,CLIMB
+schaukelnV,seesaw,,
+kriechenV,creep,96,CRAWL
+schwimmenV,swim,1439,SWIM
+tauchenV,dive,119,DIVE
+rudernV,row,1849,ROW
+fahrenV,drive,741,DRIVE
+fliegenV,fly,1441,FLY (MOVE THROUGH AIR)
+gehenV,go,695,GO
+weggehenV,go away,1752,LEAVE
+abfahrenV,depart,,
+anhaltenV,stop,2880,HALT (STOP)
+hineingehenV,go in,749,ENTER
+eintretenV,enter,,
+kommenV,come,1446,COME
+ankommenV,arrive,1387,ARRIVE
+zuruckkommenV,come back,581,COME BACK
+bleibenV,stay,987,REMAIN
+wartenV,wait,,
+erwartenV,await,1590,WAIT (FOR)
+suchenV,look for,1468,LOOK FOR
+findenV,find,719,FIND
+versuchenV,try,1812,TRY
+vorbereitenV,prepare,2909,PREPARE
+liebenV,love,923,LOVE
+mogenV,like,1117,LIKE
+lachenV,laugh,1355,LAUGH
+ruhrenV,move,2873,MOVE (AFFECT EMOTIONALLY)
+weinenV,"weep, cry",1839,CRY
+schimpfenV,grumble,,
+sichargernV,be annoyed,2223,BE ANGRY
+sichfurchtenV,be afraid,1419,FEAR (BE AFRAID)
+furchtenV,be afraid of,,
+fliehenV,flee,956,FLEE
+fluchtenV,escape,1615,ESCAPE
+sehenV,see,1409,SEE
+anschauenV,look at,1819,LOOK
+ansehenV,watch,1650,WATCH
+horenV,hear,1408,HEAR
+zuhorenV,listen,1608,LISTEN
+probierenV,taste,21,TASTE (SOMETHING)
+riechenV,smell,1586,SMELL (PERCEIVE)
+fuhlenV,feel,2559,FEEL (TACTUALLY)
+scheinenV,seem,1521,SEEM
+zusehenseinV,show,,
+vernehmenV,hear,,
+frierenV,be cold,,
+tunV,do,813,DO
+konnenV,can,972,BE ABLE
+wollenV,want,1784,WANT
+anfangenV,start,1806,BEGIN
+beendenV,finish,1766,FINISH
+aufhorenV,stop,,
+gelingenV,succeed,1112,SUCCEED
+geratenV,turn out,1723,RESULT IN
+offnenV,open,1156,OPEN
+schlieenV,close,1046,SHUT
+stellenV,put,998,PUT
+setzenV,place,,
+legenV,lay,2071,LAY (VERB)
+beruhrenV,touch,1892,TOUCH
+verbindenV,connect,2862,CONNECT
+bedeckenV,cover,761,COVER
+aufhangenV,hang up,357,HANG UP
+anzundenV,light,737,LIGHT (IGNITE)
+aufhebenV,pick up,371,PICK UP
+zurucklassenV,leave,,
+verlierenV,lose,1660,LOSE
+fallenlassenV,drop,2866,DROP (SOMETHING)
+machenV,make,734,MAKE
+herstellenV,produce,2886,PRODUCE
+bauenV,build,1840,BUILD
+reparierenV,"repair, mend",2243,REPAIR
+verbessernV,improve,2872,IMPROVE (SOMETHING)
+andernV,alter,1264,CHANGE
+grabenV,dig,1418,DIG
+beugenV,bow,,
+biegenV,bend,2224,BEND (SOMETHING)
+drehenV,spin,,
+wendenV,turn over,1445,TURN (SOMETHING)
+umdrehenV,"turn, turn around",1444,TURN AROUND
+hebenV,raise,,
+hochhebenV,lift,501,LIFT
+ergreifenV,seize,855,SEIZE
+haltenV,hold,1448,HOLD
+druckenV,press,1913,PRESS
+schiebenV,push,1452,PUSH
+kratzenV,scrape,1767,SCRAPE
+leckenV,lick,319,LICK
+beienV,bite,1403,BITE
+abreienV,tear off,,
+abschneidenV,cut off,,
+bindenV,tie,1917,TIE
+steckenV,stick,,
+brechenV,break,680,BREAK (DESTROY OR GET DESTROYED)
+klopfenV,knock,2396,KNOCK
+hauenV,hit,1433,HIT
+klebenV,glue,1069,GLUE
+reibenV,rub,1449,RUB
+streichenV,spread,38,SPREAD OUT
+schleifenV,sharpen,251,SHARPEN (SOMETHING)
+schneidenV,cut,1432,CUT
+ruttelnV,jog,2899,JOG (SOMETHING)
+schuttelnV,shake,1909,SHAKE
+schwenkenV,swing,2901,SWING (SOMETHING)
+schuttenV,pour,1487,POUR
+fullenV,fill,2006,FILL
+einwickelnV,wrap,1113,WRAP
+tragenV,carry,700,CARRY
+schleppenV,drag,2030,DRAG
+ziehenV,pull,1455,PULL
+aufbewahrenV,keep,1477,KEEP
+werfenV,throw,1456,THROW
+fangenV,catch,702,CATCH
+packenV,grab,,
+versteckenV,hide,2485,HIDE (ONESELF)
+teilenV,divide,1119,DIVIDE
+schickenV,send,1127,SEND
+bringenV,bring,692,BRING
+hinzufugenV,add,2882,ADD
+bekommenV,get,,
+erhaltenV,receive,694,GET
+nehmenV,take,1749,TAKE
+wahlenV,choose,1750,CHOOSE
+auswahlenV,select,,
+bewahrenV,preserve,1997,PRESERVE
+behindernV,hinder,554,HINDER
+verderbenV,spoil,92,SPOIL (SOMEBODY OR SOMETHING)
+beschadigenV,damage,1116,DAMAGE
+zerbrechenV,break,2558,BREAK (CLEAVE)
+zerreienV,tear,1735,TEAR (SHRED)
+zerstorenV,destroy,681,DESTROY
+verbrennenV,burn,141,BURN (SOMETHING)
+gebenV,give,1447,GIVE
+reichenV,hand,,
+schenkenV,give,196,DONATE
+versprechenV,promise,1675,PROMISE
+wunschenV,wish,,
+lobenV,praise,1687,PRAISE
+kussenV,kiss,578,KISS
+wiegenV,rock,,
+zudeckenV,cover,,
+weckenV,wake,1602,WAKE UP
+zeigenV,show,1039,SHOW
+fuhrenV,guide,,
+lehrenV,teach,709,TEACH
+unterrichtenV,instruct,,
+aufziehenV,bring up,2134,RAISE (A CHILD)
+leitenV,lead,43,LEAD (GUIDE)
+antreibenV,urge,2881,URGE (SOMEONE)
+lassenV,let,2896,CAUSE TO (LET)
+einladenV,invite,1611,INVITE
+vereinigenV,unite,1743,JOIN
+besuchenV,visit,1377,VISIT
+treffenV,meet,1831,MEET
+sichversammelnV,assemble,,
+spielenV,play,1413,PLAY
+singenV,sing,1261,SING
+tanzenV,dance,1879,DANCE
+sichtrennenV,separate,1359,SEPARATE
+verlassenV,leave,,
+rettenV,rescue,2008,RESCUE
+bewachenV,guard,1940,GUARD
+schutzenV,protect,2900,PROTECT
+verteidigenV,defend,1330,DEFEND
+sichschlagenV,brawl,2902,BRAWL (FIGHT)
+schieenV,shoot,1172,SHOOT
+siegenV,win,866,WIN
+argernV,annoy,2892,MAKE ANGRY (ANNOY)
+schlagenV,beat,1665,BEAT
+tretenV,kick,1135,KICK
+stechenV,sting,571,STING
+stoenV,shove,,
+stehlenV,steal,713,STEAL
+storenV,disturb,2883,DISTURB
+belastigenV,bother,2869,BOTHER (HARASS)
+verbergenV,conceal,602,HIDE (CONCEAL)
+tauschenV,deceive,,
+betrugenV,cheat,1902,BETRAY
+totenV,kill,1417,KILL
+wohnenV,dwell,363,"DWELL (LIVE, RESIDE)"
+arbeitenV,work,1086,WORK (ACTIVITY)
+sammelnV,gather,7,GATHER
+pfluckenV,pick,2148,PICK
+jagenV,hunt,1435,HUNT
+fischenV,fish,2638,FISHING
+fassenV,catch,,
+hutenV,herd,2885,HERD (SOMETHING)
+treibenV,drive,2868,DRIVE (CATTLE)
+anbindenV,tie up,2891,TIE UP (TETHER)
+futternV,feed,739,FEED
+melkenV,milk,93,DRAW MILK
+hackenV,chop,155,CHOP
+gieenV,water,,
+reifenV,ripen,179,RIPEN
+zubereitenV,cook,1100,COOK (SOMETHING)
+kochenV,boil,2492,BOIL (SOMETHING)
+backenV,bake,183,BAKE
+bratenV,fry,991,FRY
+umruhrenV,stir,696,STIR
+strickenV,knit,2905,KNIT
+nahenV,sew,1457,SEW
+farbenV,dye,157,DYE
+reinigenV,clean,2235,CLEAN (SOMETHING)
+waschenV,wash,1453,WASH
+abwischenV,wipe,1454,WIPE
+spulenV,rinse,2904,RINSE
+fegenV,sweep,230,SWEEP
+kehrenV,sweep,,
+badenV,bath,138,BATHE
+sichwaschenV,wash,,
+ausziehenV,take off,,
+anziehenV,put on,158,PUT ON
+sichanziehenV,get dressed,,
+kammenV,comb,2070,COMB (VERB)
+schmuckenV,decorate,1739,DECORATE
+sagenV,say,1458,SAY
+sprechenV,speak,1623,SPEAK
+redenV,talk,2708,TALK
+sichunterhaltenV,chat,2903,CHAT (WITH SOMEBODY)
+fragenV,ask,1309,ASK (INQUIRE)
+bittenV,request,1828,ASK (REQUEST)
+erzahlenV,tell,1711,TELL
+mitteilenV,convey,2898,CONVEY (A MESSAGE)
+nennenV,name,180,CALL BY NAME
+rufenV,call,1084,CALL
+prahlenV,brag,101,BOAST
+ubersetzenV,translate,2906,TRANSLATE
+denkenV,think,1415,THINK (REFLECT)
+glaubenV,believe,1890,BELIEVE
+bemerkenV,notice,2893,NOTICE (SOMETHING)
+erkennenV,recognize,2870,RECOGNIZE (SOMEBODY)
+begreifenV,grasp,,
+verstehenV,understand,1536,UNDERSTAND
+lernenV,learn,504,LEARN
+wissenV,know,1410,KNOW (SOMETHING)
+sicherinnernanV,remember,707,REMEMBER
+vergessenV,forget,1523,FORGET
+messenV,measure,1506,MEASURE
+zahlenV,count,1420,COUNT
+rechnenV,calculate,2867,CALCULATE
+lesenV,read,724,READ
+malenV,paint,2001,PAINTING
+zeichnenV,draw,,
+schreibenV,write,1672,WRITE
+besitzenV,own,684,OWN
+kaufenV,buy,1869,BUY
+verkaufenV,sell,1571,SELL
+bezahlenV,pay for,,
+beherrschenV,rule,1846,RULE
+ertragenV,endure,833,ENDURE
