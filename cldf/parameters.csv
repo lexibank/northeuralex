@@ -114,7 +114,7 @@ BaumN,tree,906,TREE
 StammN,trunk,344,TREE TRUNK
 RindeN,bark,1204,BARK
 AstN,limb,1531,BRANCH
-ZweigN,twig,,
+ZweigN,twig,3222,TWIG
 BlattN,leaf,628,LEAF
 BirkeN,birch,1855,BIRCH
 KieferBaumN,pine,1740,PINE
@@ -414,7 +414,7 @@ TodN,death,910,DEATH
 GrabN,grave,1773,GRAVE
 KircheN,church,1349,CHURCH
 SundeN,sin,2971,SIN
-GottN,god,1944,GOD
+GottN,god,3231,DEITY
 ArbeiterN,worker,2977,WORKER
 ChefN,boss,2930,BOSS
 MeisterN,master,383,MASTER
@@ -586,7 +586,7 @@ aufeinmalADV,at once,1963,IMMEDIATELY
 zusammenADV,together,2482,TOGETHER
 langeADV,long,,
 plotzlichADV,suddenly,2920,SUDDENLY
-sofortADV,instantly,2916,INSTANTLY
+sofortADV,instantly,2916,INSTANTLY (IMMEDIATELY)
 spaterADV,later,,
 jetztADV,now,1376,NOW
 heuteADV,today,1283,TODAY
@@ -706,14 +706,14 @@ siedenV,boil,792,BOIL (OF LIQUID)
 faulenV,rot,569,SPOIL (BECOME SPOILED)
 verfaulenV,decay,2907,ROT
 reienV,snap,460,BREAK (OF ROPE)
-versinkenV,sink,2908,SINK (DISAPPEAR IN WATER)
+versinkenV,sink,1088,SINK (DESCEND)
 vergehenV,pass,1951,PASS
 erscheinenV,appear,1076,EMERGE (APPEAR)
 verschwindenV,disappear,485,DISAPPEAR
 sinkenV,"drop, descend",1088,SINK (DESCEND)
 abnehmenV,decrease,2864,DECREASE
 zunehmenV,increase,1041,INCREASE
-steigenV,rise,568,RISE (MOVE UPWARDS)
+steigenV,rise,705,GO UP (ASCEND)
 wachsenV,grow,479,GROW
 glanzenV,shine,,
 funkelnV,"sparkle, twinkle",2889,TWINKLE
@@ -941,7 +941,7 @@ storenV,disturb,2883,DISTURB
 belastigenV,bother,2869,BOTHER (HARASS)
 verbergenV,conceal,602,HIDE (CONCEAL)
 tauschenV,deceive,,
-betrugenV,cheat,1902,BETRAY
+betrugenV,cheat,3230,DECEIVE
 totenV,kill,1417,KILL
 wohnenV,dwell,363,"DWELL (LIVE, RESIDE)"
 arbeitenV,work,1086,WORK (ACTIVITY)
