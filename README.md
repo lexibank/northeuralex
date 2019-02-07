@@ -15,10 +15,10 @@ Conceptlist in Concepticon: [Dellert-2017-1016](http://concepticon.clld.org/cont
 
 [![Build Status](https://travis-ci.org/lexibank/northeuralex.svg?branch=master)](https://travis-ci.org/lexibank/northeuralex)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Concepticon: 93%](https://img.shields.io/badge/Concepticon-93%25-green.svg "Concepticon: 93%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 67%](https://img.shields.io/badge/BIPA-67%25-orange.svg "BIPA: 67%")
-![CLTS SoundClass: 67%](https://img.shields.io/badge/CLTS%20SoundClass-67%25-orange.svg "CLTS SoundClass: 67%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 107
 - **Concepts:** 1,015
@@ -26,9 +26,9 @@ Conceptlist in Concepticon: [Dellert-2017-1016](http://concepticon.clld.org/cont
 - **Synonymy:** 1.15
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 695,114
-- **Segments:** 1,629 (534 BIPA errors, 542 CTLS sound class errors, 1108 CLTS modified)
-- **Inventory size (avg):** 76.48
+- **Tokens:** 704,545
+- **Segments:** 580 (0 BIPA errors, 0 CTLS sound class errors, 580 CLTS modified)
+- **Inventory size (avg):** 49.65
 
 ## Possible Improvements:
 
