@@ -2,16 +2,16 @@
     "@context": "http://www.w3.org/ns/csvw",
     "dc:bibliographicCitation": "Dellert, Johannes and J\u00e4ger, Gerhard (2017): NorthEuraLex (Version 0.9). T\u00fcbingen: Eberhard-Karls University.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": "http://concepticon.clld.org/contributions/Dellert-2017-1016",
-    "dc:identifier": "http://www.northeuralex.org",
-    "dc:license": [
-        "CC-BY-SA-4.0",
-        "Creative Commons Attribution Share Alike 4.0",
-        "https://creativecommons.org/licenses/by-sa/4.0/"
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Dellert-2017-1016"
     ],
+    "dc:identifier": "http://www.northeuralex.org",
+    "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "NorthEuraLex",
+    "dcat:accessURL": "https://github.com/lexibank/northeuralex",
     "rdf:ID": "northeuralex",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
@@ -19,14 +19,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "concepticon_version": "pyconcepticon-1.3-45-g85ba61d",
-                "glottolog_version": "v3.2-55-gef2031a"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-179-gd46adad"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:extent": 121612,
             "tableSchema": {
                 "columns": [
                     {
@@ -53,7 +54,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -125,6 +126,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 107,
             "tableSchema": {
                 "columns": [
                     {
@@ -158,8 +160,32 @@
                         "name": "Macroarea"
                     },
                     {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Subfamily"
                     }
                 ],
                 "primaryKey": [
@@ -170,6 +196,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 1015,
             "tableSchema": {
                 "columns": [
                     {
@@ -201,10 +228,11 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "integer",
+                        "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "name": "ID"
                     },
