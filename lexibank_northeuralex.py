@@ -20,13 +20,13 @@ class NLLexeme(Lexeme):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     lexeme_class = NLLexeme
+    id = "northeuralex"
 
     def cmd_download(self, **kw):
         self.raw.download(
             'http://www.northeuralex.org/static/downloads/northeuralex-cldf.csv',
             "nelex.tsv",
             log=self.log)
-        #self.raw.write('sources.bib', getEvoBibAsBibtex('Hamed2006', 'List2015d', **kw))
 
     def split_forms(self, row, value):
         """

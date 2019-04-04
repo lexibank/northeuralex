@@ -10,6 +10,7 @@ with open('metadata.json', **({} if PY2 else {'encoding': 'utf-8'})) as fp:
 
 setup(
     name='lexibank_northeuralex',
+    version="1.0",
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
@@ -22,6 +23,6 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=0.5.0',
+        'pylexibank>=1.0',
     ]
 )
