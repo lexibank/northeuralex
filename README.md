@@ -11,6 +11,12 @@ Available online at http://www.northeuralex.org
 Conceptlists in Concepticon:
 - [Dellert-2017-1016](http://concepticon.clld.org/contributions/Dellert-2017-1016)
 
+## Notes
+
+This large database covers several languages of Northern Eurasia. For the conversion to CLDF, we considerably adjusted the IPA in the source.
+
+
+
 ## Statistics
 
 
