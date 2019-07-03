@@ -15,7 +15,10 @@ Conceptlists in Concepticon:
 
 This large database covers several languages of Northern Eurasia. For the conversion to CLDF, we considerably adjusted the IPA in the source.
 
+
+
 ## Statistics
+
 
 [![Build Status](https://travis-ci.org/lexibank/northeuralex.svg?branch=master)](https://travis-ci.org/lexibank/northeuralex)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
@@ -35,5 +38,6 @@ This large database covers several languages of Northern Eurasia. For the conver
 
 ## Possible Improvements:
 
-- Entries missing sources: 121612/121612 (100.00%)
 
+
+- Entries missing sources: 121612/121612 (100.00%)

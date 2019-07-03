@@ -1,12 +1,16 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Dellert, Johannes and J\u00e4ger, Gerhard (2017): NorthEuraLex (Version 0.9). T\u00fcbingen: Eberhard-Karls University.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Dellert-2017-1016"
     ],
     "dc:identifier": "http://www.northeuralex.org",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "NorthEuraLex",
     "rdf:ID": "northeuralex",
@@ -18,7 +22,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
