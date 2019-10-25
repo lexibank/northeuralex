@@ -1,9 +1,8 @@
 import attr
-from clldutils.dsv import NamedTupleReader
 from clldutils.misc import slug
 from clldutils.path import Path
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.dataset import Lexeme, Language
+from pylexibank import Lexeme, Language
 from pylexibank.util import pb
 
 
@@ -19,11 +18,11 @@ class NLLanguage(Language):
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
-    lexeme_class = NLLexeme
     id = "northeuralex"
+    lexeme_class = NLLexeme
     language_class = NLLanguage
 
-    def cmd_download(self, **kw):
+    def cmd_download(self, args):
         self.raw.download(
             "http://www.northeuralex.org/static/downloads/northeuralex-cldf.csv",
             "nelex.tsv",
@@ -36,43 +35,31 @@ class Dataset(BaseDataset):
         """
         return BaseDataset.split_forms(self, row, value)[:1]
 
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         def concept_id(s):
-            return slug(s.replace(":", "_").replace("[", "-").replace("]", "-"), lowercase=False)
+            return slug(
+                s.replace(":", "_").replace("[", "-").replace("]", "-"), lowercase=False
+            )
 
-        with self.cldf as ds, NamedTupleReader(
-            self.raw.posix("nelex.tsv"), delimiter="\t"
-        ) as reader:
-            ds.add_sources()
-            ds.add_languages()
-            ds.add_concepts(id_factory=lambda c: concept_id(c.attributes["nelex_id"]))
+        # add the bibliographic sources
+        args.writer.add_sources()
 
-            for row in pb(reader, desc="installing northeuralex", total=120000):
-                if row.rawIPA:
-                    raw_value = row.rawIPA.replace(" ʲ", " j")
-                    raw_value = raw_value.replace("-ʲ", " j")
-                    raw_value = raw_value.replace("\u0301", "")
-                    raw_value = raw_value.replace("\u0302", "")
-                    raw_value = raw_value.replace("\u0304", "")
-                    raw_value = raw_value.replace("\u0306", "")
-                    raw_value = raw_value.replace("\u0307", "")
-                    raw_value = raw_value.replace("\u0308", "")
-                    raw_value = raw_value.replace("\u030c", "")
-                    raw_value = raw_value.replace("\u032c", "")
-                    raw_value = raw_value.replace("\u032f", "")
-                    raw_value = raw_value.replace(" ʷehin", " wehin")
-                    # for syllable problems across affricates
-                    raw_value = raw_value.replace("ˈ", "")
-                    raw_value = raw_value.replace("ˌ", "")
-                    if raw_value[0] == "ʷ":
-                        raw_value = "w" + raw_value[1:]
+        # add the languages from the language list (no need for mapping here)
+        args.writer.add_languages()
 
-                    for tone in ["˥", "˦", "˧", "˨", "˩"]:
-                        raw_value = raw_value.replace("%sː" % tone, "ː%s" % tone)
-                    ds.add_lexemes(
-                        Language_ID=row.Language_ID,
-                        Parameter_ID=concept_id(row.Concept_ID),
-                        Value=raw_value,
-                        Orthography=row.Word_Form,
-                        Source=[],
-                    )
+        # add the concepts from the concept list
+        args.writer.add_concepts(
+            id_factory=lambda c: concept_id(c.attributes["nelex_id"])
+        )
+
+        # add items
+        lexeme_rows = self.raw_dir.read_csv("nelex.tsv", delimiter="\t", dicts=True)
+        for row in pb(lexeme_rows, desc=f"Build CLDF for {self.id}"):
+            lex = args.writer.add_form(
+                Language_ID=row["Language_ID"],
+                Parameter_ID=concept_id(row["Concept_ID"]),
+                Value=row["rawIPA"],
+                Form=row["rawIPA"],
+                Orthography=row["Word_Form"],
+                Source=[],
+            )

@@ -8,9 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-sa/4.0/
 
 Available online at http://www.northeuralex.org
 
-Conceptlists in Concepticon:
-- [Dellert-2017-1016](http://concepticon.clld.org/contributions/Dellert-2017-1016)
 
+Conceptlists in Concepticon:
+- [Dellert-2017-1016](https://concepticon.clld.org/contributions/Dellert-2017-1016)
 ## Notes
 
 This large database covers several languages of Northern Eurasia. For the conversion to CLDF, we considerably adjusted the IPA in the source.
@@ -30,11 +30,12 @@ This large database covers several languages of Northern Eurasia. For the conver
 - **Varieties:** 107
 - **Concepts:** 1,015
 - **Lexemes:** 121,612
+- **Sources:** 0
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 704,545
-- **Segments:** 580 (0 BIPA errors, 0 CTLS sound class errors, 580 CLTS modified)
-- **Inventory size (avg):** 49.65
+- **Tokens:** 705,187
+- **Segments:** 555 (0 BIPA errors, 0 CTLS sound class errors, 555 CLTS modified)
+- **Inventory size (avg):** 49.45
 
 ## Possible Improvements:
 

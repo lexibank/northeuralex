@@ -62,7 +62,7 @@ LuftN,air,27,AIR
 WindN,wind,960,WIND
 WelleN,wave,978,WAVE
 WasserN,water,948,WATER
-SteinN,stone,668,ROCK
+SteinN,stone,857,STONE
 BodenN,ground,2159,GROUND
 ErdeN,earth,1228,EARTH (SOIL)
 StaubN,dust,2,DUST
@@ -97,11 +97,11 @@ AnhoheN,elevation,2936,ELEVATION
 BergN,mountain,639,MOUNTAIN
 GipfelN,summit,1614,SUMMIT
 HohleN,cave,1155,CAVE
-AbhangN,slope,618,PRECIPICE
+AbhangN,slope,3076,SLOPE
 QuelleN,source,849,SPRING (OF WATER)
 BachN,brook,,
 FlussN,river,666,RIVER
-UferN,shore,113,SHORE
+UferN,shore,3464,SHORE OF LAKE
 KusteN,coast,1525,COAST
 FestlandN,land,166,MAINLAND
 MeerN,sea,1474,SEA
@@ -240,7 +240,7 @@ LarmN,noise,1182,NOISE
 LautN,sound,1811,SOUND OR NOISE
 TonN,tone,2995,TONE (MUSIC)
 LiedN,song,1096,SONG
-RuheN,calm,1314,QUIET
+RuheN,calm,3458,SILENCE
 LeuteN,people,,
 VolkN,nation,789,PEOPLE
 ArbeitN,work,984,WORK (LABOUR)
@@ -248,7 +248,7 @@ GastN,guest,1782,GUEST
 GeschenkN,gift,2982,GIFT
 SpielN,game,2467,GAME
 GesellschaftN,company,2983,COMPANIONSHIP
-HilfeN,help,,
+HilfeN,help,3467,HELP (ASSISTANCE)
 FreundN,friend,1325,FRIEND
 KameradN,companion,,
 AngelegenheitN,matter,2214,AFFAIR
@@ -292,7 +292,7 @@ SkiN,ski,2991,SKI
 LagerfeuerN,campfire,2986,CAMPFIRE
 LastN,load,1679,LOAD
 GangN,walk,2979,WALK (MANNER)
-SchrittN,step,1158,STEP
+SchrittN,step,,
 NordenN,north,1598,NORTH
 SudenN,south,1595,SOUTH
 WestenN,west,1817,WEST
@@ -350,7 +350,7 @@ NahrungN,food,256,FOOD
 SpeiseN,dish,,
 FleischN,meat,634,MEAT
 GetreideN,corn,,
-BreiN,mush,400,MUSH
+BreiN,mush,,
 BrotN,bread,1368,BREAD
 ScheibeN,slice,2954,SLICE
 FettN,fat,323,FAT (ORGANIC SUBSTANCE)
@@ -609,7 +609,7 @@ hierhinADV,hither,2925,HITHER (HERE TO)
 vonhierADV,hence,2927,FROM HERE
 dortADV,there,1937,THERE
 dorthinADV,thither,2923,THITHER (THERE TO)
-geradeausADV,ahead,1404,STRAIGHT
+geradeausADV,ahead,,
 vorwartsADV,forward,2912,FORWARD
 ruckwartsADV,backward,2911,BACKWARD
 zuruckADV,back,2910,BACK (DIRECTION)
@@ -650,7 +650,7 @@ woFADV,where,1237,WHERE
 wohinFADV,where to,2928,WHITHER (WHERE TO)
 wieFADV,how,1239,HOW
 warumFADV,why,1270,WHY
-wievielFNUM,how much,531,HOW MUCH
+wievielFNUM,how much,822,HOW MANY
 einsNUM,one,1493,ONE
 zweiNUM,two,1498,TWO
 dreiNUM,three,492,THREE
@@ -765,7 +765,7 @@ rennenV,run,1519,RUN
 springenV,jump,1829,JUMP
 kletternV,climb,1102,CLIMB
 schaukelnV,seesaw,,
-kriechenV,creep,96,CRAWL
+kriechenV,creep,3215,CREEP
 schwimmenV,swim,1439,SWIM
 tauchenV,dive,119,DIVE
 rudernV,row,1849,ROW
@@ -830,7 +830,7 @@ aufhangenV,hang up,357,HANG UP
 anzundenV,light,737,LIGHT (IGNITE)
 aufhebenV,pick up,371,PICK UP
 zurucklassenV,leave,,
-verlierenV,lose,1660,LOSE
+verlierenV,lose,3072,MISPLACE
 fallenlassenV,drop,2866,DROP (SOMETHING)
 machenV,make,734,MAKE
 herstellenV,produce,2886,PRODUCE
@@ -843,7 +843,7 @@ beugenV,bow,,
 biegenV,bend,2224,BEND (SOMETHING)
 drehenV,spin,,
 wendenV,turn over,1445,TURN (SOMETHING)
-umdrehenV,"turn, turn around",1444,TURN AROUND
+umdrehenV,"turn, turn around",,
 hebenV,raise,,
 hochhebenV,lift,501,LIFT
 ergreifenV,seize,855,SEIZE
@@ -901,7 +901,7 @@ reichenV,hand,,
 schenkenV,give,196,DONATE
 versprechenV,promise,1675,PROMISE
 wunschenV,wish,,
-lobenV,praise,1687,PRAISE
+lobenV,praise,3455,COMMEND
 kussenV,kiss,578,KISS
 wiegenV,rock,,
 zudeckenV,cover,,
@@ -940,8 +940,8 @@ stehlenV,steal,713,STEAL
 storenV,disturb,2883,DISTURB
 belastigenV,bother,2869,BOTHER (HARASS)
 verbergenV,conceal,602,HIDE (CONCEAL)
-tauschenV,deceive,,
-betrugenV,cheat,3230,DECEIVE
+tauschenV,deceive,3230,DECEIVE
+betrugenV,cheat,3055,SWINDLE
 totenV,kill,1417,KILL
 wohnenV,dwell,363,"DWELL (LIVE, RESIDE)"
 arbeitenV,work,1086,WORK (ACTIVITY)
@@ -973,10 +973,10 @@ spulenV,rinse,2904,RINSE
 fegenV,sweep,230,SWEEP
 kehrenV,sweep,,
 badenV,bath,138,BATHE
-sichwaschenV,wash,,
-ausziehenV,take off,,
+sichwaschenV,wash,3371,WASH (ONESELF)
+ausziehenV,take off,1755,UNDRESS
 anziehenV,put on,158,PUT ON
-sichanziehenV,get dressed,,
+sichanziehenV,get dressed,814,DRESS UP
 kammenV,comb,2070,COMB (VERB)
 schmuckenV,decorate,1739,DECORATE
 sagenV,say,1458,SAY
