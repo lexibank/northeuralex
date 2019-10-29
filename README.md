@@ -28,7 +28,7 @@ This large database covers several languages of Northern Eurasia. For the conver
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 107
-- **Concepts:** 1,015
+- **Concepts:** 1,016
 - **Lexemes:** 121,612
 - **Sources:** 0
 - **Synonymy:** 1.15

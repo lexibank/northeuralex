@@ -2,13 +2,18 @@ import attr
 from pathlib import Path
 from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Lexeme, Language
-from pylexibank.util import pb
+from pylexibank import Lexeme, Concept, Language
+from pylexibank.util import progressbar
 
 
 @attr.s
 class NLLexeme(Lexeme):
     Orthography = attr.ib(default=None)
+
+
+@attr.s
+class NLConcept(Concept):
+    NorthEuralex_Gloss = attr.ib(default=None)
 
 
 @attr.s
@@ -20,6 +25,7 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "northeuralex"
     lexeme_class = NLLexeme
+    concept_class = NLConcept
     language_class = NLLanguage
 
     def cmd_download(self, args):
@@ -48,19 +54,25 @@ class Dataset(BaseDataset):
         args.writer.add_languages()
 
         # add the concepts from the concept list
-        concept_lookup = args.writer.add_concepts(
-            id_factory=lambda c: "%s_%s" % (c.id.split("-")[-1],
-                slug(c.english)),
-            lookup_factory="Name")
+        concept_lookup = {}
+        for concept in self.conceptlist.concepts.values():
+            cid = "%s_%s" % (concept.id.split("-")[-1], slug(concept.english))
+            args.writer.add_concept(
+                ID=cid,
+                Name=concept.english,
+                NorthEuralex_Gloss=concept.attributes["nelex_id"],
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+            )
+            concept_lookup[concept.attributes["nelex_id"]] = cid
 
         # add items
         lexeme_rows = self.raw_dir.read_csv("nelex.tsv", delimiter="\t", dicts=True)
-        for row in pb(lexeme_rows, desc=f"Build CLDF for {self.id}"):
+        for row in progressbar(lexeme_rows):
             lex = args.writer.add_form(
                 Language_ID=row["Language_ID"],
                 Parameter_ID=concept_lookup[row["Concept_ID"]],
-                Value=row["rawIPA"],
+                Value=row["Word_Form"],
                 Form=row["rawIPA"],
-                Orthography=row["Word_Form"],
                 Source=[],
             )
