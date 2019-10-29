@@ -42,11 +42,6 @@ class Dataset(BaseDataset):
         return BaseDataset.split_forms(self, row, value)[:1]
 
     def cmd_makecldf(self, args):
-        def concept_id(s):
-            return slug(
-                s.replace(":", "_").replace("[", "-").replace("]", "-"), lowercase=False
-            )
-
         # add the bibliographic sources
         args.writer.add_sources()
 
