@@ -23,22 +23,16 @@ This large database covers several languages of Northern Eurasia. For the conver
 [![Build Status](https://travis-ci.org/lexibank/northeuralex.svg?branch=master)](https://travis-ci.org/lexibank/northeuralex)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 94%](https://img.shields.io/badge/Concepticon-94%25-green.svg "Concepticon: 94%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 107
 - **Concepts:** 1,016
 - **Lexemes:** 121,612
-- **Sources:** 0
+- **Sources:** 1
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
 - **Tokens:** 705,187
 - **Segments:** 555 (0 BIPA errors, 0 CTLS sound class errors, 555 CLTS modified)
 - **Inventory size (avg):** 49.45
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 121612/121612 (100.00%)

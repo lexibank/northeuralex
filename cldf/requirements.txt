@@ -12,7 +12,7 @@ idna==2.8
 isodate==0.6.0
 jdcal==1.4.1
 -e git+https://github.com/lexibank/kitchensemitic.git@b411316bbaa0748700db7c88e9bf9bb19d0bbfa3#egg=lexibank_kitchensemitic
--e git+https://github.com/lexibank/northeuralex.git@60482fd95dc7fbb30b491800518e705648c07d43#egg=lexibank_northeuralex
+-e git+https://github.com/lexibank/northeuralex.git@487db9a9c3d52f8dd54ea31c0ceebe738d70eed2#egg=lexibank_northeuralex
 lingpy==2.6.5
 Markdown==3.1.1
 networkx==2.1

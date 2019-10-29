@@ -19,6 +19,8 @@ class NLConcept(Concept):
 @attr.s
 class NLLanguage(Language):
     Subfamily = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    Latitude = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -69,5 +71,5 @@ class Dataset(BaseDataset):
                 Parameter_ID=concept_lookup[row["Concept_ID"]],
                 Value=row["Word_Form"],
                 Form=row["rawIPA"],
-                Source=[],
+                Source=["Dellert2017"],
             )

@@ -1,108 +1,108 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Subfamily
-fin,Finnish,finn1318,,fin,,,,Uralic,Finnic
-krl,North Karelian,kare1335,,krl,,,,Uralic,Finnic
-olo,Olonets Karelian,livv1243,,olo,,,,Uralic,Finnic
-vep,Veps,veps1250,,vep,,,,Uralic,Finnic
-ekk,Estonian,esto1258,,ekk,,,,Uralic,Finnic
-liv,Livonian,livv1244,,liv,,,,Uralic,Finnic
-sma,Southern Sami,sout2674,,sma,,,,Uralic,Saami
-smj,Lule Sami,lule1254,,smj,,,,Uralic,Saami
-sme,Northern Sami,nort2671,,sme,,,,Uralic,Saami
-smn,Inari Sami,inar1241,,smn,,,,Uralic,Saami
-sms,Skolt Sami,skol1241,,sms,,,,Uralic,Saami
-sjd,Kildin Sami,kild1236,,sjd,,,,Uralic,Saami
-mrj,Hill Mari,west2392,,mrj,,,,Uralic,Mari
-mhr,Meadow Mari,east2328,,mhr,,,,Uralic,Mari
-mdf,Moksha,moks1248,,mdf,,,,Uralic,Mordvin
-myv,Erzya,erzy1239,,myv,,,,Uralic,Mordvin
-udm,Udmurt,udmu1245,,udm,,,,Uralic,Permian
-koi,Komi-Permyak,komi1269,,koi,,,,Uralic,Permian
-kpv,Komi-Zyrian,komi1268,,kpv,,,,Uralic,Permian
-hun,Hungarian,hung1274,,hun,,,,Uralic,Hungarian
-kca,Northern Khanty,khan1273,,kca,,,,Uralic,Khantyic
-mns,Northern Mansi,mans1258,,mns,,,,Uralic,Mansic
-sel,Northern Selkup,selk1253,,sel,,,,Uralic,Samoyedic
-yrk,Tundra Nenets,nene1249,,yrk,,,,Uralic,Samoyedic
-enf,Forest Enets,fore1265,,enf,,,,Uralic,Samoyedic
-nio,Nganasan,ngan1291,,nio,,,,Uralic,Samoyedic
-ben,Bengali,beng1280,,ben,,,,Indo-European,Indo-Aryan
-hin,Hindi,hind1269,,hin,,,,Indo-European,Indo-Aryan
-pbu,Northern Pashto,nort2646,,pbu,,,,Indo-European,Iranian
-pes,Western Farsi,west2369,,pes,,,,Indo-European,Iranian
-kmr,Northern Kurdish,nort2641,,kmr,,,,Indo-European,Iranian
-oss,Ossetian,osse1243,,oss,,,,Indo-European,Iranian
-hye,Armenian,nucl1235,,hye,,,,Indo-European,Armenic
-ell,Modern Greek,mode1248,,ell,,,,Indo-European,Graeco-Phrygian
-sqi,Standard Albanian,alba1267,,sqi,,,,Indo-European,Albanian
-bul,Bulgarian,bulg1262,,bul,,,,Indo-European,Balto-Slavic
-hrv,Croatian,croa1245,,hrv,,,,Indo-European,Balto-Slavic
-slv,Slovene,slov1268,,slv,,,,Indo-European,Balto-Slavic
-slk,Slovak,slov1269,,slk,,,,Indo-European,Balto-Slavic
-ces,Czech,czec1258,,ces,,,,Indo-European,Balto-Slavic
-pol,Polish,poli1260,,pol,,,,Indo-European,Balto-Slavic
-ukr,Ukrainian,ukra1253,,ukr,,,,Indo-European,Balto-Slavic
-bel,Belarusian,bela1254,,bel,,,,Indo-European,Balto-Slavic
-rus,Russian,russ1263,,rus,,,,Indo-European,Balto-Slavic
-lit,Lithuanian,lith1251,,lit,,,,Indo-European,Balto-Slavic
-lav,Latvian,latv1249,,lav,,,,Indo-European,Balto-Slavic
-isl,Icelandic,icel1247,,isl,,,,Indo-European,Germanic
-nor,Norwegian (Bokmål),norw1258,,nor,,,,Indo-European,Germanic
-swe,Swedish,swed1254,,swe,,,,Indo-European,Germanic
-dan,Danish,dani1285,,dan,,,,Indo-European,Germanic
-deu,German,stan1295,,deu,,,,Indo-European,Germanic
-nld,Dutch,dutc1256,,nld,,,,Indo-European,Germanic
-eng,English,stan1293,,eng,,,,Indo-European,Germanic
-gle,Irish,iris1253,,gle,,,,Indo-European,Celtic
-cym,Welsh,wels1247,,cym,,,,Indo-European,Celtic
-bre,Breton,bret1244,,bre,,,,Indo-European,Celtic
-lat,Latin,lati1261,,lat,,,,Indo-European,Italic
-fra,French,stan1290,,fra,,,,Indo-European,Italic
-cat,Catalan,stan1289,,cat,,,,Indo-European,Italic
-spa,Spanish,stan1288,,spa,,,,Indo-European,Italic
-por,Portuguese,port1283,,por,,,,Indo-European,Italic
-ita,Italian,ital1282,,ita,,,,Indo-European,Italic
-ron,Romanian,roma1327,,ron,,,,Indo-European,Italic
-tur,Turkish,nucl1301,,tur,,,,Turkic,West Oghuz
-azj,North Azerbaijani,nort2697,,azj,,,,Turkic,West Oghuz
-uzn,Northern Uzbek,nort2690,,uzn,,,,Turkic,Uzbek
-kaz,Kazakh,kaza1248,,kaz,,,,Turkic,Kipchak
-bak,Bashkir,bash1264,,bak,,,,Turkic,Kipchak
-tat,Tatar,tata1255,,tat,,,,Turkic,Kipchak
-sah,Sakha,yaku1245,,sah,,,,Turkic,North Siberian Turkic
-chv,Chuvash,chuv1255,,chv,,,,Turkic,Bolgar
-khk,Khalkha Mongolian,halh1238,,khk,,,,Mongolic,Eastern Mongolic
-bua,Buryat,buri1258,,bua,,,,Mongolic,Eastern Mongolic
-xal,Kalmyk,kalm1243,,xal,,,,Mongolic,Eastern Mongolic
-evn,Evenki,even1259,,evn,,,,Tungusic,Northern Tungusic
-mnc,Manchu,manc1252,,mnc,,,,Tungusic,Manchu-Jurchen
-gld,Nanai,nana1257,,gld,,,,Tungusic,Central Tungusic
-ket,Ket,kett1243,,ket,,,,Yeniseian,Northern Yeniseian
-ykg,Northern Yukaghir,nort2745,,ykg,,,,Yukaghir,Northern Yukaghir
-yux,Southern Yukaghir,sout2750,,yux,,,,Yukaghir,Kolymic
-itl,Itelmen,itel1242,,itl,,,,Chukotko-Kamchatkan,Itelmen
-ckt,Chukchi,chuk1273,,ckt,,,,Chukotko-Kamchatkan,Chukotian
-niv,Nivkh,gily1242,,niv,,,,Nivkh,Nivkh
-ain,Hokkaido Ainu,ainu1240,,ain,,,,Ainu,Hokkaido-Kuril Ainu
-kor,Korean,kore1280,,kor,,,,Koreanic,Korean
-jpn,Japanese,nucl1643,,jpn,,,,Japonic,Japanesic
-ale,Aleut,aleu1260,,ale,,,,Eskimo-Aleut,Aleut
-ess,Central Siberian Yupik,cent2128,,ess,,,,Eskimo-Aleut,Eskimo
-kal,Kalaallisut,kala1399,,kal,,,,Eskimo-Aleut,Eskimo
-kan,Kannada,nucl1305,,kan,,,,Dravidian,South Dravidian
-mal,Malayalam,mala1464,,mal,,,,Dravidian,South Dravidian
-tam,Tamil,tami1289,,tam,,,,Dravidian,South Dravidian
-tel,Telugu,telu1262,,tel,,,,Dravidian,South Dravidian
-bsk,Burushaski,buru1296,,bsk,,,,Burushaski,Burushaski
-kat,Georgian,nucl1302,,kat,,,,Kartvelian,Georgian-Zan
-eus,Basque,basq1248,,eus,,,,Basque,Basque
-abk,Abkhaz,abkh1244,,abk,,,,Abkhaz-Adyge,Abkhaz-Abaza
-ady,Adyghe,adyg1241,,ady,,,,Abkhaz-Adyge,Circassian
-ava,Avar,avar1256,,ava,,,,Nakh-Daghestanian,Daghestanian
-ddo,Tsez,dido1241,,ddo,,,,Nakh-Daghestanian,Daghestanian
-lbe,Lak,lakk1252,,lbe,,,,Nakh-Daghestanian,Daghestanian
-lez,Lezgian,lezg1247,,lez,,,,Nakh-Daghestanian,Daghestanian
-dar,Dargwa,darg1241,,dar,,,,Nakh-Daghestanian,Daghestanian
-che,Chechen,chec1245,,che,,,,Nakh-Daghestanian,Nakh
-arb,Standard Arabic,stan1318,,arb,,,,Afro-Asiatic,Semitic
-heb,Modern Hebrew,hebr1245,,heb,,,,Afro-Asiatic,Semitic
-cmn,Mandarin Chinese,mand1415,,cmn,,,,Sino-Tibetan,Sinitic
+fin,Finnish,finn1318,,,,61.00,24.45,Uralic,Finnic
+krl,North Karelian,kare1335,,,,65.17,30.87,Uralic,Finnic
+olo,Olonets Karelian,livv1243,,,,61.00,33.00,Uralic,Finnic
+vep,Veps,veps1250,,,,60.34,34.79,Uralic,Finnic
+ekk,Estonian,esto1258,,,,59.25,24.75,Uralic,Finnic
+liv,Livonian,livv1244,,,,57.57,22.03,Uralic,Finnic
+sma,Southern Sami,sout2674,,,,64.25,12.60,Uralic,Saami
+smj,Lule Sami,lule1254,,,,67.28,17.81,Uralic,Saami
+sme,Northern Sami,nort2671,,,,68.72,22.11,Uralic,Saami
+smn,Inari Sami,inar1241,,,,69.42,27.87,Uralic,Saami
+sms,Skolt Sami,skol1241,,,,68.83,29.72,Uralic,Saami
+sjd,Kildin Sami,kild1236,,,,68.22,35.83,Uralic,Saami
+mrj,Hill Mari,west2392,,,,56.33,46.33,Uralic,Mari
+mhr,Meadow Mari,east2328,,,,57.00,49.50,Uralic,Mari
+mdf,Moksha,moks1248,,,,54.19,42.67,Uralic,Mordvin
+myv,Erzya,erzy1239,,,,53.00,45.50,Uralic,Mordvin
+udm,Udmurt,udmu1245,,,,56.13,52.64,Uralic,Permian
+koi,Komi-Permyak,komi1269,,,,59.66,54.80,Uralic,Permian
+kpv,Komi-Zyrian,komi1268,,,,64.05,54.95,Uralic,Permian
+hun,Hungarian,hung1274,,,,46.91,19.66,Uralic,Hungarian
+kca,Northern Khanty,khan1273,,,,62.43,66.12,Uralic,Khantyic
+mns,Northern Mansi,mans1258,,,,64.41,61.34,Uralic,Mansic
+sel,Northern Selkup,selk1253,,,,59.94,82.30,Uralic,Samoyedic
+yrk,Tundra Nenets,nene1249,,,,66.18,71.02,Uralic,Samoyedic
+enf,Forest Enets,fore1265,,,,69.98,88.21,Uralic,Samoyedic
+nio,Nganasan,ngan1291,,,,73.14,86.21,Uralic,Samoyedic
+ben,Bengali,beng1280,,,,24.00,90.00,Indo-European,Indo-Aryan
+hin,Hindi,hind1269,,,,27.20,78.00,Indo-European,Indo-Aryan
+pbu,Northern Pashto,nort2646,,,,32.10,67.20,Indo-European,Iranian
+pes,Western Farsi,west2369,,,,28.66,55.16,Indo-European,Iranian
+kmr,Northern Kurdish,nort2641,,,,37.00,43.00,Indo-European,Iranian
+oss,Ossetian,osse1243,,,,43.18,44.23,Indo-European,Iranian
+hye,Armenian,nucl1235,,,,40.00,45.00,Indo-European,Armenic
+ell,Modern Greek,mode1248,,,,38.00,23.75,Indo-European,Graeco-Phrygian
+sqi,Standard Albanian,alba1267,,,,41.33,19.85,Indo-European,Albanian
+bul,Bulgarian,bulg1262,,,,42.70,23.80,Indo-European,Balto-Slavic
+hrv,Croatian,croa1245,,,,45.20,16.83,Indo-European,Balto-Slavic
+slv,Slovene,slov1268,,,,46.25,14.78,Indo-European,Balto-Slavic
+slk,Slovak,slov1269,,,,48.55,18.78,Indo-European,Balto-Slavic
+ces,Czech,czec1258,,,,49.87,15.10,Indo-European,Balto-Slavic
+pol,Polish,poli1260,,,,51.84,18.63,Indo-European,Balto-Slavic
+ukr,Ukrainian,ukra1253,,,,50.25,28.65,Indo-European,Balto-Slavic
+bel,Belarusian,bela1254,,,,53.23,25.60,Indo-European,Balto-Slavic
+rus,Russian,russ1263,,,,57.60,39.80,Indo-European,Balto-Slavic
+lit,Lithuanian,lith1251,,,,55.14,23.96,Indo-European,Balto-Slavic
+lav,Latvian,latv1249,,,,56.83,24.31,Indo-European,Balto-Slavic
+isl,Icelandic,icel1247,,,,63.48,-19.02,Indo-European,Germanic
+nor,Norwegian (Bokmål),norw1258,,,,59.92,10.71,Indo-European,Germanic
+swe,Swedish,swed1254,,,,59.80,17.39,Indo-European,Germanic
+dan,Danish,dani1285,,,,55.60,12.50,Indo-European,Germanic
+deu,German,stan1295,,,,52.27,10.50,Indo-European,Germanic
+nld,Dutch,dutc1256,,,,52.00,5.00,Indo-European,Germanic
+eng,English,stan1293,,,,53.00,-1.00,Indo-European,Germanic
+gle,Irish,iris1253,,,,53.22,-7.62,Indo-European,Celtic
+cym,Welsh,wels1247,,,,52.00,-4.00,Indo-European,Celtic
+bre,Breton,bret1244,,,,48.25,-3.79,Indo-European,Celtic
+lat,Latin,lati1261,,,,41.90,12.45,Indo-European,Italic
+fra,French,stan1290,,,,48.00,2.00,Indo-European,Italic
+cat,Catalan,stan1289,,,,41.45,1.57,Indo-European,Italic
+spa,Spanish,stan1288,,,,42.25,-3.70,Indo-European,Italic
+por,Portuguese,port1283,,,,39.91,-8.10,Indo-European,Italic
+ita,Italian,ital1282,,,,43.05,12.65,Indo-European,Italic
+ron,Romanian,roma1327,,,,46.39,24.23,Indo-European,Italic
+tur,Turkish,nucl1301,,,,39.87,32.87,Turkic,West Oghuz
+azj,North Azerbaijani,nort2697,,,,40.40,49.60,Turkic,West Oghuz
+uzn,Northern Uzbek,nort2690,,,,39.65,67.00,Turkic,Uzbek
+kaz,Kazakh,kaza1248,,,,49.80,73.15,Turkic,Kipchak
+bak,Bashkir,bash1264,,,,53.60,56.56,Turkic,Kipchak
+tat,Tatar,tata1255,,,,55.00,50.00,Turkic,Kipchak
+sah,Sakha,yaku1245,,,,62.00,130.00,Turkic,North Siberian Turkic
+chv,Chuvash,chuv1255,,,,55.49,47.16,Turkic,Bolgar
+khk,Khalkha Mongolian,halh1238,,,,48.32,106.29,Mongolic,Eastern Mongolic
+bua,Buryat,buri1258,,,,51.83,107.60,Mongolic,Eastern Mongolic
+xal,Kalmyk,kalm1243,,,,46.57,45.32,Mongolic,Eastern Mongolic
+evn,Evenki,even1259,,,,65.75,105.30,Tungusic,Northern Tungusic
+mnc,Manchu,manc1252,,,,47.31,126.56,Tungusic,Manchu-Jurchen
+gld,Nanai,nana1257,,,,48.43,134.80,Tungusic,Central Tungusic
+ket,Ket,kett1243,,,,63.76,87.55,Yeniseian,Northern Yeniseian
+ykg,Northern Yukaghir,nort2745,,,,69.00,155.00,Yukaghir,Northern Yukaghir
+yux,Southern Yukaghir,sout2750,,,,65.75,150.83,Yukaghir,Kolymic
+itl,Itelmen,itel1242,,,,56.78,156.91,Chukotko-Kamchatkan,Itelmen
+ckt,Chukchi,chuk1273,,,,68.64,170.04,Chukotko-Kamchatkan,Chukotian
+niv,Nivkh,gily1242,,,,52.59,140.68,Nivkh,Nivkh
+ain,Hokkaido Ainu,ainu1240,,,,43.63,142.46,Ainu,Hokkaido-Kuril Ainu
+kor,Korean,kore1280,,,,37.50,128.00,Koreanic,Korean
+jpn,Japanese,nucl1643,,,,35.00,135.00,Japonic,Japanesic
+ale,Aleut,aleu1260,,,,52.12,-174.29,Eskimo-Aleut,Aleut
+ess,Central Siberian Yupik,cent2128,,,,63.43,-170.27,Eskimo-Aleut,Eskimo
+kal,Kalaallisut,kala1399,,,,69.38,-52.86,Eskimo-Aleut,Eskimo
+kan,Kannada,nucl1305,,,,13.59,76.12,Dravidian,South Dravidian
+mal,Malayalam,mala1464,,,,9.59,76.77,Dravidian,South Dravidian
+tam,Tamil,tami1289,,,,10.52,78.83,Dravidian,South Dravidian
+tel,Telugu,telu1262,,,,16.45,78.70,Dravidian,South Dravidian
+bsk,Burushaski,buru1296,,,,36.22,74.82,Burushaski,Burushaski
+kat,Georgian,nucl1302,,,,41.85,43.79,Kartvelian,Georgian-Zan
+eus,Basque,basq1248,,,,43.28,-1.32,Basque,Basque
+abk,Abkhaz,abkh1244,,,,43.06,41.16,Abkhaz-Adyge,Abkhaz-Abaza
+ady,Adyghe,adyg1241,,,,44.65,40.00,Abkhaz-Adyge,Circassian
+ava,Avar,avar1256,,,,41.70,46.56,Nakh-Daghestanian,Daghestanian
+ddo,Tsez,dido1241,,,,42.26,45.81,Nakh-Daghestanian,Daghestanian
+lbe,Lak,lakk1252,,,,42.13,47.08,Nakh-Daghestanian,Daghestanian
+lez,Lezgian,lezg1247,,,,41.52,47.90,Nakh-Daghestanian,Daghestanian
+dar,Dargwa,darg1241,,,,42.43,47.44,Nakh-Daghestanian,Daghestanian
+che,Chechen,chec1245,,,,43.50,45.50,Nakh-Daghestanian,Nakh
+arb,Standard Arabic,stan1318,,,,27.96,43.85,Afro-Asiatic,Semitic
+heb,Modern Hebrew,hebr1245,,,,31.11,35.02,Afro-Asiatic,Semitic
+cmn,Mandarin Chinese,mand1415,,,,40.02,116.23,Sino-Tibetan,Sinitic
