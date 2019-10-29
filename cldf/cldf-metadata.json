@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/northeuralex",
-            "dc:created": "v2.0.2-1-g1dcf2f7"
+            "dc:created": "v2.0.2-3-ga4b8d14"
         },
         {
             "rdf:type": "prov:Entity",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 121612,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -156,7 +156,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 107,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -226,7 +226,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1015,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
