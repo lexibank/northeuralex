@@ -52,7 +52,7 @@ class Dataset(BaseDataset):
 
         # add the concepts from the concept list
         concept_lookup = {}
-        for concept in self.conceptlist.concepts.values():
+        for concept in self.conceptlists[0].concepts.values():
             cid = "%s_%s" % (concept.id.split("-")[-1], slug(concept.english))
             args.writer.add_concept(
                 ID=cid,
