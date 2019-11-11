@@ -7,17 +7,17 @@ from pylexibank.util import progressbar
 
 
 @attr.s
-class NLLexeme(Lexeme):
+class CustomLexeme(Lexeme):
     Orthography = attr.ib(default=None)
 
 
 @attr.s
-class NLConcept(Concept):
+class CustomConcept(Concept):
     NorthEuralex_Gloss = attr.ib(default=None)
 
 
 @attr.s
-class NLLanguage(Language):
+class CustomLanguage(Language):
     Subfamily = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     Latitude = attr.ib(default=None)
@@ -26,22 +26,14 @@ class NLLanguage(Language):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "northeuralex"
-    lexeme_class = NLLexeme
-    concept_class = NLConcept
-    language_class = NLLanguage
+    lexeme_class = CustomLexeme
+    concept_class = CustomConcept
+    language_class = CustomLanguage
 
     def cmd_download(self, args):
         self.raw_dir.download(
-            "http://www.northeuralex.org/static/downloads/northeuralex-cldf.csv",
-            "nelex.tsv",
-            log=self.log,
+            "http://www.northeuralex.org/static/downloads/northeuralex-cldf.csv", "nelex.tsv"
         )
-
-    def split_forms(self, row, value):
-        """
-        We make sure to always only yield one form per raw lexeme.
-        """
-        return BaseDataset.split_forms(self, row, value)[:1]
 
     def cmd_makecldf(self, args):
         # add the bibliographic sources
@@ -66,7 +58,7 @@ class Dataset(BaseDataset):
         # add items
         lexeme_rows = self.raw_dir.read_csv("nelex.tsv", delimiter="\t", dicts=True)
         for row in progressbar(lexeme_rows):
-            lex = args.writer.add_form(
+            args.writer.add_form(
                 Language_ID=row["Language_ID"],
                 Parameter_ID=concept_lookup[row["Concept_ID"]],
                 Value=row["Word_Form"],
