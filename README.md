@@ -1,4 +1,4 @@
-# CLDF dataset derived from Dellert's et al. "NorthEuraLex (Version 0.9)" from 2020
+# CLDF dataset derived from Dellert et al.'s "NorthEuraLex (Version 0.9)" from 2020
 
 Cite the source dataset as
 

@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-sa/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Dellert's et al. \"NorthEuraLex (Version 0.9)\" from 2020",
+    "dc:title": "CLDF dataset derived from Dellert et al.'s \"NorthEuraLex (Version 0.9)\" from 2020",
     "dcat:accessURL": "https://github.com/lexibank/northeuralex",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/northeuralex",
-            "dc:created": "v3.0"
+            "dc:created": "v3.0-1-g2fcbde9"
         },
         {
             "rdf:type": "prov:Entity",
