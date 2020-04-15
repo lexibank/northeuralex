@@ -1,7 +1,7 @@
 {
     "url": "http://www.northeuralex.org",
     "conceptlist": "Dellert-2017-1016",
-    "citation": "Dellert, Johannes and Jäger, Gerhard (2017): NorthEuraLex (Version 0.9). Tübingen: Eberhard-Karls University.",
+    "citation": "Dellert, J., Daneyko, T., Münch, A. et al (2020). NorthEuraLex (Version 0.9). Lang Resources and Evaluation. https://doi.org/10.1007/s10579-019-09480-6",
     "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-    "title": "NorthEuraLex"
+    "title": "CLDF dataset derived from Dellert's et al. \"NorthEuraLex (Version 0.9)\" from 2020"
 }

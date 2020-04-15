@@ -2,6 +2,8 @@
 
 Name | GitHub user | Role
 --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
-Robert Forkel | @xrotwang | maintainer
-Tiago Tresoldi | @tresoldi | maintainer
+Tiago Tresoldi | @tresoldi | patron | Author
+Johann-Mattis List | @LinguList | code, integration | Author
+Robert Forkel | @xrotwang | code, integration | Author
+Johannes Dellert | | editor | DataCurator, DataManager
+Pavel Sofroniev | @pavelsof | original team cdlf curation | DataCurator, DataManager

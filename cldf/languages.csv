@@ -30,7 +30,7 @@ hin,Hindi,hind1269,Hindi,hin,Eurasia,27.20,78.00,Indo-European,Indo-Aryan
 pbu,Northern Pashto,nort2646,Northern Pashto,pbu,Eurasia,32.10,67.20,Indo-European,Iranian
 pes,Western Farsi,west2369,Western Farsi,pes,Eurasia,28.66,55.16,Indo-European,Iranian
 kmr,Northern Kurdish,nort2641,Northern Kurdish,kmr,Eurasia,37.00,43.00,Indo-European,Iranian
-oss,Ossetian,osse1243,Ossetian,oss,Eurasia,43.18,44.23,Indo-European,Iranian
+oss,Ossetian,osse1243,Modern Ossetic,,Eurasia,43.18,44.23,Indo-European,Iranian
 hye,Armenian,nucl1235,Eastern Armenian,hye,Eurasia,40.00,45.00,Indo-European,Armenic
 ell,Modern Greek,mode1248,Modern Greek,ell,Eurasia,38.00,23.75,Indo-European,Graeco-Phrygian
 sqi,Standard Albanian,alba1267,Albanian,sqi,Eurasia,41.33,19.85,Indo-European,Albanian
@@ -87,7 +87,7 @@ kor,Korean,kore1280,Korean,kor,Eurasia,37.50,128.00,Koreanic,Korean
 jpn,Japanese,nucl1643,Japanese,jpn,Eurasia,35.00,135.00,Japonic,Japanesic
 ale,Aleut,aleu1260,Aleut,ale,North America,52.12,-174.29,Eskimo-Aleut,Aleut
 ess,Central Siberian Yupik,cent2128,Central Siberian Yupik,ess,Eurasia,63.43,-170.27,Eskimo-Aleut,Eskimo
-kal,Kalaallisut,kala1399,Kalaallisut,kal,Eurasia,69.38,-52.86,Eskimo-Aleut,Eskimo
+kal,Kalaallisut,kala1399,Kalaallisut,kal,North America,69.38,-52.86,Eskimo-Aleut,Eskimo
 kan,Kannada,nucl1305,Kannada,kan,Eurasia,13.59,76.12,Dravidian,South Dravidian
 mal,Malayalam,mala1464,Malayalam,mal,Eurasia,9.59,76.77,Dravidian,South Dravidian
 tam,Tamil,tami1289,Tamil,tam,Eurasia,10.52,78.83,Dravidian,South Dravidian
