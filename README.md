@@ -1,8 +1,8 @@
-# NorthEuraLex
+# CLDF dataset derived from Dellert et al.'s "NorthEuraLex (Version 0.9)" from 2020
 
 Cite the source dataset as
 
-> Dellert, Johannes and Jäger, Gerhard (2017): NorthEuraLex (Version 0.9). Tübingen: Eberhard-Karls University.
+> Dellert, J., Daneyko, T., Münch, A. et al (2020). NorthEuraLex (Version 0.9). Lang Resources and Evaluation. https://doi.org/10.1007/s10579-019-09480-6
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-sa/4.0/ license
 
@@ -36,3 +36,15 @@ This large database covers several languages of Northern Eurasia. For the conver
 - **Tokens:** 705,187
 - **Segments:** 555 (0 BIPA errors, 0 CTLS sound class errors, 555 CLTS modified)
 - **Inventory size (avg):** 49.45
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Tiago Tresoldi | @tresoldi | patron | Author
+Johann-Mattis List | @LinguList | code, integration | Author
+Robert Forkel | @xrotwang | code, integration | Author
+Johannes Dellert | | editor | DataCurator, DataManager
+Pavel Sofroniev | @pavelsof | original team cdlf curation | DataCurator, DataManager
+
+

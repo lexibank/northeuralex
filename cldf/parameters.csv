@@ -51,7 +51,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 50_hunger,hunger,1864,HUNGER,Hunger::N
 51_tear,tear,1651,TEAR (OF EYE),Träne::N
 52_flavour,flavour,2190,TASTE,Geschmack::N
-53_odour,odour,,,Geruch::N
+53_odour,odour,3704,ODOR (SMELL),Geruch::N
 54_sleep,sleep,2972,SLEEP (STATE),Schlaf::N
 55_dream,dream,2374,DREAM,Traum::N
 56_sky,sky,1732,SKY,Himmel::N
@@ -84,7 +84,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 83_rainbow,rainbow,1733,RAINBOW,Regenbogen::N
 84_thunder,thunder,1150,THUNDER,Donner::N
 85_current,current,2935,CURRENT (STREAM),Strömung::N
-86_drop,drop,,,Tropfen::N
+86_drop,drop,3748,DROP (OF A LIQUID),Tropfen::N
 87_foam,foam,1768,FOAM,Schaum::N
 88_dirt,dirt,25,DIRT,Schmutz::N
 89_lake,lake,624,LAKE,See::N
@@ -286,7 +286,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 285_heap,heap,2984,HEAP,Haufen::N
 286_row,row,,,Reihe::N
 287_boat,boat,1844,BOAT,Boot::N
-288_oar,oar,234,PADDLE,Ruder::N
+288_oar,oar,3137,OAR,Ruder::N
 289_sleigh,sleigh,16,SLED,Schlitten::N
 290_ski,ski,2991,SKI,Ski::N
 291_campfire,campfire,2986,CAMPFIRE,Lagerfeuer::N
@@ -350,7 +350,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 349_dish,dish,,,Speise::N
 350_meat,meat,634,MEAT,Fleisch::N
 351_corn,corn,,,Getreide::N
-352_mush,mush,,,Brei::N
+352_mush,mush,3651,MUSH (FOOD),Brei::N
 353_bread,bread,1368,BREAD,Brot::N
 354_slice,slice,2954,SLICE,Scheibe::N
 355_fat,fat,323,FAT (ORGANIC SUBSTANCE),Fett::N
@@ -441,7 +441,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 440_arrow,arrow,977,ARROW,Pfeil::N
 441_gun,gun,1566,GUN,Gewehr::N
 442_mistake,mistake,1293,MISTAKE,Fehler::N
-443_lie,lie,475,UNTRUTH,Lüge::N
+443_lie,lie,2826,LIE (FALSEHOOD),Lüge::N
 444_damage,damage,2947,DAMAGE (INJURY),Schaden::N
 445_misfortune,misfortune,56,BAD LUCK,Unglück::N
 446_fault,fault,134,FAULT,Schuld::N
@@ -713,7 +713,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 712_dropdescend,"drop, descend",,,sinken::V
 713_decrease,decrease,2864,DECREASE,abnehmen::V
 714_increase,increase,1041,INCREASE,zunehmen::V
-715_rise,rise,705,GO UP (ASCEND),steigen::V
+715_rise,rise,,,steigen::V
 716_grow,grow,479,GROW,wachsen::V
 717_shine,shine,,,glänzen::V
 718_sparkletwinkle,"sparkle, twinkle",2889,TWINKLE,funkeln::V
@@ -907,10 +907,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 906_cover,cover,,,zudecken::V
 907_wake,wake,3174,WAKE UP (SOMEONE),wecken::V
 908_show,show,1039,SHOW,zeigen::V
-909_guide,guide,,,führen::V
+909_guide,guide,43,LEAD (GUIDE),führen::V
 910_teach,teach,709,TEACH,lehren::V
 911_instruct,instruct,,,unterrichten::V
-912_bringup,bring up,2134,RAISE (A CHILD),aufziehen::V
+912_bringup,bring up,2134,RAISE (BRING UP),aufziehen::V
 913_lead,lead,43,LEAD (GUIDE),leiten::V
 914_urge,urge,2881,URGE (SOMEONE),antreiben::V
 915_let,let,2896,CAUSE TO (LET),lassen::V
@@ -918,7 +918,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 917_unite,unite,1743,JOIN,vereinigen::V
 918_visit,visit,1377,VISIT,besuchen::V
 919_meet,meet,1831,MEET,treffen::V
-920_assemble,assemble,,,sich versammeln::V
+920_assemble,assemble,3638,ASSEMBLE (GET TOGETHER),sich versammeln::V
 921_play,play,1413,PLAY,spielen::V
 922_sing,sing,1261,SING,singen::V
 923_dance,dance,1879,DANCE,tanzen::V
