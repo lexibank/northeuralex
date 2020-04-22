@@ -39,8 +39,8 @@ This large database covers several languages of Northern Eurasia. For the conver
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
 Tiago Tresoldi | @tresoldi | patron | Author
 Johann-Mattis List | @LinguList | code, integration | Author
 Robert Forkel | @xrotwang | code, integration | Author

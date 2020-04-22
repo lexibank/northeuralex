@@ -72,7 +72,7 @@ sah,Sakha,yaku1245,Sakha,sah,Eurasia,62.00,130.00,Turkic,North Siberian Turkic
 chv,Chuvash,chuv1255,Chuvash,chv,Eurasia,55.49,47.16,Turkic,Bolgar
 khk,Khalkha Mongolian,halh1238,Halh Mongolian,khk,Eurasia,48.32,106.29,Mongolic,Eastern Mongolic
 bua,Buryat,buri1258,Buriat,bua,Eurasia,51.83,107.60,Mongolic,Eastern Mongolic
-xal,Kalmyk,kalm1243,Oirad-Kalmyk,xal,Eurasia,46.57,45.32,Mongolic,Eastern Mongolic
+xal,Kalmyk,kalm1243,Oirad-Kalmyk-Darkhat,xal,Eurasia,46.57,45.32,Mongolic,Eastern Mongolic
 evn,Evenki,even1259,Evenki,evn,Eurasia,65.75,105.30,Tungusic,Northern Tungusic
 mnc,Manchu,manc1252,Manchu,mnc,Eurasia,47.31,126.56,Tungusic,Manchu-Jurchen
 gld,Nanai,nana1257,Nanai,gld,Eurasia,48.43,134.80,Tungusic,Central Tungusic
@@ -81,7 +81,7 @@ ykg,Northern Yukaghir,nort2745,Northern Yukaghir,ykg,Eurasia,69.00,155.00,Yukagh
 yux,Southern Yukaghir,sout2750,Southern Yukaghir,yux,Eurasia,65.75,150.83,Yukaghir,Kolymic
 itl,Itelmen,itel1242,West Itelmen,itl,Eurasia,56.78,156.91,Chukotko-Kamchatkan,Itelmen
 ckt,Chukchi,chuk1273,Chukchi,ckt,Eurasia,68.64,170.04,Chukotko-Kamchatkan,Chukotian
-niv,Nivkh,gily1242,Nivkh,niv,Eurasia,52.59,140.68,Nivkh,Nivkh
+niv,Nivkh,gily1242,Amur Nivkh,niv,Eurasia,52.59,140.68,Nivkh,Nivkh
 ain,Hokkaido Ainu,ainu1240,Hokkaido Ainu,ain,Eurasia,43.63,142.46,Ainu,Hokkaido-Kuril Ainu
 kor,Korean,kore1280,Korean,kor,Eurasia,37.50,128.00,Koreanic,Korean
 jpn,Japanese,nucl1643,Japanese,jpn,Eurasia,35.00,135.00,Japonic,Japanesic
@@ -95,7 +95,7 @@ tel,Telugu,telu1262,Telugu,tel,Eurasia,16.45,78.70,Dravidian,South Dravidian
 bsk,Burushaski,buru1296,Burushaski,bsk,Eurasia,36.22,74.82,Burushaski,Burushaski
 kat,Georgian,nucl1302,Georgian,kat,Eurasia,41.85,43.79,Kartvelian,Georgian-Zan
 eus,Basque,basq1248,Basque,eus,Eurasia,43.28,-1.32,Basque,Basque
-abk,Abkhaz,abkh1244,Abkhazian,abk,Eurasia,43.06,41.16,Abkhaz-Adyge,Abkhaz-Abaza
+abk,Abkhaz,abkh1244,Abkhaz,abk,Eurasia,43.06,41.16,Abkhaz-Adyge,Abkhaz-Abaza
 ady,Adyghe,adyg1241,Adyghe,ady,Eurasia,44.65,40.00,Abkhaz-Adyge,Circassian
 ava,Avar,avar1256,Avar,ava,Eurasia,41.70,46.56,Nakh-Daghestanian,Daghestanian
 ddo,Tsez,dido1241,Tsez,ddo,Eurasia,42.26,45.81,Nakh-Daghestanian,Daghestanian
