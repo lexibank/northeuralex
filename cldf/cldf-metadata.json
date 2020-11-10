@@ -18,19 +18,19 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/northeuralex",
-            "dc:created": "v3.0-3-g6f277e8"
+            "dc:created": "v3.0-5-g8707b9f"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1"
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.7"
+            "dc:description": "3.7.9"
         },
         {
             "dc:title": "python-packages",

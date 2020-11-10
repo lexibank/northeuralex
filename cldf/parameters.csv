@@ -35,7 +35,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 34_foot,foot,1301,FOOT,Fuß::N
 35_heel,heel,980,HEEL,Ferse::N
 36_knee,knee,1371,KNEE,Knie::N
-37_thigh,thigh,800,THIGH,Oberschenkel::N
+37_thigh,thigh,471,UPPER LEG (THIGH),Oberschenkel::N
 38_leg,leg,1297,LEG,Bein::N
 39_body,body,1480,BODY,Körper::N
 40_skin,skin,763,SKIN,Haut::N
@@ -99,7 +99,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 98_cave,cave,1155,CAVE,Höhle::N
 99_slope,slope,3076,SLOPE,Abhang::N
 100_source,source,849,SPRING (OF WATER),Quelle::N
-101_brook,brook,,,Bach::N
+101_brook,brook,3821,BROOK,Bach::N
 102_river,river,666,RIVER,Fluss::N
 103_shore,shore,3464,SHORE OF LAKE,Ufer::N
 104_coast,coast,1525,COAST,Küste::N

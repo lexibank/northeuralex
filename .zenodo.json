@@ -1,0 +1,47 @@
+{
+    "title": "CLDF dataset derived from Dellert et al.'s \"NorthEuraLex (Version 0.9)\" from 2020",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Robert Forkel"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johannes Dellert",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Johannes Dellert",
+            "type": "DataManager"
+        },
+        {
+            "name": "Pavel Sofroniev",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Pavel Sofroniev",
+            "type": "DataManager"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dellert, J., Daneyko, T., M\u00fcnch, A. et al (2020). NorthEuraLex (Version 0.9). Lang Resources and Evaluation. https://doi.org/10.1007/s10579-019-09480-6</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-SA-4.0"
+    }
+}
