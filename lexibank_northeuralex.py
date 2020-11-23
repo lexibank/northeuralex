@@ -62,6 +62,6 @@ class Dataset(BaseDataset):
                 Language_ID=row["Language_ID"],
                 Parameter_ID=concept_lookup[row["Concept_ID"]],
                 Value=row["Word_Form"],
-                Form=row["rawIPA"],
+                Form=row["rawIPA"].strip(),
                 Source=["Dellert2020"],
             )

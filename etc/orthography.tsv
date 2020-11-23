@@ -5,7 +5,11 @@ Grapheme	IPA
 ˌ	NULL
 0	NULL
 |	NULL
-_	NULL
+_	+
+^_	NULL
+^-	NULL
+-$	NULL
+_$	NULL
 ̌	NULL
 ^ʲ	j
 ^ʷ	w
