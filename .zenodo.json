@@ -7,16 +7,22 @@
     ],
     "creators": [
         {
-            "name": "Tiago Tresoldi"
-        },
-        {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Robert Forkel"
+            "name": "Johannes Dellert"
         }
     ],
     "contributors": [
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
         {
             "name": "Johannes Dellert",
             "type": "DataCurator"

@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/northeuralex",
-            "dc:created": "v3.0-6-g3062827"
+            "dc:created": "v3.0-7-g7f76bd9"
         },
         {
             "rdf:type": "prov:Entity",
