@@ -2,7 +2,7 @@ import attr
 from pathlib import Path
 from clldutils.misc import slug
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Lexeme, Concept, Language
+from pylexibank import Lexeme, Concept, Language, FormSpec
 from pylexibank.util import progressbar
 
 
@@ -29,6 +29,9 @@ class Dataset(BaseDataset):
     lexeme_class = CustomLexeme
     concept_class = CustomConcept
     language_class = CustomLanguage
+    form_spec = FormSpec(
+            replacements=[(" ", "_"), ('_..._', '-')]
+            )
 
     def cmd_download(self, args):
         self.raw_dir.download(
@@ -62,6 +65,6 @@ class Dataset(BaseDataset):
                 Language_ID=row["Language_ID"],
                 Parameter_ID=concept_lookup[row["Concept_ID"]],
                 Value=row["Word_Form"],
-                Form=row["rawIPA"].strip(),
+                Form=row["rawIPA"].strip().replace(' ', '_'),
                 Source=["Dellert2020"],
             )

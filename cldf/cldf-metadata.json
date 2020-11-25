@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/northeuralex",
-            "dc:created": "v3.0-8-gb945c96"
+            "dc:created": "v3.0-9-ge669443"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.6"
+            "dc:description": "3.6.12"
         },
         {
             "dc:title": "python-packages",
