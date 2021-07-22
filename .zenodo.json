@@ -48,6 +48,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Dellert, J., Daneyko, T., M\u00fcnch, A. et al (2020). NorthEuraLex (Version 0.9). Lang Resources and Evaluation. https://doi.org/10.1007/s10579-019-09480-6</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-SA-4.0"
+        "id": "CC-BY-4.0"
     }
 }

@@ -1,10 +1,18 @@
 # CLDF dataset derived from Dellert et al.'s "NorthEuraLex (Version 0.9)" from 2020
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/northeuralex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northeuralex/actions?query=workflow%3ACLDF-validation)
 
-> Dellert, J., Daneyko, T., Münch, A. et al (2020). NorthEuraLex (Version 0.9). Lang Resources and Evaluation. https://doi.org/10.1007/s10579-019-09480-6
+## How to cite
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-sa/4.0/ license
+If you use these data please cite
+- the original source
+  > Dellert, J., Daneyko, T., Münch, A. et al (2020). NorthEuraLex (Version 0.9). Lang Resources and Evaluation. https://doi.org/10.1007/s10579-019-09480-6
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
+
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://www.northeuralex.org
 
@@ -20,7 +28,7 @@ This large database covers several languages of Northern Eurasia. For the conver
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/northeuralex.svg?branch=master)](https://travis-ci.org/lexibank/northeuralex)
+[![CLDF validation](https://github.com/lexibank/northeuralex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/northeuralex/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 94%](https://img.shields.io/badge/Concepticon-94%25-green.svg "Concepticon: 94%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -48,3 +56,10 @@ Johannes Dellert | | editor | DataCurator, DataManager, Author
 Pavel Sofroniev | @pavelsof | original team cdlf curation | DataCurator, DataManager
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

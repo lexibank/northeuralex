@@ -417,7 +417,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 416_god,god,3231,DEITY,Gott::N
 417_worker,worker,2977,WORKER,Arbeiter::N
 418_boss,boss,2930,BOSS,Chef::N
-419_master,master,383,MASTER,Meister::N
+419_master,master,,,Meister::N
 420_doctor,doctor,597,PHYSICIAN,Arzt::N
 421_teacher,teacher,1038,TEACHER,Lehrer::N
 422_money,money,1559,MONEY,Geld::N
@@ -925,7 +925,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 924_separate,separate,1359,SEPARATE,sich trennen::V
 925_leave,leave,,,verlassen::V
 926_rescue,rescue,2008,RESCUE,retten::V
-927_guard,guard,1940,GUARD,bewachen::V
+927_guard,guard,,,bewachen::V
 928_protect,protect,2900,PROTECT,schützen::V
 929_defend,defend,1330,DEFEND,verteidigen::V
 930_brawl,brawl,2902,BRAWL (FIGHT),sich schlagen::V

@@ -1,37 +1,33 @@
 import attr
 from pathlib import Path
 from clldutils.misc import slug
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Lexeme, Concept, Language, FormSpec
-from pylexibank.util import progressbar
+import pylexibank
 
 
 @attr.s
-class CustomLexeme(Lexeme):
+class CustomLexeme(pylexibank.Lexeme):
     Orthography = attr.ib(default=None)
 
 
 @attr.s
-class CustomConcept(Concept):
+class CustomConcept(pylexibank.Concept):
     NorthEuralex_Gloss = attr.ib(default=None)
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     Subfamily = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     Latitude = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "northeuralex"
     lexeme_class = CustomLexeme
     concept_class = CustomConcept
     language_class = CustomLanguage
-    form_spec = FormSpec(
-            replacements=[(" ", "_"), ('_..._', '-')]
-            )
+    form_spec = pylexibank.FormSpec(replacements=[(" ", "_"), ("_..._", "-")])
 
     def cmd_download(self, args):
         self.raw_dir.download(
@@ -60,11 +56,11 @@ class Dataset(BaseDataset):
 
         # add items
         lexeme_rows = self.raw_dir.read_csv("nelex.tsv", delimiter="\t", dicts=True)
-        for row in progressbar(lexeme_rows):
+        for row in pylexibank.progressbar(lexeme_rows):
             args.writer.add_form(
                 Language_ID=row["Language_ID"],
                 Parameter_ID=concept_lookup[row["Concept_ID"]],
                 Value=row["Word_Form"],
-                Form=row["rawIPA"].strip().replace(' ', '_'),
+                Form=row["rawIPA"].strip().replace(" ", "_"),
                 Source=["Dellert2020"],
             )
