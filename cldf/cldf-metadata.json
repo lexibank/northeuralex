@@ -12,28 +12,28 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Dellert et al.'s \"NorthEuraLex (Version 0.9)\" from 2020",
-    "dcat:accessURL": "https://github.com/lexibank/northeuralex",
+    "dcat:accessURL": "https://github.com/justeuer/northeuralex",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/northeuralex",
+            "rdf:about": "https://github.com/justeuer/northeuralex",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-11-g7ae42d1",
+            "dc:created": "v4.0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.3-treedb-fixes-384-gf6531fcec3",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
+            "dc:created": "v2.4.0-123-g7de752b",
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
             "dc:created": "v2.1.0",
             "dc:title": "CLTS"
@@ -46,7 +46,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
