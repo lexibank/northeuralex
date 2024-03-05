@@ -70,9 +70,9 @@ bak,Bashkir,bash1264,Bashkir,bak,Eurasia,53.60,56.56,Turkic,Kipchak
 tat,Tatar,tata1255,Tatar,tat,Eurasia,55.00,50.00,Turkic,Kipchak
 sah,Sakha,yaku1245,Sakha,sah,Eurasia,62.00,130.00,Turkic,North Siberian Turkic
 chv,Chuvash,chuv1255,Chuvash,chv,Eurasia,55.49,47.16,Turkic,Bolgar
-khk,Khalkha Mongolian,halh1238,Halh Mongolian,khk,Eurasia,48.32,106.29,Mongolic,Eastern Mongolic
-bua,Buryat,buri1258,Buriat,bua,Eurasia,51.83,107.60,Mongolic,Eastern Mongolic
-xal,Kalmyk,kalm1243,Oirad-Kalmyk-Darkhat,xal,Eurasia,46.57,45.32,Mongolic,Eastern Mongolic
+khk,Khalkha Mongolian,halh1238,Halh Mongolian,khk,Eurasia,48.32,106.29,Mongolic-Khitan,Eastern Mongolic
+bua,Buryat,buri1258,Buriat,bua,Eurasia,51.83,107.60,Mongolic-Khitan,Eastern Mongolic
+xal,Kalmyk,kalm1243,Oirad-Kalmyk-Darkhat,xal,Eurasia,46.57,45.32,Mongolic-Khitan,Eastern Mongolic
 evn,Evenki,even1259,Evenki,evn,Eurasia,65.75,105.30,Tungusic,Northern Tungusic
 mnc,Manchu,manc1252,Manchu,mnc,Eurasia,47.31,126.56,Tungusic,Manchu-Jurchen
 gld,Nanai,nana1257,Nanai,gld,Eurasia,48.43,134.80,Tungusic,Central Tungusic

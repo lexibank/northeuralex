@@ -250,7 +250,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,NorthEuralex_Gloss
 249_company,company,2983,COMPANIONSHIP,Gesellschaft::N
 250_help,help,3467,HELP (ASSISTANCE),Hilfe::N
 251_friend,friend,1325,FRIEND,Freund::N
-252_companion,companion,,,Kamerad::N
+252_companion,companion,3978,COMPANION,Kamerad::N
 253_matter,matter,2214,AFFAIR,Angelegenheit::N
 254_count,count,2945,COUNT (QUANTITY),Anzahl::N
 255_sort,sort,844,KIND (THING),Art::N

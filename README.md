@@ -41,9 +41,9 @@ This large database covers several languages of Northern Eurasia. For the conver
 - **Sources:** 1
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 705,134
-- **Segments:** 555 (0 BIPA errors, 0 CTLS sound class errors, 553 CLTS modified)
-- **Inventory size (avg):** 49.46
+- **Tokens:** 699,898
+- **Segments:** 678 (0 BIPA errors, 0 CLTS sound class errors, 676 CLTS modified)
+- **Inventory size (avg):** 52.43
 
 # Contributors
 
