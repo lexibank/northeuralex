@@ -27,6 +27,7 @@ class Dataset(pylexibank.Dataset):
     lexeme_class = CustomLexeme
     concept_class = CustomConcept
     language_class = CustomLanguage
+    writer_options = dict(keep_languages=False, keep_parameters=False)
     form_spec = pylexibank.FormSpec(replacements=[(" ", "_"), ("_..._", "-")])
 
     def cmd_download(self, args):
