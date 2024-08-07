@@ -37,11 +37,11 @@ This large database covers several languages of Northern Eurasia. For the conver
 
 - **Varieties:** 107 (linked to 107 different Glottocodes)
 - **Concepts:** 1,016 (linked to 954 different Concepticon concept sets)
-- **Lexemes:** 121,612
+- **Lexemes:** 121,611
 - **Sources:** 1
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 699,898
+- **Tokens:** 699,892
 - **Segments:** 678 (0 BIPA errors, 0 CLTS sound class errors, 676 CLTS modified)
 - **Inventory size (avg):** 52.43
 

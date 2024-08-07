@@ -32,7 +32,7 @@ class Dataset(pylexibank.Dataset):
 
     def cmd_download(self, args):
         self.raw_dir.download(
-            "http://www.northeuralex.org/static/downloads/northeuralex-cldf.csv", "nelex.tsv"
+            "http://www.sfs.uni-tuebingen.de/~jdellert/northeuralex/0.9/northeuralex-0.9-forms.tsv", "nelex.tsv"
         )
 
     def cmd_makecldf(self, args):
