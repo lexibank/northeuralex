@@ -35,24 +35,25 @@ This large database covers several languages of Northern Eurasia. For the conver
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 107
-- **Concepts:** 1,016
-- **Lexemes:** 121,612
+- **Varieties:** 107 (linked to 107 different Glottocodes)
+- **Concepts:** 1,016 (linked to 954 different Concepticon concept sets)
+- **Lexemes:** 121,611
 - **Sources:** 1
 - **Synonymy:** 1.15
 - **Invalid lexemes:** 0
-- **Tokens:** 699,898
+- **Tokens:** 699,892
 - **Segments:** 678 (0 BIPA errors, 0 CLTS sound class errors, 676 CLTS modified)
 - **Inventory size (avg):** 52.43
 
 # Contributors
 
-Name | GitHub user | Description | Role
---- | --- | --- | ---
-Tiago Tresoldi | @tresoldi | patron | Other 
-Johann-Mattis List | @LinguList | code, integration | Other
-Robert Forkel | @xrotwang | code, integration | Other
-Johannes Dellert | | editor | DataCurator, DataManager, Author
+Name | GitHub user | Description                 | Role
+--- | --- |-----------------------------| ---
+Tiago Tresoldi | @tresoldi | patron                      | Other 
+Julius Steuer | @justeuer | orthographic profile        | Other
+Johann-Mattis List | @LinguList | code, integration           | Editor
+Robert Forkel | @xrotwang | code, integration           | Editor
+Johannes Dellert | | editor                      | DataCurator, DataManager, Author
 Pavel Sofroniev | @pavelsof | original team cdlf curation | DataCurator, DataManager
 
 
